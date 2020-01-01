@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>A01: What are Breakpoints</title>
+  <meta name="description" content="Devices don’t come in fixed sizes such as extra-small (wearables), small (smartphone), medium (tablet), large (laptop), and extra-large (desktop). Yet, this ...">
+
+  <link rel="stylesheet" href="https://garyrozanc.com//students/css/main.css">
+  <link rel="canonical" href="https://garyrozanc.com//students/art336/a01-what-are-breakpoints.html">
+  <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com//students/feed.xml">
+</head>
+
+	
+	<body id="top">
+		
+		<div class="wrap">
+		<div class="icon-top">
+	<a href="#top" alt="Back to top of page" class="scroll"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path d="M0 50c0 27.6 22.4 50 50 50 27.6 0 50-22.4 50-50S77.6 0 50 0C22.4 0 0 22.4 0 50zM51.1 19.8L87 58.1c0.6 0.6 0.6 1.8 0 2.4L76.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L50 46.7 26.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L12.9 60.5c-0.3-0.4-0.4-0.7-0.4-1.2s0.2-0.8 0.4-1.2l35.9-38.3C49.5 19.2 50.5 19.2 51.1 19.8z"/></svg></a>
+</div><!-- icon-top -->
+
+    <div class="icon-close">
+    		<a href="/students/art336" alt="Back Button"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path class="st0" d="M50 0C22.4 0 0 22.4 0 50c0 27.6 22.4 50 50 50s50-22.4 50-50C100 22.4 77.6 0 50 0zM80.7 70.1L70.1 80.7c-0.6 0.6-1.5 0.6-2.1 0l-18-18 -18 18c-0.6 0.6-1.5 0.6-2.1 0L19.3 70.1c-0.6-0.6-0.6-1.5 0-2.1l18-18 -18-18c-0.6-0.6-0.6-1.5 0-2.1l10.6-10.6c0.6-0.6 1.5-0.6 2.1 0l18 18 18-18c0.6-0.6 1.5-0.6 2.1 0l10.6 10.6c0.6 0.6 0.6 1.5 0 2.1l-18 18 18 18C81.3 68.6 81.3 69.5 80.7 70.1z"/></svg></a>
+</div><!-- close -->
+
+	<header role="banner" class="assignments">
+    
+	    <h1>A01: What are Breakpoints</h1>
+	    
+	    <div class="assignment-meta-info">
+		    <span class="assignment-course-number">Art 336</span>
+		    <span class="assignment-due">
+			    Due:
+					
+			    						
+				
+					<span class="red">
+				
+				Mon, Jan 28, 2019</span>
+			</span>
+			
+			<span class="assignment-points">Points: 5</span></span>
+			
+	    </div>
+	    
+	</header>
+	
+    <div>
+    		<p>Devices don’t come in fixed sizes such as extra-small (wearables), small (smartphone), medium (tablet), large (laptop), and extra-large (desktop). Yet, this is how emerging designers approach designing for the web. They start designing using the size of their own device and stop there. On occasion an emerging designer will create a second design for a different sized device. Notice I wrote <em>create a second design</em>. When someone visits a website the experience—both functionally and visually—should be seamless across devices. This is a vastly different concept needing a unique design approach, not simply <em>creating a second design</em>.</p>
+
+<p>To keep visual designs seamless across devices and operating systems (think Android or iOS), the industry has shifted towards creating <a href="https://www.smashingmagazine.com/design-systems-book/">Design Systems</a>, not web pages or apps. A well thought out design system contains the elements that construct a website or app such as a search function, navigation, headlines and images. Basically, designing a website from the inside out. This approach allows the element to be seamless across multiple devices and platforms.</p>
+
+<p>However, what do design systems have to do with breakpoints and what are breakpoints? We will talk a lot about design systems as the semester goes along. For now, all you need to know is that you don’t design for specific devices, you design for content and you need to identify breakpoints for the content, not device sizes! So don’t think in terms of webpages or devices, think of <em>content types</em> when determining breakpoints.</p>
+
+<p>So what is a <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp">Breakpoint</a>? While not a technical answer, take the term literally for a clue. You identify the breakpoint of the content such as a three column gird containing text by determining the size of the open browser window when the content <em>breaks</em>. For example, at what <em>point</em> does the three columns of text <em>break</em>—become difficult for the site visitor to read. When the content <em>breaks</em> that is the <em>point</em> where there needs to be a breakpoint (adjustment) to the design. Notice I wrote <em>adjustment</em> not <em>new</em> design.</p>
+
+<h2 id="identifying-breakpoints">Identifying Breakpoints</h2>
+<p>There are no hard and fast rules to determining breakpoints. Don’t think small, medium, large or phone, tablet, desktop. Focus on the content types. Typography (textual content) and its readability is great for determining breakpoints. As you learned in you beginning typography course, there are ideal line reading lengths and other things to consider when reading long form text. Simply trying to read a webpage’s text while adjusting your browser window or using a tool like Brad Frost’s <a href="http://bradfrost.com/demo/ish/">Ish</a> which <a href="http://garyrozanc.net/ish/#hay">I have setup for you on the class blog</a> is a good place to start.</p>
+
+<p>Another important type of content to consider are micro-interactions like buttons and forms. On a non-touch device, you will most likely have a mouse. The precision of a mouse cursor makes it relatively easy to click on a button if you have designed clearly enough for the user to identify it is a button. Precision is lost when the site visitor is <a href="https://www.lukew.com/ff/entry.asp?1927">using a touch device</a>. Buttons and other input types like forms will need to be bigger to accommodate human fingers. However, the location of the button needs to be taken into consideration. When someone is using a mouse, they generally have access to the entire screen. When someone is holding a phone in their hand, they may only have easy access to a very limited area of the screen with the use on only one hand. Throw in larger hand held touch devices like tablets and you begin to understand all the decisions designers need to make.</p>
+
+<p><img src="../img/art336-smartphone-reach-area.png" alt="Smartphone Reach Area - provided by Luke Wroblewski" /></p>
+
+<p>Another content type easy to identify breakpoints for are images. When you crop an image suitable for a wide screen you can’t assume it still works when scaled to fit within a skinnier screen width. A good example of this is an image of President Barack Obama being sworn in. A wider version lets the viewer see Justice Kennedy, and President Obama with his family looking on. On a skinny screen the image is scaled to fit and the content <em>breaks</em> making it hard to see details of President Obama, the original intent of the image. This is where a breakpoint can be inserted that art directs the image to be cropped into President Obama and Michelle Obama to retain detail. Another breakpoint can be added to adjust the design to further crop into President Obama.</p>
+
+<p><img src="../img/art336-obama-inaguation.jpg" alt="Wide Crop - President Barak Obama Inauguration" /></p>
+
+<p><img src="../img/art336-obama-inaguation-crop-01.jpg" alt="Medium Crop - President Barak Obama Inauguration" /></p>
+
+<p><img src="../img/art336-obama-inaguation-crop-02.jpg" alt="Skinny Crop - President Barak Obama Inauguration" /></p>
+
+<h2 id="your-task-for-the-day">Your Task for the Day</h2>
+<p>Now that you know what breakpoints are, I want you to review several websites and identify <strong>one element</strong> within <strong>one website</strong> that has <strong>three or more breakpoints</strong>. You must demonstrate the element’s breakpoints by recording the change using QuickTime to create a .mov file or create a screenshot of each breakpoint. You will upload either one QuickTime movie or 3 screenshots via the DropBox link by the end of class that demonstrate the changing breakpoint. You can not use the websites listed above.</p>
+
+<h3 id="tip">Tip</h3>
+<p>Don’t over think this. As I mentioned there are no perfect examples. Simply visit a website and resize the browser window and look for an element that changes at least three or more times. The changes may be slight, so don’t worry if you can’t find extreme examples like I have shown you.</p>
+
+<h2 id="grading">Grading</h2>
+<p>This assignment will be worth 5 points and is due at the end of class. Name the files exactly as follows (all lowercase with hyphens and no blank spaces) <strong>what-are-breakpoints-firstname-lastname-0(1-3).(jpg, png,mov,mp4)</strong>, and upload the file via the DropBox link by the end of class.</p>
+<ul>
+  <li><strong>4–5:</strong> You demonstrated 3 breakpoint changes.</li>
+  <li><strong>1–3:</strong> You demonstrated 1 or 2 breakpoint changes.</li>
+  <li><strong>0:</strong> You did’t turn in the assignment.</li>
+</ul>
+
+<h2 id="examples-of-responsive-web-design">Examples of Responsive Web Design</h2>
+<ul>
+  <li><a href="https://lynnandtonic.com/" target="_blank" title="Lynn Fisher">Lynn Fisher</a></li>
+  <li><a href="http://keepnyontrack.org/" target="_blank" title="Keeping New York On Track">Keeping New York On Track</a></li>
+  <li><a href="https://www.papertiger.com/">Paper Tiger</a></li>
+  <li><a href="https://www.flowfestival.com/en/flow-info/getting-there/">Flow Festival</a></li>
+  <li><a href="https://www.vam.ac.uk/">Victoria and Albert Museum</a></li>
+  <li><a href="http://www.espn.com/">ESPN</a></li>
+</ul>
+
+    </div>
+
+
+		
+		
+		</div>
+		
+		<script src="https://garyrozanc.com//students/js/plugins.js"></script>
+		
+		<script>
+			// Change URL
+			var origin = localStorage.getItem('origin');
+			var a = document.getElementById('origin');
+			if (a) {
+				a.href = origin;
+			}
+		</script>
+	
+	</body>
+
+</html>

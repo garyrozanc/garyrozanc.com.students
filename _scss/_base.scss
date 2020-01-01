@@ -129,19 +129,44 @@ li ul {
 	padding-left: 2em;
 }
 
-a {
+/*
+	a {
 	color: $font-color;
 	transition: color 300ms ease-in-out;
 	&:hover {
 		color: $font-color-light;
 	}
 }
+*/
+
+a { 
+	color: $font-color;
+	text-decoration: none; 
+	transition: box-shadow 300ms cubic-bezier(0.770, 0.000, 0.175, 1.000), 
+				color 300ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
+    box-shadow: inset 0 -0.15em 0 $blue;
+}
+
+a:hover { 	
+    box-shadow: inset 0 -0.7em 0 $blue;
+    //color: $black;
+}
+
+a:focus {
+	//background: #fff;
+	outline: none;
+	//background: $blue;
+	//color: #fff;
+	//box-shadow: 8px 8px 24px rgba(0, 0, 0, 0.2);
+}
 
 a svg {
 	fill: $font-color;
 	transition: all 300ms ease-in-out;
+	box-shadow: transparent;
 	&:hover {
 		fill: $font-color-light;
+		box-shadow: transparent;
 	}
 }
 

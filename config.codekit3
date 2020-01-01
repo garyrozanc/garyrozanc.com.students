@@ -9,12 +9,26 @@
 	],
 "creatorBuild": "29156",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/.gitignore",
+		"oF": 0
+		},
+	"/.jekyll-cache/Jekyll/Cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/.jekyll-cache/Jekyll/Cache",
 		"oF": 0
 		},
 	"/_config.yml": {
@@ -287,6 +301,30 @@
 		"oAP": "/_plugins/video_embed.rb",
 		"oF": 0
 		},
+	"/_posts/art336/2019-01-27-a01-what-are-breakpoints.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-01-27-a01-what-are-breakpoints.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-12-31-syllabus.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-12-31-syllabus.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-12-31-what-are-we-doing-today.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-12-31-what-are-we-doing-today.markdown",
+		"oF": 0
+		},
 	"/_posts/links/2017-07-24-interactive.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -414,6 +452,70 @@
 		"oF": 2,
 		"oS": 3,
 		"uL": 1
+		},
+	"/_site/art336/a01-what-are-breakpoints.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a01-what-are-breakpoints.html",
+		"oF": 0
+		},
+	"/_site/art336/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/index.html",
+		"oF": 0
+		},
+	"/_site/art336/syllabus.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/syllabus.html",
+		"oF": 0
+		},
+	"/_site/dashboard/uploads/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/dashboard/uploads/index.php",
+		"oF": 0
+		},
+	"/_site/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/index.html",
+		"oF": 0
+		},
+	"/_site/links/interactive.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/links/interactive.html",
+		"oF": 0
+		},
+	"/_site/links/internships.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/links/internships.html",
+		"oF": 0
+		},
+	"/_site/links/side-projects.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/links/side-projects.html",
+		"oF": 0
 		},
 	"/css/main.css": {
 		"aP": 1,
@@ -695,6 +797,50 @@
 		"oAP": "/gradetracker/uploads/upload.php",
 		"oF": 0
 		},
+	"/img/art336-obama-inaguation-crop-01.jpg": {
+		"ft": 16384,
+		"iS": 66646,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-obama-inaguation-crop-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-obama-inaguation-crop-02.jpg": {
+		"ft": 16384,
+		"iS": 42259,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-obama-inaguation-crop-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-obama-inaguation.jpg": {
+		"ft": 16384,
+		"iS": 104648,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-obama-inaguation.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-smartphone-reach-area.png": {
+		"ft": 32768,
+		"iS": 29395,
+		"oA": 0,
+		"oAP": "/img/art336-smartphone-reach-area.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -810,6 +956,33 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/LICENSE",
+		"oF": 0
+		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/webfonts/EcoCoding-webfont.woff": {
 		"cB": 0,

@@ -11,7 +11,7 @@
 		{% if page.quiz %} {% include quiz.html %} {% endif %}
 		</div>
 		
-		<script src="{{ "/js/plugins.js" | prepend: site.baseurl }}"></script>
+		<script src="{{ "/js/plugins.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 		
 		<script>
 			// Change URL
