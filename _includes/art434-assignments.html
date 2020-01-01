@@ -1,0 +1,6 @@
+{% for post in site.categories.art434 %}
+<li>
+	<a class="assignments-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	Due: <span>{{ post.due-date }}</span>
+</li>
+{% endfor %}

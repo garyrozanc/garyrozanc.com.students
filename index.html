@@ -1,0 +1,54 @@
+---
+layout: default
+---
+	<section class="course-pages">
+		<h2>Course Pages</h2>
+		<ul>
+			{% assign courses = site.posts | sort: 'title' %}		
+			{% for course in courses %}
+			{% if course.layout == "page-course" %}
+			<li>
+				<a href="{{ course.url | prepend: site.baseurl }}"><h3>{{ course.title }}:
+				<span>{{ course.sub-title }}</span></h3></a>
+			</li>
+			{% endif %}
+			{% endfor %}
+		</ul>
+			
+		<aside class="useful-links">
+			<h2>Useful Links</h2>
+			<ul>
+				{% for post in site.categories.links %}
+				<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</aside>
+	</section>
+	
+	<aside class="student-login">
+		<h2>Student Login</h2>
+		<form action="dashboard/index.php" method="post">
+			<input type="text" name="campus_id" tabindex="1" autocomplete="off" placeholder="User ID" required>
+			<input type="submit" value="Submit">
+		</form>
+	</aside>
+	
+	<aside class="office-hours">
+		<h2>Office Hours</h2>
+		<span>Tue/Thu 1:00&ndash;3:00 p.m.</span>
+		<span>Room FA332</span>
+		<script>
+            emailE0='gro'
+            emailE1='zanc'
+            emailE2='umb'
+            emailE3='c.edu'
+            emailE=(emailE0 + emailE1 + '@' + emailE2 + emailE3)
+            document.write('<a href="mailto:' + emailE + '">')
+        </script>
+        {% include email.svg %}</a>
+        <a href="https://vimeo.com/channels/art336/" target="_blank" title="Class Vimeo Channel">{% include vimeo.svg %}</a>
+	</aside>
+	
+	<script>
+		localStorage.setItem('origin','{{ "/index.html" | prepend: site.baseurl }}');
+	</script>

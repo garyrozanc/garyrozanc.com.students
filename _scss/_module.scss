@@ -1,0 +1,371 @@
+.post-title-syllabus {
+	margin-bottom: 2em;
+}
+
+.course-pages,
+.student-login,
+.office-hours {
+	h2 {
+		//border-bottom: 1px solid $font-color;
+		margin-bottom: .35em;
+		text-decoration: underline;
+	}
+}
+
+.useful-links,
+.office-hours {
+	margin-top: 1em;
+}
+
+.course-pages {
+	ul {
+		list-style-type: none;
+		padding-left: 0;
+		margin-bottom: 0;
+	}
+	li {
+		margin-bottom: .75em;
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+	}
+	h3 {
+		line-height: 1;
+		margin-top: 0;
+		span {
+			font-family: 'proximanova-light';
+			//font-family: 'proximanova-lightit';
+			font-weight: 300;
+		}
+	}
+	a {
+		text-decoration: none;
+	}
+}
+
+.useful-links {
+	ul {
+		list-style-type: circle;
+		padding-left: .95em;
+	}
+	li {
+		line-height: 1;
+		margin-bottom: .35em;
+	}
+}
+
+.student-login {
+	input {
+		display: block;
+	}
+}
+
+.office-hours {
+	span {
+		display: block;
+	}
+}
+
+.course-syllabus {
+	float: left;
+	font-size: .75em;
+	line-height: 1;
+	margin-bottom: 2em;
+	margin-top: 1.75em;
+	width: 100%;
+	@media (min-width: 700px) {
+		font-size: .5em;
+	}
+	a {
+		background-color: $font-color-light;
+		border-radius: 4px;
+		color: #fff;
+		padding: 0 5px 1px 5px;
+		text-decoration: none;
+		transition: background-color 300ms ease-in-out;
+		&:hover {
+			background-color: $font-color;
+		}
+		
+	}
+}
+
+.course-schedule {
+	ul {
+		padding-left: .95em;
+	}
+	li {
+		line-height: 1.1;
+		margin-bottom: .45em; 
+	}
+}
+
+.course-assignments {
+	ul {
+		font-size: 1em;
+		@media (min-width: 700px) {
+			font-size: .65em;
+		}
+		padding-left: 1em;
+	}
+	li {
+		line-height: 1.21;
+		margin-bottom: .45em;
+		a {
+			text-decoration: none;
+		}
+	}
+	svg {
+		height: .68em;
+	}
+}
+
+.due-date-prefix {
+	display: block;
+}
+.due-date {
+	font-size: .85em;
+}
+
+.red {
+	color: $warning;
+}
+
+.green {
+	color: #83ca7b;
+}
+
+.student-login {
+	form {
+		margin-top: .8em;
+	}
+}
+
+.assignment-meta-info {
+	color: $font-color-light;
+	font-size: 1em;
+	@media (min-width: 700px) {
+		font-size: .65em;
+	}
+	line-height: 1.2;
+	margin: 4em 0;
+	.assignment-course-number {
+		background-color: $font-color-light;
+		border-radius: 4px;
+		color: #fff;
+		display: inline-block;
+		line-height: 1;
+		padding: 0 4px 2px 4px;
+	}
+	.assignment-due,
+	.assignment-points {
+		display: block;
+	}
+	.black {
+		color: $font-color;
+	}
+}
+
+.video-wrapper {
+	height: 0;
+	margin-bottom: 20px;
+	margin-top: 5px;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	position: relative;
+}
+
+.video-wrapper iframe {
+	left: 0;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.video-wrapper + h3 {
+	margin-top: 2em;
+}
+
+.student-meta {
+	margin-bottom: 3em;
+	span {
+		font-family: 'proximanovacond-black';
+		font-size: 2.5em;
+		line-height: 1;
+	}
+	ul {
+		list-style-type: none;
+		padding: 0;
+	}
+	li {
+		display: inline-block;
+		margin-bottom: .125em;
+	}
+	a {
+		text-decoration: none;
+	}
+	.late {
+		color: $warning;
+		&:hover {
+			color: darken($warning,20%);
+		}
+	}
+}
+
+.course-meta {
+	span {
+		display: block;
+	}
+}
+
+.attendance {
+	h3 {
+		color: $warning;
+	}
+}
+
+.grades {
+	.passing {
+		color: darken($focus, 14%);
+	}
+	.failing {
+		color: $warning;
+	}
+}
+
+.dashboard .assignments {
+	ul {
+		padding-left: .95em;
+	}
+	a {
+		text-decoration: none;
+	}
+	li {
+		span {
+			font-family: 'proximanova-semibold';
+		}
+		p {
+			margin-top: 0; 
+		}
+	}
+}
+
+.advising {
+	p {
+		font-size: .85em;
+		line-height: 1.2;
+	}
+	ul {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: start;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		width: 100%;
+	}
+}
+
+.advising-appointment {
+	flex: 0 0 33.333%;
+	font-size: .7em;
+	line-height: 1.2;
+	display: flex;
+	justify-content: center;
+	align-items: stretch;
+	padding: 0 .55em .24em 0;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.advising-appointment:before {
+	content: '';
+	display: table;
+	padding-top: 100%;
+}
+
+.advising-appointment a,
+.advising-appointment div.unavailable,
+.advising-appointment label.cancel {
+	flex-direction: column;
+	flex-grow: 1;
+	border-radius: 4px;
+	padding: .5em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.advising-appointment a,
+.advising-appointment label.cancel {
+	background-color: $focus;	
+	color: $font-color;
+	cursor: hand;
+	display: flex;
+	text-decoration: none;
+	transition: background-color 300ms ease-in-out;
+	&:hover {
+		background-color: darken($focus,18%);
+	}
+}
+
+.advising-appointment div.unavailable {
+	opacity: .4;
+}
+
+.advising-appointment label.cancel {
+	background-color: $font-color-light;
+	cursor: hand;
+	&:hover {
+		background-color: $warning;
+	}
+
+}
+
+.advising-appointment span {
+	display: block;
+}
+
+.day {
+	font-family: 'proximanovacond-black';
+	font-size: 1.5em;
+}
+
+
+b + .dashboard-options {
+	margin-top: 0;
+}
+
+.dashboard-options {
+	line-height: 1.1;
+	a {
+		text-decoration: none;
+	}
+}
+
+@media (min-width: 700px) {
+	.student-meta {
+		font-size: .55em;
+		line-height: 1.2;
+		padding-top: .5em;
+		span {
+			font-size: 1.125em;
+			word-spacing:9999px;
+		}		
+	}
+	.course-meta {
+		line-height: 1.2;
+		margin-bottom: 2em;
+		span {
+			display: block;
+			font-size: .75em;
+		}
+		h1 {
+			text-transform: uppercase;
+		}
+	}
+	.advising-appointment {
+		flex: 0 0 16.6666%;
+	}
+}

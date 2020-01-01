@@ -1,0 +1,920 @@
+<?php 
+	$current_date = date("Y-m-d");
+	include '{{ page.quiz-data }}';
+	if ($date <= $current_date ) { $hidden = "hidden"; } else { $hidden = "not-hidden"; }
+?>
+
+<form action="quiz-results.php" method="post" class="quiz-form">
+	<div class="width <?=$hidden?>">
+		<input name="campus_id" class="form-text-input" placeholder="User ID" type="text"required>
+		<input type="hidden" value="<?=$course_id?>" name="course_id">
+		<input type="hidden" value="{{ page.quiz-data }}" name="data">
+	</div>
+	
+    <ol>
+        <li>
+            <h2><?=$question01?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer01a" name="answer01" value="<?=$answer01a?>" type="radio" required>
+					<label for="answer01a" class="radio-label"><?=$answer01a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer01b" name="answer01" value="<?=$answer01b?>" type="radio" required>
+					<label for="answer01b" class="radio-label"><?=$answer01b?></label>
+				</li>
+				
+				<?php if ($answer01c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer01c\" name=\"answer01\" value=\"$answer01c\" type=\"radio\" required>
+					<label for=\"answer01c\" class=\"radio-label\">$answer01c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer01d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer01d\" name=\"answer01\" value=\"$answer01d\" type=\"radio\" required>
+					<label for=\"answer01d\" class=\"radio-label\">$answer01d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+        <?php if ($question02) { ?>
+        	<li>
+            <h2><?=$question02?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer02a" name="answer02" value="<?=$answer02a?>" type="radio" required>
+					<label for="answer02a" class="radio-label"><?=$answer02a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer02b" name="answer02" value="<?=$answer02b?>" type="radio" required>
+					<label for="answer02b" class="radio-label"><?=$answer02b?></label>
+				</li>
+				
+				<?php if ($answer02c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer02c\" name=\"answer02\" value=\"$answer02c\" type=\"radio\" required>
+					<label for=\"answer02c\" class=\"radio-label\">$answer02c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer02d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer02d\" name=\"answer02\" value=\"$answer02d\" type=\"radio\" required>
+					<label for=\"answer02d\" class=\"radio-label\">$answer02d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+        <?php } ?>
+        	<?php if ($question03) { ?>
+		<li>
+            <h2><?=$question03?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer03a" name="answer03" value="<?=$answer03a?>" type="radio" required>
+					<label for="answer03a" class="radio-label"><?=$answer03a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer03b" name="answer03" value="<?=$answer03b?>" type="radio" required>
+					<label for="answer03b" class="radio-label"><?=$answer03b?></label>
+				</li>
+				
+				<?php if ($answer03c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer03c\" name=\"answer03\" value=\"$answer03c\" type=\"radio\" required>
+					<label for=\"answer03c\" class=\"radio-label\">$answer03c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer03d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer03d\" name=\"answer03\" value=\"$answer03d\" type=\"radio\" required>
+					<label for=\"answer03d\" class=\"radio-label\">$answer03d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question04) { ?>
+		<li>
+            <h2><?=$question04?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer04a" name="answer04" value="<?=$answer04a?>" type="radio" required>
+					<label for="answer04a" class="radio-label"><?=$answer04a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer04b" name="answer04" value="<?=$answer04b?>" type="radio" required>
+					<label for="answer04b" class="radio-label"><?=$answer04b?></label>
+				</li>
+				
+				<?php if ($answer04c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer04c\" name=\"answer04\" value=\"$answer04c\" type=\"radio\" required>
+					<label for=\"answer04c\" class=\"radio-label\">$answer04c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer04d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer04d\" name=\"answer04\" value=\"$answer04d\" type=\"radio\" required>
+					<label for=\"answer04d\" class=\"radio-label\">$answer04d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question05) { ?>
+		<li>
+            <h2><?=$question05?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer05a" name="answer05" value="<?=$answer05a?>" type="radio" required>
+					<label for="answer05a" class="radio-label"><?=$answer05a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer05b" name="answer05" value="<?=$answer05b?>" type="radio" required>
+					<label for="answer05b" class="radio-label"><?=$answer05b?></label>
+				</li>
+				
+				<?php if ($answer05c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer05c\" name=\"answer05\" value=\"$answer05c\" type=\"radio\" required>
+					<label for=\"answer05c\" class=\"radio-label\">$answer05c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer05d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer05d\" name=\"answer05\" value=\"$answer05d\" type=\"radio\" required>
+					<label for=\"answer05d\" class=\"radio-label\">$answer05d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question06) { ?>
+		<li>
+            <h2><?=$question06?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer06a" name="answer06" value="<?=$answer06a?>" type="radio" required>
+					<label for="answer06a" class="radio-label"><?=$answer06a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer06b" name="answer06" value="<?=$answer06b?>" type="radio" required>
+					<label for="answer06b" class="radio-label"><?=$answer06b?></label>
+				</li>
+				
+				<?php if ($answer06c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer06c\" name=\"answer06\" value=\"$answer06c\" type=\"radio\" required>
+					<label for=\"answer06c\" class=\"radio-label\">$answer06c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer06d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer06d\" name=\"answer06\" value=\"$answer06d\" type=\"radio\" required>
+					<label for=\"answer06d\" class=\"radio-label\">$answer06d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question07) { ?>
+		<li>
+            <h2><?=$question07?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer07a" name="answer07" value="<?=$answer07a?>" type="radio" required>
+					<label for="answer07a" class="radio-label"><?=$answer07a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer07b" name="answer07" value="<?=$answer07b?>" type="radio" required>
+					<label for="answer07b" class="radio-label"><?=$answer07b?></label>
+				</li>
+				
+				<?php if ($answer07c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer07c\" name=\"answer07\" value=\"$answer07c\" type=\"radio\" required>
+					<label for=\"answer07c\" class=\"radio-label\">$answer07c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer07d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer07d\" name=\"answer07\" value=\"$answer07d\" type=\"radio\" required>
+					<label for=\"answer07d\" class=\"radio-label\">$answer07d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question08) { ?>
+		<li>
+            <h2><?=$question08?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer08a" name="answer08" value="<?=$answer08a?>" type="radio" required>
+					<label for="answer08a" class="radio-label"><?=$answer08a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer08b" name="answer08" value="<?=$answer08b?>" type="radio" required>
+					<label for="answer08b" class="radio-label"><?=$answer08b?></label>
+				</li>
+				
+				<?php if ($answer08c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer08c\" name=\"answer08\" value=\"$answer08c\" type=\"radio\" required>
+					<label for=\"answer08c\" class=\"radio-label\">$answer08c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer08d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer08d\" name=\"answer08\" value=\"$answer08d\" type=\"radio\" required>
+					<label for=\"answer08d\" class=\"radio-label\">$answer08d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question09) { ?>
+		<li>
+            <h2><?=$question09?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer09a" name="answer09" value="<?=$answer09a?>" type="radio" required>
+					<label for="answer09a" class="radio-label"><?=$answer09a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer09b" name="answer09" value="<?=$answer09b?>" type="radio" required>
+					<label for="answer09b" class="radio-label"><?=$answer09b?></label>
+				</li>
+				
+				<?php if ($answer09c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer09c\" name=\"answer09\" value=\"$answer09c\" type=\"radio\" required>
+					<label for=\"answer09c\" class=\"radio-label\">$answer09c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer09d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer09d\" name=\"answer09\" value=\"$answer09d\" type=\"radio\" required>
+					<label for=\"answer09d\" class=\"radio-label\">$answer09d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question10) { ?>
+		<li>
+            <h2><?=$question10?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer10a" name="answer10" value="<?=$answer10a?>" type="radio" required>
+					<label for="answer10a" class="radio-label"><?=$answer10a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer10b" name="answer10" value="<?=$answer10b?>" type="radio" required>
+					<label for="answer10b" class="radio-label"><?=$answer10b?></label>
+				</li>
+				
+				<?php if ($answer10c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer10c\" name=\"answer10\" value=\"$answer10c\" type=\"radio\" required>
+					<label for=\"answer10c\" class=\"radio-label\">$answer10c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer10d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer10d\" name=\"answer10\" value=\"$answer10d\" type=\"radio\" required>
+					<label for=\"answer10d\" class=\"radio-label\">$answer10d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question11) { ?>
+		<li>
+            <h2><?=$question11?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer11a" name="answer11" value="<?=$answer11a?>" type="radio" required>
+					<label for="answer11a" class="radio-label"><?=$answer11a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer11b" name="answer11" value="<?=$answer11b?>" type="radio" required>
+					<label for="answer11b" class="radio-label"><?=$answer11b?></label>
+				</li>
+				
+				<?php if ($answer11c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer11c\" name=\"answer11\" value=\"$answer11c\" type=\"radio\" required>
+					<label for=\"answer11c\" class=\"radio-label\">$answer11c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer11d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer11d\" name=\"answer11\" value=\"$answer11d\" type=\"radio\" required>
+					<label for=\"answer11d\" class=\"radio-label\">$answer11d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question12) { ?>
+		<li>
+            <h2><?=$question12?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer12a" name="answer12" value="<?=$answer12a?>" type="radio" required>
+					<label for="answer12a" class="radio-label"><?=$answer12a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer12b" name="answer12" value="<?=$answer12b?>" type="radio" required>
+					<label for="answer12b" class="radio-label"><?=$answer12b?></label>
+				</li>
+				
+				<?php if ($answer12c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer12c\" name=\"answer12\" value=\"$answer12c\" type=\"radio\" required>
+					<label for=\"answer12c\" class=\"radio-label\">$answer12c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer12d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer12d\" name=\"answer12\" value=\"$answer12d\" type=\"radio\" required>
+					<label for=\"answer12d\" class=\"radio-label\">$answer12d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question13) { ?>
+		<li>
+            <h2><?=$question13?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer13a" name="answer13" value="<?=$answer13a?>" type="radio" required>
+					<label for="answer13a" class="radio-label"><?=$answer13a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer13b" name="answer13" value="<?=$answer13b?>" type="radio" required>
+					<label for="answer13b" class="radio-label"><?=$answer13b?></label>
+				</li>
+				
+				<?php if ($answer13c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer13c\" name=\"answer13\" value=\"$answer13c\" type=\"radio\" required>
+					<label for=\"answer13c\" class=\"radio-label\">$answer13c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer13d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer13d\" name=\"answer13\" value=\"$answer13d\" type=\"radio\" required>
+					<label for=\"answer13d\" class=\"radio-label\">$answer13d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question14) { ?>
+		<li>
+            <h2><?=$question14?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer14a" name="answer14" value="<?=$answer14a?>" type="radio" required>
+					<label for="answer14a" class="radio-label"><?=$answer14a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer14b" name="answer14" value="<?=$answer14b?>" type="radio" required>
+					<label for="answer14b" class="radio-label"><?=$answer14b?></label>
+				</li>
+				
+				<?php if ($answer14c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer14c\" name=\"answer14\" value=\"$answer14c\" type=\"radio\" required>
+					<label for=\"answer14c\" class=\"radio-label\">$answer14c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer14d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer14d\" name=\"answer14\" value=\"$answer14d\" type=\"radio\" required>
+					<label for=\"answer14d\" class=\"radio-label\">$answer14d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question15) { ?>
+		<li>
+            <h2><?=$question15?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer15a" name="answer15" value="<?=$answer15a?>" type="radio" required>
+					<label for="answer15a" class="radio-label"><?=$answer15a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer15b" name="answer15" value="<?=$answer15b?>" type="radio" required>
+					<label for="answer15b" class="radio-label"><?=$answer15b?></label>
+				</li>
+				
+				<?php if ($answer15c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer15c\" name=\"answer15\" value=\"$answer15c\" type=\"radio\" required>
+					<label for=\"answer15c\" class=\"radio-label\">$answer15c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer15d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer15d\" name=\"answer15\" value=\"$answer15d\" type=\"radio\" required>
+					<label for=\"answer15d\" class=\"radio-label\">$answer15d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question16) { ?>
+		<li>
+            <h2><?=$question16?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer16a" name="answer16" value="<?=$answer16a?>" type="radio" required>
+					<label for="answer16a" class="radio-label"><?=$answer16a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer16b" name="answer16" value="<?=$answer16b?>" type="radio" required>
+					<label for="answer16b" class="radio-label"><?=$answer16b?></label>
+				</li>
+				
+				<?php if ($answer16c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer16c\" name=\"answer16\" value=\"$answer16c\" type=\"radio\" required>
+					<label for=\"answer16c\" class=\"radio-label\">$answer16c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer16d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer16d\" name=\"answer16\" value=\"$answer16d\" type=\"radio\" required>
+					<label for=\"answer16d\" class=\"radio-label\">$answer16d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question17) { ?>
+		<li>
+            <h2><?=$question17?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer17a" name="answer17" value="<?=$answer17a?>" type="radio" required>
+					<label for="answer17a" class="radio-label"><?=$answer17a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer17b" name="answer17" value="<?=$answer17b?>" type="radio" required>
+					<label for="answer17b" class="radio-label"><?=$answer17b?></label>
+				</li>
+				
+				<?php if ($answer17c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer17c\" name=\"answer17\" value=\"$answer17c\" type=\"radio\" required>
+					<label for=\"answer17c\" class=\"radio-label\">$answer17c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer17d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer17d\" name=\"answer17\" value=\"$answer17d\" type=\"radio\" required>
+					<label for=\"answer17d\" class=\"radio-label\">$answer17d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question18) { ?>
+		<li>
+            <h2><?=$question18?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer18a" name="answer18" value="<?=$answer18a?>" type="radio" required>
+					<label for="answer18a" class="radio-label"><?=$answer18a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer18b" name="answer18" value="<?=$answer18b?>" type="radio" required>
+					<label for="answer18b" class="radio-label"><?=$answer18b?></label>
+				</li>
+				
+				<?php if ($answer18c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer18c\" name=\"answer18\" value=\"$answer18c\" type=\"radio\" required>
+					<label for=\"answer18c\" class=\"radio-label\">$answer18c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer18d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer18d\" name=\"answer18\" value=\"$answer18d\" type=\"radio\" required>
+					<label for=\"answer18d\" class=\"radio-label\">$answer18d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question19) { ?>
+		<li>
+            <h2><?=$question19?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer19a" name="answer19" value="<?=$answer19a?>" type="radio" required>
+					<label for="answer19a" class="radio-label"><?=$answer19a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer19b" name="answer19" value="<?=$answer19b?>" type="radio" required>
+					<label for="answer19b" class="radio-label"><?=$answer19b?></label>
+				</li>
+				
+				<?php if ($answer19c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer19c\" name=\"answer19\" value=\"$answer19c\" type=\"radio\" required>
+					<label for=\"answer19c\" class=\"radio-label\">$answer19c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer19d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer19d\" name=\"answer19\" value=\"$answer19d\" type=\"radio\" required>
+					<label for=\"answer19d\" class=\"radio-label\">$answer19d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question20) { ?>
+		<li>
+            <h2><?=$question20?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer20a" name="answer20" value="<?=$answer20a?>" type="radio" required>
+					<label for="answer20a" class="radio-label"><?=$answer20a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer20b" name="answer20" value="<?=$answer20b?>" type="radio" required>
+					<label for="answer20b" class="radio-label"><?=$answer20b?></label>
+				</li>
+				
+				<?php if ($answer20c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer20c\" name=\"answer20\" value=\"$answer20c\" type=\"radio\" required>
+					<label for=\"answer20c\" class=\"radio-label\">$answer20c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer20d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer20d\" name=\"answer20\" value=\"$answer20d\" type=\"radio\" required>
+					<label for=\"answer20d\" class=\"radio-label\">$answer20d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question21) { ?>
+		<li>
+            <h2><?=$question21?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer21a" name="answer21" value="<?=$answer21a?>" type="radio" required>
+					<label for="answer21a" class="radio-label"><?=$answer21a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer21b" name="answer21" value="<?=$answer21b?>" type="radio" required>
+					<label for="answer21b" class="radio-label"><?=$answer21b?></label>
+				</li>
+				
+				<?php if ($answer21c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer21c\" name=\"answer21\" value=\"$answer21c\" type=\"radio\" required>
+					<label for=\"answer21c\" class=\"radio-label\">$answer21c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer21d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer21d\" name=\"answer21\" value=\"$answer21d\" type=\"radio\" required>
+					<label for=\"answer21d\" class=\"radio-label\">$answer21d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question22) { ?>
+		<li>
+            <h2><?=$question22?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer22a" name="answer22" value="<?=$answer22a?>" type="radio" required>
+					<label for="answer22a" class="radio-label"><?=$answer22a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer22b" name="answer22" value="<?=$answer22b?>" type="radio" required>
+					<label for="answer22b" class="radio-label"><?=$answer22b?></label>
+				</li>
+				
+				<?php if ($answer22c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer22c\" name=\"answer22\" value=\"$answer22c\" type=\"radio\" required>
+					<label for=\"answer22c\" class=\"radio-label\">$answer22c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer22d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer22d\" name=\"answer22\" value=\"$answer22d\" type=\"radio\" required>
+					<label for=\"answer22d\" class=\"radio-label\">$answer22d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question23) { ?>
+		<li>
+            <h2><?=$question23?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer23a" name="answer23" value="<?=$answer23a?>" type="radio" required>
+					<label for="answer23a" class="radio-label"><?=$answer23a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer23b" name="answer23" value="<?=$answer23b?>" type="radio" required>
+					<label for="answer23b" class="radio-label"><?=$answer23b?></label>
+				</li>
+				
+				<?php if ($answer23c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer23c\" name=\"answer23\" value=\"$answer23c\" type=\"radio\" required>
+					<label for=\"answer23c\" class=\"radio-label\">$answer23c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer23d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer23d\" name=\"answer23\" value=\"$answer23d\" type=\"radio\" required>
+					<label for=\"answer23d\" class=\"radio-label\">$answer23d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question24) { ?>
+		<li>
+            <h2><?=$question24?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer24a" name="answer24" value="<?=$answer24a?>" type="radio" required>
+					<label for="answer24a" class="radio-label"><?=$answer24a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer24b" name="answer24" value="<?=$answer24b?>" type="radio" required>
+					<label for="answer24b" class="radio-label"><?=$answer24b?></label>
+				</li>
+				
+				<?php if ($answer24c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer24c\" name=\"answer24\" value=\"$answer24c\" type=\"radio\" required>
+					<label for=\"answer24c\" class=\"radio-label\">$answer24c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer24d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer24d\" name=\"answer24\" value=\"$answer24d\" type=\"radio\" required>
+					<label for=\"answer24d\" class=\"radio-label\">$answer24d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question25) { ?>
+		<li>
+            <h2><?=$question25?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer25a" name="answer25" value="<?=$answer25a?>" type="radio" required>
+					<label for="answer25a" class="radio-label"><?=$answer25a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer25b" name="answer25" value="<?=$answer25b?>" type="radio" required>
+					<label for="answer25b" class="radio-label"><?=$answer25b?></label>
+				</li>
+				
+				<?php if ($answer25c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer25c\" name=\"answer25\" value=\"$answer25c\" type=\"radio\" required>
+					<label for=\"answer25c\" class=\"radio-label\">$answer25c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer25d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer25d\" name=\"answer25\" value=\"$answer25d\" type=\"radio\" required>
+					<label for=\"answer25d\" class=\"radio-label\">$answer25d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question26) { ?>
+		<li>
+            <h2><?=$question26?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer26a" name="answer26" value="<?=$answer26a?>" type="radio" required>
+					<label for="answer26a" class="radio-label"><?=$answer26a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer26b" name="answer26" value="<?=$answer26b?>" type="radio" required>
+					<label for="answer26b" class="radio-label"><?=$answer26b?></label>
+				</li>
+				
+				<?php if ($answer26c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer26c\" name=\"answer26\" value=\"$answer26c\" type=\"radio\" required>
+					<label for=\"answer26c\" class=\"radio-label\">$answer26c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer26d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer26d\" name=\"answer26\" value=\"$answer26d\" type=\"radio\" required>
+					<label for=\"answer26d\" class=\"radio-label\">$answer26d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question27) { ?>
+		<li>
+            <h2><?=$question27?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer27a" name="answer27" value="<?=$answer27a?>" type="radio" required>
+					<label for="answer27a" class="radio-label"><?=$answer27a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer27b" name="answer27" value="<?=$answer27b?>" type="radio" required>
+					<label for="answer27b" class="radio-label"><?=$answer27b?></label>
+				</li>
+				
+				<?php if ($answer27c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer27c\" name=\"answer27\" value=\"$answer27c\" type=\"radio\" required>
+					<label for=\"answer27c\" class=\"radio-label\">$answer27c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer27d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer27d\" name=\"answer27\" value=\"$answer27d\" type=\"radio\" required>
+					<label for=\"answer27d\" class=\"radio-label\">$answer27d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question28) { ?>
+		<li>
+            <h2><?=$question28?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer28a" name="answer28" value="<?=$answer28a?>" type="radio" required>
+					<label for="answer28a" class="radio-label"><?=$answer28a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer28b" name="answer28" value="<?=$answer28b?>" type="radio" required>
+					<label for="answer28b" class="radio-label"><?=$answer28b?></label>
+				</li>
+				
+				<?php if ($answer28c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer28c\" name=\"answer28\" value=\"$answer28c\" type=\"radio\" required>
+					<label for=\"answer28c\" class=\"radio-label\">$answer28c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer28d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer28d\" name=\"answer28\" value=\"$answer28d\" type=\"radio\" required>
+					<label for=\"answer28d\" class=\"radio-label\">$answer28d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question29) { ?>
+		<li>
+            <h2><?=$question29?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer29a" name="answer29" value="<?=$answer29a?>" type="radio" required>
+					<label for="answer29a" class="radio-label"><?=$answer29a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer29b" name="answer29" value="<?=$answer29b?>" type="radio" required>
+					<label for="answer29b" class="radio-label"><?=$answer29b?></label>
+				</li>
+				
+				<?php if ($answer29c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer29c\" name=\"answer29\" value=\"$answer29c\" type=\"radio\" required>
+					<label for=\"answer29c\" class=\"radio-label\">$answer29c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer29d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer29d\" name=\"answer29\" value=\"$answer29d\" type=\"radio\" required>
+					<label for=\"answer29d\" class=\"radio-label\">$answer29d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+		<?php if ($question30) { ?>
+		<li>
+            <h2><?=$question30?></h2>
+            <ul>
+	            <li class="radio">
+	            		<input id="answer30a" name="answer30" value="<?=$answer30a?>" type="radio" required>
+					<label for="answer30a" class="radio-label"><?=$answer30a?></label>
+	            </li>
+	            
+	            <li class="radio">
+	            		<input id="answer30b" name="answer30" value="<?=$answer30b?>" type="radio" required>
+					<label for="answer30b" class="radio-label"><?=$answer30b?></label>
+				</li>
+				
+				<?php if ($answer30c) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer30c\" name=\"answer30\" value=\"$answer30c\" type=\"radio\" required>
+					<label for=\"answer30c\" class=\"radio-label\">$answer30c</label>
+	            </li>
+	            ";} ?>
+	            
+	            <?php if ($answer30d) {echo "
+				<li class=\"radio\">
+	            		<input id=\"answer30d\" name=\"answer30\" value=\"$answer30d\" type=\"radio\" required>
+					<label for=\"answer30d\" class=\"radio-label\">$answer30d</label>
+	            </li>
+	            ";} ?>            
+	        </ul>
+        </li>
+		<?php } ?>
+    </ol>
+    
+    <?php
+    	if ($date > $current_date ) {
+	    	echo "<input type=\"submit\" value=\"Submit Answers\" class=\"quiz-submit-button\">";
+	}
+	?>
+</form>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+	
+	<body id="top">
+		
+		<div class="wrap">
+		{{ content }}
+		
+		{% if page.quiz %} {% include quiz.html %} {% endif %}
+		</div>
+		
+		<script src="{{ "/js/plugins.js" | prepend: site.baseurl }}"></script>
+		
+		<script>
+			// Change URL
+			var origin = localStorage.getItem('origin');
+			var a = document.getElementById('origin');
+			if (a) {
+				a.href = origin;
+			}
+		</script>
+	
+	</body>
+
+</html>

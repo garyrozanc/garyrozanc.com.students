@@ -1,0 +1,90 @@
+.icon-close,
+.icon-top {
+	line-height: 1;
+	position: fixed;
+	right: .6em;
+	top: .5em;
+	width: 26px;
+	z-index: 100;
+}
+
+.icon-top {
+	opacity: .35;
+	top: 50%;
+}
+
+.wrap {
+	margin: .5em;
+	@media (min-width: 800px) {
+		margin: 10vw 14vw 14vw 14vw;
+	}
+	&:after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}
+}
+
+@media (min-width: 620px) {
+
+}
+
+@media (min-width: 700px) {
+	.course-pages, 
+	.student-login,
+	.office-hours {
+		width: calc(50% - .85em);
+	}
+	
+	.course-pages {
+		float: left;
+		margin-right: .85em;
+	}
+	
+	.useful-links {
+		float: left;
+	}
+	
+	.student-login,
+	.office-hours {
+		float: right;
+		margin-left: .85em;
+	}
+	
+	.course-schedule {
+		float: left;
+		margin-right: 1.25em;
+		width: calc(66% - 1.25em);
+	}
+	.course-assignments {
+		float: right;
+		margin-left: .25em;
+		width: calc(34% - .25em);
+	}
+	
+	.attendance {
+		.absent,
+		.late {
+			float: left;
+			width: 50%;
+		}
+		h2 {
+			width: 100%;
+		}
+		&:after {
+		  content: "";
+		  display: table;
+		  clear: both;
+		}
+	}
+
+}
+
+@media (min-width: 1140px) {
+
+	
+}
+
+@media (min-width: 2000px) {
+
+}

@@ -1,0 +1,277 @@
+body {
+	//box-sizing: border-box;
+	background-color: #fff;
+	color: $font-color;
+	font-family: 'proximanova-light', verdana, helvetica, sans-serif;
+	font-size: 16px;
+	//padding: .5em;
+	transition: font-size 500ms ease-in-out;	
+	width: 100%;
+	@media (min-width: 800px) {
+		//padding: 10vw 14vw 14vw 14vw;
+	}
+}
+
+b, strong {
+	font-family: 'proximanova-semibold', verdana, helvetica, sans-serif;
+}
+
+i, em {
+	font-family: 'proximanova-lightit', verdana, helvetica, sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'proximanovacond-black', verdana, helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 2.5em;
+	line-height: 1;
+	margin-top: 0;
+	@media (min-width: 800px) {
+		font-size: 2.85em;
+	}
+}
+
+h2 {
+	font-size: 2em;
+	line-height: 1;
+	margin-bottom: .15em;
+	@media (min-width: 800px) {
+		font-size: 1.75em;
+	}
+}
+
+h2 + p,
+h2 + ul,
+h2 + ol {
+	margin-top: 0;
+}
+
+p + h2, 
+ul + h2,
+ol + h2 {
+	margin-top: 1.25em;
+}
+
+h3 {
+	font-size: 1.5em;
+	margin-bottom: 0;
+	@media (min-width: 800px) {
+		font-size: 1.15em;
+	}
+}
+
+h3 + p,
+h3 + ul,
+h3 + ol {
+	margin-top: .25em;
+}
+
+p + h3, 
+ul + h3,
+ol + h3 {
+	margin-top: 1.125em;
+}
+
+h4 {
+	font-size: 1.11em;
+	margin-bottom: 0;
+	/*@media (min-width: 800px) {
+		font-size: 1.125em;
+	}*/
+}
+
+h4 + p,
+h4 + ul,
+h4 + ol {
+	margin-top: .25em;
+}
+
+p + h4, 
+ul + h4,
+ol + h4 {
+	margin-top: 1.125em;
+}
+
+h5 {
+	font-family: 'proximanova-semibold', verdana, helvetica, sans-serif;
+	font-size: 1em;
+	margin-bottom: 0;
+}
+
+h5 + p,
+h5 + ul,
+h5 + ol {
+	margin-top: .25em;
+}
+
+p + h5, 
+ul + h5,
+ol + h5 {
+	margin-top: 1.125em;
+}
+
+p + ul {
+	margin-top: -.95em;
+}
+
+ol, ul {
+	margin-left: 0;
+	padding-left: 1.05em;
+}
+
+li {
+	margin-bottom: .35em;
+}
+
+li ul {
+	padding-left: 2em;
+}
+
+a {
+	color: $font-color;
+	transition: color 300ms ease-in-out;
+	&:hover {
+		color: $font-color-light;
+	}
+}
+
+a svg {
+	fill: $font-color;
+	transition: all 300ms ease-in-out;
+	&:hover {
+		fill: $font-color-light;
+	}
+}
+
+b, strong {
+	font-family: 'proximanova-semibold', verdana, helvetica, sans-serif;
+}
+
+ul {
+	list-style-type: circle;
+	ul {
+		list-style-type: disc;
+	}
+}
+
+input, select, button {
+	background-color: $background-color;
+	border: 1px solid $background-color;
+	border-radius: 6px;
+	box-sizing: border-box;
+	font-family: 'proximanova-light';
+	padding: 0 6px;
+	margin-bottom: .4em;
+	transition: border 0.30s ease-in-out;
+	transition: box-shadow 0.30s ease-in-out;
+	outline: none;
+	width: 100%;
+	&::placeholder {
+		//color: $color-placeholder;
+	}
+	&:focus {
+		background-color: $focus;
+		box-shadow: 0 0 5px darken($focus,20%);
+		border: 1px solid darken($focus,20%);
+	}
+	&:-webkit-autofill {
+    		//-webkit-box-shadow: 0 0 0px 1000px $background-color inset;
+    		//-webkit-text-fill-color: #fff !important;
+	}
+}
+
+select {
+	background: url("data:image/svg+xml;utf8,<svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='82 -46 860 860' enable-background='new 82 -46 860 860' xml:space='preserve'> <path fill='#262626' d='M896,384C896,172.8,723.2,0,512,0S128,172.8,128,384s172.8,384,384,384S896,595.2,896,384z M503.6,616.7L228.6,321.8 c-4.6-4.6-4.6-13.1,0-19.2l82.9-89.9c4.6-4.6,13.1-4.6,16.9,0L512,409.3l183.6-196.6c4.6-4.6,13.1-4.6,16.9,0l82.9,89.9 c2.3,2.3,2.3,6.1,2.3,8.4c0,2.3-2.3,6.1-2.3,8.4L518.1,614.4C516.6,620.5,507.4,620.5,503.6,616.7z'/></svg>") no-repeat right $background-color;
+	background-size: contain;
+	//color: $color-placeholder;
+	-webkit-appearance: none;
+}
+
+[type="submit"], button {
+	background-color: $font-color;
+	border: none;
+	color: #fff;
+	font-weight: 300;
+	line-height: 1;
+	margin: 0;
+	padding: 0 6px 4px 6px;
+	transition: background-color 300ms ease-in-out;
+	width: auto;
+	&:hover {
+		background-color: $font-color-light;
+	}
+}
+
+blockquote {
+    font-weight: 600;
+    line-height: 1.2;
+    background-color: #e5e5e5;
+    border-radius: 12px;
+    //display: block;
+    padding: .85em .95em;
+    margin: 0;
+    position: relative;
+    z-index: 100;
+}
+
+blockquote::before {
+    content: "\201C";
+    font-size: 8em;
+    color: #f3f3f3;
+    position: absolute;
+    left: 0;
+    top: -.125em;
+    z-index: -100;
+}
+
+blockquote::after {
+    content: "";
+}
+
+blockquote a {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0 3px;
+}
+
+blockquote p:first-of-type {
+	margin-top: 0;
+}
+
+blockquote p:last-of-type {
+	margin-bottom: 0;
+}
+
+blockquote cite {
+    display: block;
+    text-align: right;
+    margin-top: .5rem;
+}
+
+blockquote cite::before {
+    content: "\223C \0020";
+}
+
+img {
+	max-width: 100%;
+}
+
+figure {
+	margin: 0;
+}
+
+figure + figure {
+	margin: .5em 0;	
+}
+
+figcaption {
+	font-family: 'proximanova-lightit', verdana, helvetica, sans-serif;
+	font-size: .75em;
+	line-height: 1.1;
+}
+
+code {
+	font-family: 'EcoCoding', monospace;
+}

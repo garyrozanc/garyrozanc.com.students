@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+	{% include btn-top.html %}
+	{% include btn-close-index.html %}
+	
+	<h1>What is {{ page.title }} Doing Today?</h1>
+	
+	<div class="course-syllabus"><a href="syllabus.html">Course Syllabus</a></div>
+	
+	<section class="course-schedule">
+		{{ content }}
+	</section>
+	
+	<section class="course-assignments">		
+		<h2>Assignments</h2>
+		<ul>
+			{% if page.course-slug == "art332" %}
+				{% assign course = site.categories.art332 %}
+			{% elsif page.course-slug == "art333" %}
+				{% assign course = site.categories.art333 %}
+			{% elsif page.course-slug == "art335" %}
+				{% assign course = site.categories.art335 %}
+			{% elsif page.course-slug == "art336" %}
+				{% assign course = site.categories.art336 %}
+			{% elsif page.course-slug == "art339" %}
+				{% assign course = site.categories.art339 %}
+			{% else %}
+				{% assign course = site.categories.art434 %}
+			{% endif %}
+			
+			{% for post in course %}
+				<li>
+					<a href="{{ post.url | prepend: site.baseurl }}">{% if post.screencast == true %} {% include video.svg %} {% endif %} {{ post.title }}</a> 
+					<div class="due-date">
+						<strong>Due:</strong>
+						{% capture currentDate %}
+					    		{{ "now" | date: "%Y-%m-%d"}}
+					    {% endcapture %}	
+					    {% capture dueDate %}
+					    		{{ post.due-date | date: "%Y-%m-%d"}}
+					    {% endcapture %}						
+						{% if dueDate >= currentDate %}
+							<span class="green">
+						{% else %}
+							<span class="red">
+						{% endif %}
+						{{ post.due-date | date: "%m.%d.%y" }}</span>
+					</div>
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
+	
+	
+
