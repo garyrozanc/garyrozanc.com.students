@@ -1,79 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-	<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>A02: Atomic Design & Design Systems</title>
-  <meta name="description" content="Atomic Design is a methodology developed by Brad Frost to help designers and developers focus on content types not fixed device sizes (think phone, tablet, l...">
-
-  <!--<link rel="stylesheet" href="https://garyrozanc.com//students/css/main.css">-->
-  <link rel="stylesheet" href="../css/main.css">
-  <link rel="canonical" href="https://garyrozanc.com//students/art336/a02-atomic-design.html">
-  <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com//students/feed.xml">
-</head>
-
-	
-	<body id="top">
-		
-		<div class="wrap">
-		<div class="icon-top">
-	<a href="#top" alt="Back to top of page" class="scroll"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path d="M0 50c0 27.6 22.4 50 50 50 27.6 0 50-22.4 50-50S77.6 0 50 0C22.4 0 0 22.4 0 50zM51.1 19.8L87 58.1c0.6 0.6 0.6 1.8 0 2.4L76.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L50 46.7 26.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L12.9 60.5c-0.3-0.4-0.4-0.7-0.4-1.2s0.2-0.8 0.4-1.2l35.9-38.3C49.5 19.2 50.5 19.2 51.1 19.8z"/></svg></a>
-</div><!-- icon-top -->
-
-    <div class="icon-close">
-    		<a href="/students/art336" alt="Back Button"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path class="st0" d="M50 0C22.4 0 0 22.4 0 50c0 27.6 22.4 50 50 50s50-22.4 50-50C100 22.4 77.6 0 50 0zM80.7 70.1L70.1 80.7c-0.6 0.6-1.5 0.6-2.1 0l-18-18 -18 18c-0.6 0.6-1.5 0.6-2.1 0L19.3 70.1c-0.6-0.6-0.6-1.5 0-2.1l18-18 -18-18c-0.6-0.6-0.6-1.5 0-2.1l10.6-10.6c0.6-0.6 1.5-0.6 2.1 0l18 18 18-18c0.6-0.6 1.5-0.6 2.1 0l10.6 10.6c0.6 0.6 0.6 1.5 0 2.1l-18 18 18 18C81.3 68.6 81.3 69.5 80.7 70.1z"/></svg></a>
-</div><!-- close -->
-
-	<header role="banner" class="assignments">
-    
-	    <h1>A02: Atomic Design & Design Systems</h1>
-	    
-	    <div class="assignment-meta-info">
-		    <!--<span class="assignment-course-number">Art 336</span>-->
-		    <ul>
-			    <li>
-				    Due:
-						
-				    						
-					
-						<span class="red">
-					
-					Wed, Jan 30, 2019</span>
-				</li>
-				
-				
-				<li>
-					Est. Time:
-						
-				    						
-					
-						<span class="red">
-					
-					1 hour</span>
-				</li>
-				
-				
-				
-				<li>
-					Points:
-						
-				    						
-					
-						<span class="red">
-					
-					10</span>
-				</li>
-				
-		    </ul>
-	    </div>
-	    
-	</header>
-	
-    <div>
-    		<p><a href="http://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a> is a methodology developed by <a href="https://twitter.com/brad_frost">Brad Frost</a> to help designers and developers focus on content types not fixed device sizes (think phone, tablet, laptop, etc.). Another benefit of the Atomic Design methodology is it naturally lends itself to the creation of a Design System. Remember, while we haven’t discussed design systems yet, a design system will be your final client deliverable, not a website or webpage!</p>
+I"�<p><a href="http://bradfrost.com/blog/post/atomic-web-design/">Atomic Design</a> is a methodology developed by <a href="https://twitter.com/brad_frost">Brad Frost</a> to help designers and developers focus on content types not fixed device sizes (think phone, tablet, laptop, etc.). Another benefit of the Atomic Design methodology is it naturally lends itself to the creation of a Design System. Remember, while we haven’t discussed design systems yet, a design system will be your final client deliverable, not a website or webpage!</p>
 
 <p>So what is Atomic Design? In a crazy over simplification a group of atoms (buttons, headlines, single form input, etc.) combine to form molecules (form, card, navigation, carousel, etc.). Those molecules combine to form organisms (site header and footer, menus, featured sections, etc.). Finally, organisms combine to form webpages. For an in-depth explanation of Atomic Design read <a href="http://bradfrost.com/blog/post/atomic-web-design/">Brad’s article</a> or check out his <a href="http://atomicdesign.bradfrost.com/">Atomic Design</a> book. It is also important to note that atomic design, design systems, pattern libraries, ui libraries, etc. for the purpose of this course are the same thing. They are simply terms used to describe a collection of elements that compose a webpage. Once you get into the industry, these terms will take on more specific and discernible meanings.</p>
 
@@ -102,7 +27,7 @@
 <h2 id="resources">Resources</h2>
 
 <ul>
-  <li><a href="../downloads/art336-tracing-atomic-design.zip" target="_blank" title="Template Illustrator Files">Template Illustrator Files</a></li>
+  <li><a href="https://www.dropbox.com/s/pdc9bawrcny6q8s/art336-tracing-atomic-design.zip?dl=0" target="_blank" title="Template Illustrator Files">Template Illustrator Files</a></li>
   <li><a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank" title="Atomic Design">Atomic Design</a></li>
   <li><a href="http://demo.patternlab.io/" target="_blank" title="Pattern Lab">Pattern Lab</a></li>
   <li><a href="https://polaris.shopify.com/">Shopify Polaris</a></li>
@@ -112,26 +37,4 @@
   <li>In case you missed class, here is a video of what we sort of covered. <a href="https://vimeo.com/109130093" target="_blank" title="Brad Frost: Atomic Design (Webdagene 2014)">Brad Frost: Atomic Design (Webdagene 2014)</a></li>
 </ul>
 
-
-    </div>
-
-
-		
-		
-		</div>
-		
-		<!--<script src="https://garyrozanc.com//students/js/plugins.js"></script>-->
-		<script src="../js/plugins.js"></script>
-		
-		<script>
-			// Change URL
-			var origin = localStorage.getItem('origin');
-			var a = document.getElementById('origin');
-			if (a) {
-				a.href = origin;
-			}
-		</script>
-	
-	</body>
-
-</html>
+:ET

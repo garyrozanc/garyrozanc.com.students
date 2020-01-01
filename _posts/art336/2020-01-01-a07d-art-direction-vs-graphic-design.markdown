@@ -17,40 +17,40 @@ As a graphic designer you want to get on the same page visually as the client ea
 
 So, what is “Art Direction,” and how is it different than “Graphic Design?” I like Dan Mall’s explanation that everyone is an art director, but not everyone is a designer. For example, there isn’t a single person who isn’t visually impaired who can not see the distinct visual direction of the following two images.
 
-<img src="../img/art336-art-drection-clown-01.jpg">
+![Examples of Art Direction](../img/art336-art-drection-clown-01.jpg)
 
-<img src="../img/art336-art-drection-clown-02.jpg">
+![Examples of Art Direction](../img/art336-art-drection-clown-02.jpg)
 
 Clearly the first image of the clown is meant to scare the heck out of you. The second image is clearly meant to be fun. In a nutshell, this is art direction, and it can be figured out before any design is done! If anyone can describe art direction, why do you need to figure it out before you design? Well, while everyone understands art direction, not everyone has the same definition of ambiguous terms. For example, what would you do if your client said they wanted the project’s art direction to be funny? Everyone knows what funny is, but everyone has a different interpretation of what funny could look like.
 
-<img src="../img/art336-art-direction-funny-01.jpg">
+![Examples of Art Direction](../img/art336-art-drection-funny-01.jpg)
 
-<img src="../img/art336-art-direction-funny-02.jpeg">
+![Examples of Art Direction](../img/art336-art-drection-funny-02.jpeg)
 
 _Blades of Glory_ and _Napoleon Dynamite_ are both considered very funny movies. However, they have totally different approaches to funny. Let’s image that your client asked for funny, and you delivered the Napoleon Dynamite version of funny and they hated it because they were expecting Blades of Glory funny. You just wasted a ton of time making visual mockups to determine that you wren’t on the same page as your client.
 
 Another example, and the one I most often hear clients say, is they want something “clean”. As graphic designer who is fascinated with the history of design, I guarantee that my interpretation of the term clean is vastly different from my client. Personally, when I hear the term “clean” I think of a basic white space with very little decoration or furniture.
 
-<img src="../img/art336-art-drection-clean-01.jpg">
+![Examples of Art Direction](../img/art336-art-drection-clean-01.jpg)
 
 Now, if I were to follow the client’s preferred art direction of “clean”, but with my visual interpretation they could hate it, especially if they were expecting one of these versions of “clean”. 
 
-<img src="../img/art336-art-drection-clean-02.jpg">
+![Examples of Art Direction](../img/art336-art-drection-clean-02.jpg)
 
-<img src="../img/art336-art-drection-clean-03.jpg">
+![Examples of Art Direction](../img/art336-art-drection-clean-03.jpg)
 
-<img src="../img/art336-art-drection-clean-04.jpg">
+![Examples of Art Direction](../img/art336-art-drection-clean-04.jpg)
 
 Finally, if Art Direction is the feel (a major oversimplification), what is design? We will talk about  design as the semester goes along, but for now I leave you with this example. One of these images nails the art direction, but miserably fails at design. The other image arguably nails the design, but massively fails at the art direction. I will let you guess as to which one is which.
 
-<img src="../img/art336-art-direction-birthday-01.gif">
+![Examples of Graphic Design](../img/art336-art-drection-birthday-01.gif)
 
-<img src="../img/art336-art-direction-birthday-02.jpg">
+![Examples of Graphic Design](../img/art336-art-drection-birthday-02.jpg)
 
 Luckily there are multiple ways to get on the same page as your client long before you begin to design. My two favorite methods are Moodboard Decks, and Style Tiles. Both methods are very effective but are vastly different. As you advance in your career, I think you will begin to intuitively know which is a better method for the project you are working on. For the sake of learning, I’m going to ask you to do both.
 
 ## Moodboard Deck
-The simplest way to explain what a [moodbaord deck is by looking at one](https://www.dropbox.com/s/2c86k69703o0rtf/art336-moodboard-deck-templates.zip?dl=0). Moodboards are a quick way to visualize key words used in the initial client meeting. Simply picking multiple images and videos that represent the keyword and asking the client to pick amongst them will get you on the same page as the client in regards to art direction. Your job will be to pick several of the keywords you heard during our initial client meeting and create one moodboard deck to be shared with the client. You can use the template I supplied or create your own.
+The simplest way to explain what a [moodbaord deck is by looking at one](../downloads/art336-moodboard-deck-templates.zip). Moodboards are a quick way to visualize key words used in the initial client meeting. Simply picking multiple images and videos that represent the keyword and asking the client to pick amongst them will get you on the same page as the client in regards to art direction. Your job will be to pick several of the keywords you heard during our initial client meeting and create one moodboard deck to be shared with the client. You can use the template I supplied or create your own.
 
 ### Moodboard Deck Grading
 This assignment will be worth 10. You only need to make one mooboard deck, though it must have multiple adjectives that you are trying to determine the art direction with your client. [Upload the files to DropBox](https://www.dropbox.com/s/2c86k69703o0rtf/art336-moodboard-deck-templates.zip?dl=0) by the end of class on Monday March 4th.

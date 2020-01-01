@@ -842,6 +842,30 @@
 		"oAP": "/_site/downloads/art336-font-specimen-evaluation-page.zip",
 		"oF": 0
 		},
+	"/_site/downloads/art336-layout-evaluation-template.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-layout-evaluation-template.zip",
+		"oF": 0
+		},
+	"/_site/downloads/art336-moodboard-deck-templates.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-moodboard-deck-templates.zip",
+		"oF": 0
+		},
+	"/_site/downloads/art336-tracing-atomic-design.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-tracing-atomic-design.zip",
+		"oF": 0
+		},
 	"/_site/downloads/art336-typographic-hierarchy-page-template.zip": {
 		"cB": 0,
 		"ft": 8192,
@@ -856,6 +880,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_site/downloads/art336-typographic-hierarchy.zip",
+		"oF": 0
+		},
+	"/_site/downloads/art336-wireframing-kits.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-wireframing-kits.zip",
+		"oF": 0
+		},
+	"/_site/downloads/art336-working-with-images-assets.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-working-with-images-assets.zip",
 		"oF": 0
 		},
 	"/_site/downloads/art336-working-with-images.zip": {
@@ -1128,6 +1168,121 @@
 		"oAP": "/_site/gradetracker/uploads/upload.php",
 		"oF": 0
 		},
+	"/_site/img/art336-art-direction-birthday-01.gif": {
+		"ft": 4194304,
+		"iS": 94632,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-direction-birthday-01.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/_site/img/art336-art-direction-birthday-02.jpg": {
+		"ft": 16384,
+		"iS": 88593,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-direction-birthday-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-art-direction-birthday-03.gif": {
+		"ft": 4194304,
+		"iS": 93662,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-direction-birthday-03.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/_site/img/art336-art-direction-funny-01.jpg": {
+		"ft": 16384,
+		"iS": 96824,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-direction-funny-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-art-direction-funny-02.jpeg": {
+		"ft": 16384,
+		"iS": 72507,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-direction-funny-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-art-drection-clean-01.jpg": {
+		"ft": 16384,
+		"iS": 122600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-drection-clean-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-art-drection-clean-02.jpg": {
+		"ft": 16384,
+		"iS": 378252,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-drection-clean-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-art-drection-clean-03.jpg": {
+		"ft": 16384,
+		"iS": 279509,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-drection-clean-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-art-drection-clean-04.jpg": {
+		"ft": 16384,
+		"iS": 904253,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-drection-clean-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-art-drection-clown-01.jpg": {
+		"ft": 16384,
+		"iS": 64976,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-drection-clown-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-art-drection-clown-02.jpg": {
+		"ft": 16384,
+		"iS": 134647,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-art-drection-clown-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_site/img/art336-boilerplate-contents.jpg": {
 		"ft": 16384,
 		"iS": 139024,
@@ -1148,6 +1303,72 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/_site/img/art336-element-collage-00.jpg": {
+		"ft": 16384,
+		"iS": 109734,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-element-collage-00.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-element-collage-01.jpg": {
+		"ft": 16384,
+		"iS": 480095,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-element-collage-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-element-collage-02.jpg": {
+		"ft": 16384,
+		"iS": 116992,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-element-collage-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-element-collage-03.png": {
+		"ft": 32768,
+		"iS": 660993,
+		"oA": 0,
+		"oAP": "/_site/img/art336-element-collage-03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/img/art336-element-collage-04.jpg": {
+		"ft": 16384,
+		"iS": 149875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-element-collage-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-element-collage-05.jpg": {
+		"ft": 16384,
+		"iS": 300644,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-element-collage-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_site/img/art336-hero-01.jpg": {
 		"ft": 16384,
@@ -1270,12 +1491,78 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_site/img/art336-user-flow-01.png": {
+		"ft": 32768,
+		"iS": 40586,
+		"oA": 0,
+		"oAP": "/_site/img/art336-user-flow-01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/img/art336-user-flow-02.jpg": {
+		"ft": 16384,
+		"iS": 142591,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-user-flow-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-user-flow-03.png": {
+		"ft": 32768,
+		"iS": 72756,
+		"oA": 0,
+		"oAP": "/_site/img/art336-user-flow-03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/img/art336-user-flow-04.jpg": {
+		"ft": 16384,
+		"iS": 488432,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-user-flow-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-user-flow-05.png": {
+		"ft": 32768,
+		"iS": 70015,
+		"oA": 0,
+		"oAP": "/_site/img/art336-user-flow-05.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_site/img/art336-whois-lookup.jpg": {
 		"ft": 16384,
 		"iS": 216464,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_site/img/art336-whois-lookup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/element-collage-06.jpg": {
+		"ft": 16384,
+		"iS": 300040,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/element-collage-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1530,6 +1817,30 @@
 		"oAP": "/downloads/art336-font-specimen-evaluation-page.zip",
 		"oF": 0
 		},
+	"/downloads/art336-layout-evaluation-template.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-layout-evaluation-template.zip",
+		"oF": 0
+		},
+	"/downloads/art336-moodboard-deck-templates.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-moodboard-deck-templates.zip",
+		"oF": 0
+		},
+	"/downloads/art336-tracing-atomic-design.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-tracing-atomic-design.zip",
+		"oF": 0
+		},
 	"/downloads/art336-typographic-hierarchy-page-template.zip": {
 		"cB": 0,
 		"ft": 8192,
@@ -1544,6 +1855,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/downloads/art336-typographic-hierarchy.zip",
+		"oF": 0
+		},
+	"/downloads/art336-wireframing-kits.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-wireframing-kits.zip",
 		"oF": 0
 		},
 	"/downloads/art336-working-with-images-assets.zip": {
@@ -1832,6 +2151,121 @@
 		"oAP": "/gradetracker/uploads/upload.php",
 		"oF": 0
 		},
+	"/img/art336-art-direction-birthday-01.gif": {
+		"ft": 4194304,
+		"iS": 94632,
+		"oA": 0,
+		"oAP": "/img/art336-art-direction-birthday-01.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/art336-art-direction-birthday-02.jpg": {
+		"ft": 16384,
+		"iS": 88593,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-direction-birthday-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-art-direction-birthday-03.gif": {
+		"ft": 4194304,
+		"iS": 93662,
+		"oA": 0,
+		"oAP": "/img/art336-art-direction-birthday-03.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/img/art336-art-direction-funny-01.jpg": {
+		"ft": 16384,
+		"iS": 96824,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-direction-funny-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-art-direction-funny-02.jpeg": {
+		"ft": 16384,
+		"iS": 72507,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-direction-funny-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-art-drection-clean-01.jpg": {
+		"ft": 16384,
+		"iS": 122600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-drection-clean-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-art-drection-clean-02.jpg": {
+		"ft": 16384,
+		"iS": 378252,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-drection-clean-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-art-drection-clean-03.jpg": {
+		"ft": 16384,
+		"iS": 279509,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-drection-clean-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-art-drection-clean-04.jpg": {
+		"ft": 16384,
+		"iS": 904253,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-drection-clean-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-art-drection-clown-01.jpg": {
+		"ft": 16384,
+		"iS": 64976,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-drection-clown-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-art-drection-clown-02.jpg": {
+		"ft": 16384,
+		"iS": 134647,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-art-drection-clown-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/art336-boilerplate-contents.jpg": {
 		"ft": 16384,
 		"iS": 139024,
@@ -1852,6 +2286,83 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/img/art336-element-collage-00.jpg": {
+		"ft": 16384,
+		"iS": 109734,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-element-collage-00.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-element-collage-01.jpg": {
+		"ft": 16384,
+		"iS": 480095,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-element-collage-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-element-collage-02.jpg": {
+		"ft": 16384,
+		"iS": 116992,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-element-collage-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-element-collage-03.png": {
+		"ft": 32768,
+		"iS": 660993,
+		"oA": 0,
+		"oAP": "/img/art336-element-collage-03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/art336-element-collage-04.jpg": {
+		"ft": 16384,
+		"iS": 149875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-element-collage-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-element-collage-05.jpg": {
+		"ft": 16384,
+		"iS": 300644,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-element-collage-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-element-collage-06.jpg": {
+		"ft": 16384,
+		"iS": 300040,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-element-collage-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/img/art336-hero-01.jpg": {
 		"ft": 16384,
@@ -1968,6 +2479,61 @@
 		"iS": 29395,
 		"oA": 0,
 		"oAP": "/img/art336-smartphone-reach-area.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/art336-user-flow-01.png": {
+		"ft": 32768,
+		"iS": 40586,
+		"oA": 0,
+		"oAP": "/img/art336-user-flow-01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/art336-user-flow-02.jpg": {
+		"ft": 16384,
+		"iS": 142591,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-user-flow-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-user-flow-03.png": {
+		"ft": 32768,
+		"iS": 72756,
+		"oA": 0,
+		"oAP": "/img/art336-user-flow-03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/art336-user-flow-04.jpg": {
+		"ft": 16384,
+		"iS": 488432,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-user-flow-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-user-flow-05.png": {
+		"ft": 32768,
+		"iS": 70015,
+		"oA": 0,
+		"oAP": "/img/art336-user-flow-05.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

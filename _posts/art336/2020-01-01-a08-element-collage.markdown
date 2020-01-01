@@ -20,13 +20,19 @@ Finally, create your elements on an artboard in either Figma, Sketch, Studio, or
 
 To help you visualize what an Element Collage is, I’ve found a few examples. However, please keep in mind that most of the examples are the final version presented to the client. Yours should not be neat and orderly…unless that is your natural working method.
 
-<img src="../img/element-collage-00.jpg" alt="Element Collage">
-<img src="../img/element-collage-01.jpg" alt="Element Collage">
-<img src="../img/element-collage-02.jpg" alt="Element Collage">
-<img src="../img/element-collage-03.png" alt="Element Collage">
-<img src="../img/element-collage-04.jpg" alt="Element Collage">
-<img src="../img/element-collage-05.jpg" alt="Element Collage">
-<img src="../img/element-collage-06.jpg" alt="Element Collage">
+![Examples of Element Collages](../img/art336-element-collage-00.jpg)
+
+![Examples of Element Collages](../img/art336-element-collage-01.jpg)
+
+![Examples of Element Collages](../img/art336-element-collage-02.jpg)
+
+![Examples of Element Collages](../img/art336-element-collage-03.png)
+
+![Examples of Element Collages](../img/art336-element-collage-04.jpg)
+
+![Examples of Element Collages](../img/art336-element-collage-05.jpg)
+
+![Examples of Element Collages](../img/art336-element-collage-06.jpg)
 
 ## Design Systems
 - <a href="https://www.invisionapp.com/design-system-manager/expert-advice" title="Design Systems Video Series | Master Product Design at Scale" target="_blank">Design Systems Video Series</a>

@@ -20,11 +20,11 @@ Simply put, the User Flow is the path a _user_ will _flow_ through to get to the
 
 The other purpose for determining User Flow is create a Site Map. The site map is essentially the architectural blueprint of all the pages in a website. The site map is essential to the visual design process because it shows the graphic designer exactly what they need to design. However, it is important to note that the site map should be design agnostic. At this stage you are not designing anything visual yet. 
 
-<img src="../img/user-flow-01.png">
-<img src="../img/user-flow-02.jpg">
-<img src="../img/user-flow-03.png">
-<img src="../img/user-flow-04.jpg">
-<img src="../img/user-flow-05.png">
+![Userflow Examples](../img/art336-user-flow-01.png)
+![Userflow Examples](../img/art336-user-flow-02.jpg)
+![Userflow Examples](../img/art336-user-flow-03.png)
+![Userflow Examples](../img/art336-user-flow-04.jpg)
+![Userflow Examples](../img/art336-user-flow-05.png)
 
 ### Grading
 - If you received **8&ndash;10 points** you correctly identified the major pages and flow of the tasks in the allotted time.
@@ -62,7 +62,7 @@ This assignment will be worth 10 points.
 
 ### Resources
 - <a href="https://wireframe.cc/" target="_blank" title="Wireframe.cc - minimal wireframing tool">Wireframe.cc - minimal wireframing tool</a>
-- <a href="https://students.garyrozanc.com/downloads/wireframing-kits.zip" target="_blank" title="Wireframing Kit">Wireframing Kits</a>
+- <a href="../downloads/wireframing-kits.zip" target="_blank" title="Wireframing Kit">Wireframing Kits</a>
 - <a href="http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399" target="_blank" title="A Beginner's Guide to Wireframing - Envato Tuts+ Web Design Article">A Beginner&#8217;s Guide to Wireframing</a>
 - <a href="http://www.usability.gov/how-to-and-tools/methods/wireframing.html" target="_blank" title="Wireframing | Usability.gov">Wireframing</a>
 - <a href="https://www.youtube.com/watch?v=T0vt3nLZKks&feature=youtu.be" target="_blank" title="What is a Wireframe? - YouTube">What is a Wireframe?</a>

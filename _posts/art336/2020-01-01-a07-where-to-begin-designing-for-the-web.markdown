@@ -19,7 +19,7 @@ Now, what makes the first step in the process confusing for me as an instructor&
 
 To do my best to replicate this, I’ve decided to introduce four of these phases/steps in a single class so you know how they are all related. Once introduced, you will have multiple class periods to work on them. The order is not imporatant, since they are happening simultaneously.
 
-- [A07 - A: Content Inventory](https://gary.is/art336/a07a-content-inventory.html)
-- [A07 - B: Information Architecture](https://gary.is/art336/a07b-information-architecture.html)
-- [A07 - C: User Research](https://gary.is/art336/a07c-user-research.html)
-- [A07 - D: Art Direction vs. Graphic Design](https://gary.is/art336/a07d-art-direction-vs-graphic-design.html)
+- [A07 - A: Content Inventory](a07a-content-inventory.html)
+- [A07 - B: Information Architecture](a07b-information-architecture.html)
+- [A07 - C: User Research](a07c-user-research.html)
+- [A07 - D: Art Direction vs. Graphic Design](a07d-art-direction-vs-graphic-design.html)

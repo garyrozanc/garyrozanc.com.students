@@ -1,113 +1,38 @@
-<!DOCTYPE html>
-<html>
-
-	<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>A07 - D: Art Direction vs. Graphic Design</title>
-  <meta name="description" content="Full disclosure, I’m getting a lot of this material from Dan Mall. I suggest that you read his article as I’m only giving you the highlights. Now on to the t...">
-
-  <!--<link rel="stylesheet" href="https://garyrozanc.com//students/css/main.css">-->
-  <link rel="stylesheet" href="../css/main.css">
-  <link rel="canonical" href="https://garyrozanc.com//students/art336/a07d-art-direction-vs-graphic-design.html">
-  <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com//students/feed.xml">
-</head>
-
-	
-	<body id="top">
-		
-		<div class="wrap">
-		<div class="icon-top">
-	<a href="#top" alt="Back to top of page" class="scroll"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path d="M0 50c0 27.6 22.4 50 50 50 27.6 0 50-22.4 50-50S77.6 0 50 0C22.4 0 0 22.4 0 50zM51.1 19.8L87 58.1c0.6 0.6 0.6 1.8 0 2.4L76.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L50 46.7 26.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L12.9 60.5c-0.3-0.4-0.4-0.7-0.4-1.2s0.2-0.8 0.4-1.2l35.9-38.3C49.5 19.2 50.5 19.2 51.1 19.8z"/></svg></a>
-</div><!-- icon-top -->
-
-    <div class="icon-close">
-    		<a href="/students/art336" alt="Back Button"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path class="st0" d="M50 0C22.4 0 0 22.4 0 50c0 27.6 22.4 50 50 50s50-22.4 50-50C100 22.4 77.6 0 50 0zM80.7 70.1L70.1 80.7c-0.6 0.6-1.5 0.6-2.1 0l-18-18 -18 18c-0.6 0.6-1.5 0.6-2.1 0L19.3 70.1c-0.6-0.6-0.6-1.5 0-2.1l18-18 -18-18c-0.6-0.6-0.6-1.5 0-2.1l10.6-10.6c0.6-0.6 1.5-0.6 2.1 0l18 18 18-18c0.6-0.6 1.5-0.6 2.1 0l10.6 10.6c0.6 0.6 0.6 1.5 0 2.1l-18 18 18 18C81.3 68.6 81.3 69.5 80.7 70.1z"/></svg></a>
-</div><!-- close -->
-
-	<header role="banner" class="assignments">
-    
-	    <h1>A07 - D: Art Direction vs. Graphic Design</h1>
-	    
-	    <div class="assignment-meta-info">
-		    <!--<span class="assignment-course-number">Art 336</span>-->
-		    <ul>
-			    <li>
-				    Due:
-						
-				    						
-					
-						<span class="red">
-					
-					Mon, Mar 04, 2019</span>
-				</li>
-				
-				
-				<li>
-					Est. Time:
-						
-				    						
-					
-						<span class="red">
-					
-					2 Class Periods</span>
-				</li>
-				
-				
-				
-				<li>
-					Points:
-						
-				    						
-					
-						<span class="red">
-					
-					30</span>
-				</li>
-				
-		    </ul>
-	    </div>
-	    
-	</header>
-	
-    <div>
-    		<p>Full disclosure, I’m getting a lot of <a href="https://alistapart.com/article/art-direction-and-design">this material from Dan Mall</a>. I suggest that you read his article as I’m only giving you the highlights. Now on to the topic at hand. With print design, generally you are designing a single page that is a fixed size. Even books have a limited number of page variations, and they are all the same size. Websites have multiple pages, at multiple sizes, with widely varying content. This gives the designer a lot to design versus a poster or business card. Since there is a lot to design for a website, you want to be efficient as possible. Spending a lot of time on revisions to the visual design will drive up costs (that may not be billable), slow down font-end development, and put the project behind.</p>
+I"�'<p>Full disclosure, I’m getting a lot of <a href="https://alistapart.com/article/art-direction-and-design">this material from Dan Mall</a>. I suggest that you read his article as I’m only giving you the highlights. Now on to the topic at hand. With print design, generally you are designing a single page that is a fixed size. Even books have a limited number of page variations, and they are all the same size. Websites have multiple pages, at multiple sizes, with widely varying content. This gives the designer a lot to design versus a poster or business card. Since there is a lot to design for a website, you want to be efficient as possible. Spending a lot of time on revisions to the visual design will drive up costs (that may not be billable), slow down font-end development, and put the project behind.</p>
 
 <p>As a graphic designer you want to get on the same page visually as the client early on before you get too far into the visual design process. While showing a client a bunch of different versions of business card isn’t necessarily prohibitive, trying to do that with a website is. Fortunately there are multiple ways to get on the same page as your client visually before you begin to design. Since you are in the very beginning stages of the project and don’t have content to design yet, take advantage of this time by determining the Art Direction of the website. Determining the art direction before you start designing will save a lot of unnecessary back and forth during the critical design phase.</p>
 
 <p>So, what is “Art Direction,” and how is it different than “Graphic Design?” I like Dan Mall’s explanation that everyone is an art director, but not everyone is a designer. For example, there isn’t a single person who isn’t visually impaired who can not see the distinct visual direction of the following two images.</p>
 
-<p><img src="../img/art336-art-drection-clown-01.jpg" alt="Examples of Art Direction" /></p>
+<p><img src="../img/art336-art-drection-clown-01.jpg" /></p>
 
-<p><img src="../img/art336-art-drection-clown-02.jpg" alt="Examples of Art Direction" /></p>
+<p><img src="../img/art336-art-drection-clown-02.jpg" /></p>
 
 <p>Clearly the first image of the clown is meant to scare the heck out of you. The second image is clearly meant to be fun. In a nutshell, this is art direction, and it can be figured out before any design is done! If anyone can describe art direction, why do you need to figure it out before you design? Well, while everyone understands art direction, not everyone has the same definition of ambiguous terms. For example, what would you do if your client said they wanted the project’s art direction to be funny? Everyone knows what funny is, but everyone has a different interpretation of what funny could look like.</p>
 
-<p><img src="../img/art336-art-drection-funny-01.jpg" alt="Examples of Art Direction" /></p>
+<p><img src="../img/art336-art-direction-funny-01.jpg" /></p>
 
-<p><img src="../img/art336-art-drection-funny-02.jpeg" alt="Examples of Art Direction" /></p>
+<p><img src="../img/art336-art-direction-funny-02.jpeg" /></p>
 
 <p><em>Blades of Glory</em> and <em>Napoleon Dynamite</em> are both considered very funny movies. However, they have totally different approaches to funny. Let’s image that your client asked for funny, and you delivered the Napoleon Dynamite version of funny and they hated it because they were expecting Blades of Glory funny. You just wasted a ton of time making visual mockups to determine that you wren’t on the same page as your client.</p>
 
 <p>Another example, and the one I most often hear clients say, is they want something “clean”. As graphic designer who is fascinated with the history of design, I guarantee that my interpretation of the term clean is vastly different from my client. Personally, when I hear the term “clean” I think of a basic white space with very little decoration or furniture.</p>
 
-<p><img src="../img/art336-art-drection-clean-01.jpg" alt="Examples of Art Direction" /></p>
+<p><img src="../img/art336-art-drection-clean-01.jpg" /></p>
 
 <p>Now, if I were to follow the client’s preferred art direction of “clean”, but with my visual interpretation they could hate it, especially if they were expecting one of these versions of “clean”.</p>
 
-<p><img src="../img/art336-art-drection-clean-02.jpg" alt="Examples of Art Direction" /></p>
+<p><img src="../img/art336-art-drection-clean-02.jpg" /></p>
 
-<p><img src="../img/art336-art-drection-clean-03.jpg" alt="Examples of Art Direction" /></p>
+<p><img src="../img/art336-art-drection-clean-03.jpg" /></p>
 
-<p><img src="../img/art336-art-drection-clean-04.jpg" alt="Examples of Art Direction" /></p>
+<p><img src="../img/art336-art-drection-clean-04.jpg" /></p>
 
 <p>Finally, if Art Direction is the feel (a major oversimplification), what is design? We will talk about  design as the semester goes along, but for now I leave you with this example. One of these images nails the art direction, but miserably fails at design. The other image arguably nails the design, but massively fails at the art direction. I will let you guess as to which one is which.</p>
 
-<p><img src="../img/art336-art-drection-birthday-01.gif" alt="Examples of Graphic Design" /></p>
+<p><img src="../img/art336-art-direction-birthday-01.gif" /></p>
 
-<p><img src="../img/art336-art-drection-birthday-02.jpg" alt="Examples of Graphic Design" /></p>
+<p><img src="../img/art336-art-direction-birthday-02.jpg" /></p>
 
 <p>Luckily there are multiple ways to get on the same page as your client long before you begin to design. My two favorite methods are Moodboard Decks, and Style Tiles. Both methods are very effective but are vastly different. As you advance in your career, I think you will begin to intuitively know which is a better method for the project you are working on. For the sake of learning, I’m going to ask you to do both.</p>
 
@@ -157,26 +82,4 @@
   <li><a href="https://dribbble.com/tags/style_tile" target="_blank" title="Example Style Tile">Example Style Tiles</a></li>
   <li><a href="http://alistapart.com/article/client-relationships-and-the-multi-device-web" target="_blank" title="Client Relationships and the Multi-Device Web">Client Relationships and the Multi-Device Web</a></li>
 </ul>
-
-    </div>
-
-
-		
-		
-		</div>
-		
-		<!--<script src="https://garyrozanc.com//students/js/plugins.js"></script>-->
-		<script src="../js/plugins.js"></script>
-		
-		<script>
-			// Change URL
-			var origin = localStorage.getItem('origin');
-			var a = document.getElementById('origin');
-			if (a) {
-				a.href = origin;
-			}
-		</script>
-	
-	</body>
-
-</html>
+:ET

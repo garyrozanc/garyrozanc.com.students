@@ -15,7 +15,7 @@ assets: https://www.dropbox.com/s/pdc9bawrcny6q8s/art336-tracing-atomic-design.z
 
 So what is Atomic Design? In a crazy over simplification a group of atoms (buttons, headlines, single form input, etc.) combine to form molecules (form, card, navigation, carousel, etc.). Those molecules combine to form organisms (site header and footer, menus, featured sections, etc.). Finally, organisms combine to form webpages. For an in-depth explanation of Atomic Design read [Brad’s article](http://bradfrost.com/blog/post/atomic-web-design/) or check out his [Atomic Design](http://atomicdesign.bradfrost.com/) book. It is also important to note that atomic design, design systems, pattern libraries, ui libraries, etc. for the purpose of this course are the same thing. They are simply terms used to describe a collection of elements that compose a webpage. Once you get into the industry, these terms will take on more specific and discernible meanings.
 
-For today’s class, using the supplied <a href="https://www.dropbox.com/s/pdc9bawrcny6q8s/art336-tracing-atomic-design.zip?dl=0" target="_blank" title="Template Illustrator Files">Illustrator files</a>, you will pick **two** of the websites listed below and trace the atoms, molecules, and organisms for the webpage. You may not finish the second one, and that's OK! In the Illustrator file you will find a full page screenshot, several different layers for doing the tracings, and swatches with the colors for tracing on the appropriate layer.
+For today’s class, using the supplied <a href="../downloads/art336-tracing-atomic-design.zip" target="_blank" title="Template Illustrator Files">Illustrator files</a>, you will pick **two** of the websites listed below and trace the atoms, molecules, and organisms for the webpage. You may not finish the second one, and that's OK! In the Illustrator file you will find a full page screenshot, several different layers for doing the tracings, and swatches with the colors for tracing on the appropriate layer.
 
 - <a href="http://www.aiga.org/" target="_blank" title="AIGA | the professional association for design">AIGA</a>
 - <a href="https://css-tricks.com/" target="_blank" title="CSS-Tricks">CSS-Tricks</a>
@@ -35,7 +35,7 @@ This assignment will be worth 10 points and is due by the end of class. Name the
 
 ## Resources
 
-- <a href="https://www.dropbox.com/s/pdc9bawrcny6q8s/art336-tracing-atomic-design.zip?dl=0" target="_blank" title="Template Illustrator Files">Template Illustrator Files</a>
+- <a href="../downloads/art336-tracing-atomic-design.zip" target="_blank" title="Template Illustrator Files">Template Illustrator Files</a>
 - <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank" title="Atomic Design">Atomic Design</a>
 - <a href="http://demo.patternlab.io/" target="_blank" title="Pattern Lab">Pattern Lab</a>
 - [Shopify Polaris](https://polaris.shopify.com/)

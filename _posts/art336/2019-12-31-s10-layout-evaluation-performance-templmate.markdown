@@ -13,7 +13,7 @@ assets: https://www.dropbox.com/s/e3mpve87srtg9i5/art336-layout-evaluation-templ
 
 This is perhaps the most important part of the entire process. The method and tools discussed in this screencast demonstrate a quick and easy way for you to test your design ideas _before_ you begin the visual design process and potentially waste your time on an idea that was _never_ going to work once turned into live code. 
 
-Sorry for the brevity, but you will need <a href="https://www.dropbox.com/s/e3mpve87srtg9i5/art336-layout-evaluation-template.zip?dl=0" target="_blank" title="Evaluation Framework Files">these files</a> to follow along with this screencast.
+Sorry for the brevity, but you will need <a href="../downloads/art336-layout-evaluation-template.zip" target="_blank" title="Evaluation Framework Files">these files</a> to follow along with this screencast.
 
 ## Part 01 of 06
 <div class="video-wrapper">
