@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>S09: Working With Images</title>
+  <meta name="description" content="Designers love to use big hero images when designing a website. I’m not going to debate the merits of the use of hero images—or any images for that matter—in...">
+
+  <!--<link rel="stylesheet" href="https://garyrozanc.com//students/css/main.css">-->
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="canonical" href="https://garyrozanc.com//students/art336/s09-working-with-images.html">
+  <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com//students/feed.xml">
+</head>
+
+	
+	<body id="top">
+		
+		<div class="wrap">
+		<div class="icon-top">
+	<a href="#top" alt="Back to top of page" class="scroll"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path d="M0 50c0 27.6 22.4 50 50 50 27.6 0 50-22.4 50-50S77.6 0 50 0C22.4 0 0 22.4 0 50zM51.1 19.8L87 58.1c0.6 0.6 0.6 1.8 0 2.4L76.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L50 46.7 26.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L12.9 60.5c-0.3-0.4-0.4-0.7-0.4-1.2s0.2-0.8 0.4-1.2l35.9-38.3C49.5 19.2 50.5 19.2 51.1 19.8z"/></svg></a>
+</div><!-- icon-top -->
+
+    <div class="icon-close">
+    		<a href="/students/art336" alt="Back Button"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path class="st0" d="M50 0C22.4 0 0 22.4 0 50c0 27.6 22.4 50 50 50s50-22.4 50-50C100 22.4 77.6 0 50 0zM80.7 70.1L70.1 80.7c-0.6 0.6-1.5 0.6-2.1 0l-18-18 -18 18c-0.6 0.6-1.5 0.6-2.1 0L19.3 70.1c-0.6-0.6-0.6-1.5 0-2.1l18-18 -18-18c-0.6-0.6-0.6-1.5 0-2.1l10.6-10.6c0.6-0.6 1.5-0.6 2.1 0l18 18 18-18c0.6-0.6 1.5-0.6 2.1 0l10.6 10.6c0.6 0.6 0.6 1.5 0 2.1l-18 18 18 18C81.3 68.6 81.3 69.5 80.7 70.1z"/></svg></a>
+</div><!-- close -->
+
+	<header role="banner" class="assignments">
+    
+	    <h1>S09: Working With Images</h1>
+	    
+	    <div class="assignment-meta-info">
+		    <!--<span class="assignment-course-number">Art 336</span>-->
+		    <ul>
+			    <li>
+				    Due:
+						
+				    						
+					
+						<span class="red">
+					
+					Wed, Mar 06, 2019</span>
+				</li>
+				
+				
+				<li>
+					Est. Time:
+						
+				    						
+					
+						<span class="red">
+					
+					3 hours</span>
+				</li>
+				
+				
+				
+				<li>
+					Points:
+						
+				    						
+					
+						<span class="red">
+					
+					35</span>
+				</li>
+				
+		    </ul>
+	    </div>
+	    
+	</header>
+	
+    <div>
+    		<p>Designers love to use big hero images when designing a website. I’m not going to debate the merits of the use of hero images—or any images for that matter—in a web page design. Images certainly have their place, but they can also cause big problems for the site’s visitor if not done correctly.</p>
+
+<p><img src="../img/art336-hero-01.jpg" alt="Image of Clever Birds Website Home Page" /></p>
+
+<p><img src="../img/art336-hero-02.jpg" alt="Image of Christian Woo Website Home Page" /></p>
+
+<p>In this series of screencasts, I demonstrate how to use HTML and CSS to embed images in your web pages. This includes the use of vector images! More importantly however, I  cover the Art Direction—the identification of breakpoints—of photographic images for different screen sizes. Remember the following from our in-class discussion?</p>
+
+<p>Another content type easy to identify breakpoints for are images. When you crop an image suitable for a wide screen you can’t assume it still works when scaled to fit within a skinnier screen width. A good example of this is an image of President Barack Obama being sworn in. A wider version lets the viewer see Justice Kennedy, and President Obama with his family looking on. On a skinny screen the image is scaled to fit and the content <em>breaks</em> making it hard to see details of President Obama, the original intent of the image. This is where a breakpoint can be inserted that art directs the image to be cropped into President Obama and Michelle Obama to retain detail. Another breakpoint can be added to adjust the design to further crop into President Obama.</p>
+
+<p><img src="../img/obama-inaguation.jpg" alt="Wide Crop - President Barak Obama Inauguration" /></p>
+
+<p><img src="../img/obama-inaguation-crop-01.jpg" alt="Medium Crop - President Barak Obama Inauguration" /></p>
+
+<p><img src="../img/obama-inaguation-crop-02.jpg" alt="Skinny Crop - President Barak Obama Inauguration" /></p>
+
+<p>Finally, I cover performance issues such as what happens if an images takes too long to load and how to optimize your images for performance.</p>
+
+<h2 id="tips-before-starting">Tips Before Starting</h2>
+<ul>
+  <li>Download the necessary <a href="../downloads/art336-working-with-images.zip" target="_blank" title="Project image assets"> assets</a>.</li>
+  <li>Do not upload the “assets” folder that contains the high resolution .jpg files to your class web hosting account! This could cause you to get an error when visiting your hosting account that says something to the effect of “Over Storage Limit”.</li>
+</ul>
+
+<h3 id="part-01-of-07">Part 01 of 07</h3>
+<p>In part 01 you will basically <a href="../downloads/art336-working-with-images-assets.zip" target="_blank" title="Project image assets">download the necessary files</a> and use the boilerplate to setup the assignment.</p>
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/0HW5MXmbXas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="part-02-of-07">Part 02 of 07</h3>
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/NsSm7qmfXAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>	
+</div>
+
+<h3 id="part-03-of-07">Part 03 of 07</h3>
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/m-2a3PUwoWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="part-04-of-07">Part 04 of 07</h3>
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/0s6EEopf33k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="part-05-of-07">Part 05 of 07</h3>
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/u2XpTj961K4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="part-06-of-07">Part 06 of 07</h3>
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/RdlE-duqRa4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="part-07-of-07">Part 07 of 07</h3>
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/Y4_TTo8Be_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="grading">Grading</h3>
+<p>This assignment will be worth 35 points.</p>
+
+<ul>
+  <li>Rubric coming soon…</li>
+  <li>If you received <strong>35 points</strong> you successfully…</li>
+  <li>If you received between <strong>0 points</strong> you did not complete the assignment.</li>
+</ul>
+
+<h2 id="resources">Resources</h2>
+<ul>
+  <li>The necessary <a href="../downloads/art336-working-with-images-assets.zip" target="_blank" title="Project image assets">image assets</a>.</li>
+  <li><a href="http://petercollingridge.appspot.com/svg-editor" target="_blank" title="SVG Editor">SVG Editor</a></li>
+  <li><a href="https://www.webpagetest.org/" target="_blank" title="WebPagetest - Website Performance and Optimization Test">WebPagetest - Website Performance and Optimization Test</a></li>
+  <li><a href="https://imageoptim.com/mac" target="_blank" title="ImageOptim — better Save for Web">ImageOptim — better Save for Web</a></li>
+  <li><a href="https://alistapart.com/article/responsive-images" title="Responsive Images · An A List Apart Article" target="_blank">Responsive Images</a></li>
+  <li><a href="https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips" target="_blank" title="10 Must Know Image Optimization Tips - Image SEO">10 Must Know Image Optimization Tips</a></li>
+  <li><a href="https://www.noupe.com/design/webp-increases-web-performance.html">How WebP Increases Your Web Performance - noupe</a></li>
+</ul>
+
+    </div>
+
+
+		
+		
+		</div>
+		
+		<!--<script src="https://garyrozanc.com//students/js/plugins.js"></script>-->
+		<script src="../js/plugins.js"></script>
+		
+		<script>
+			// Change URL
+			var origin = localStorage.getItem('origin');
+			var a = document.getElementById('origin');
+			if (a) {
+				a.href = origin;
+			}
+		</script>
+	
+	</body>
+
+</html>

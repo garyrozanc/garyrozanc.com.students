@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>S06: Using a FTP Client</title>
+  <meta name="description" content="Throughout this course you will be creating HTML and CSS documents, using web fonts, and images on your computer. Working on the files directly on your compu...">
+
+  <!--<link rel="stylesheet" href="https://garyrozanc.com//students/css/main.css">-->
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="canonical" href="https://garyrozanc.com//students/art336/s06-using-a-ftp-client.html">
+  <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com//students/feed.xml">
+</head>
+
+	
+	<body id="top">
+		
+		<div class="wrap">
+		<div class="icon-top">
+	<a href="#top" alt="Back to top of page" class="scroll"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path d="M0 50c0 27.6 22.4 50 50 50 27.6 0 50-22.4 50-50S77.6 0 50 0C22.4 0 0 22.4 0 50zM51.1 19.8L87 58.1c0.6 0.6 0.6 1.8 0 2.4L76.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L50 46.7 26.1 72.2c-0.6 0.6-1.6 0.6-2.3 0L12.9 60.5c-0.3-0.4-0.4-0.7-0.4-1.2s0.2-0.8 0.4-1.2l35.9-38.3C49.5 19.2 50.5 19.2 51.1 19.8z"/></svg></a>
+</div><!-- icon-top -->
+
+    <div class="icon-close">
+    		<a href="/students/art336" alt="Back Button"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path class="st0" d="M50 0C22.4 0 0 22.4 0 50c0 27.6 22.4 50 50 50s50-22.4 50-50C100 22.4 77.6 0 50 0zM80.7 70.1L70.1 80.7c-0.6 0.6-1.5 0.6-2.1 0l-18-18 -18 18c-0.6 0.6-1.5 0.6-2.1 0L19.3 70.1c-0.6-0.6-0.6-1.5 0-2.1l18-18 -18-18c-0.6-0.6-0.6-1.5 0-2.1l10.6-10.6c0.6-0.6 1.5-0.6 2.1 0l18 18 18-18c0.6-0.6 1.5-0.6 2.1 0l10.6 10.6c0.6 0.6 0.6 1.5 0 2.1l-18 18 18 18C81.3 68.6 81.3 69.5 80.7 70.1z"/></svg></a>
+</div><!-- close -->
+
+	<header role="banner" class="assignments">
+    
+	    <h1>S06: Using a FTP Client</h1>
+	    
+	    <div class="assignment-meta-info">
+		    <!--<span class="assignment-course-number">Art 336</span>-->
+		    <ul>
+			    <li>
+				    Due:
+						
+				    						
+					
+						<span class="red">
+					
+					Mon, Feb 11, 2019</span>
+				</li>
+				
+				
+				<li>
+					Est. Time:
+						
+				    						
+					
+						<span class="red">
+					
+					30 minutes</span>
+				</li>
+				
+				
+				
+				<li>
+					Points:
+						
+				    						
+					
+						<span class="red">
+					
+					5</span>
+				</li>
+				
+		    </ul>
+	    </div>
+	    
+	</header>
+	
+    <div>
+    		<p>Throughout this course you will be creating HTML and CSS documents, using web fonts, and images on your computer. Working on the files directly on your computer is a great strategy because you don’t have to worry about a slow, or non-existent internet connection, web server issues, etc., or litany of other potential issues. However, unless your computer is setup as a web server with a 24/7 connection to the internet, the page you create won’t be viewable by anyone unless they are sitting at your computer.</p>
+
+<p>Since you want the speed benefits of working on the HTML and CSS files on your computer, but also want them out there for the world to see, you need to get your files onto a computer—web server—with a 24/7 connection to the internet. Since I’m supplying you the web server, all you need is a way to transfer the files you create during this course from your computer to the web server. Fortunately the File Transfer Protocol, better know as FTP, lets you move files from one computer to another via an internet connection.</p>
+
+<p>You may have also heard of this process referred to as SFTP, or Secure File Transfer Protocol. SFTP functions the same way as FTP, with one exception, encryption. With the SFTP process files sent between your computer and the web server are encrypted. This extra layer of security ensures that sensitive data sent between the two computers isn’t readable if it were hacked by someone. For this course, you will use FTP, not SFTP since none of the data you are sending to the remote web server is sensitive.</p>
+
+<p>To utilize the File Transfer Protocol you need a FTP client. There are many FTP clients available for both macOS and Windows. <a href="https://filezilla-project.org/" target="_blank" title="FileZilla - The free FTP solution"><a href="https://panic.com/transmit/" target="_blank" title="Transmit 5">Transmit 5</a></a> and Transmit are some of the more popular ones, but for this course you will be using <a href="https://cyberduck.io/?l=en" target="_blank" title="Cyberduck | Libre FTP, SFTP, WebDAV, S3, Backblaze B2 &amp; OpenStack Swift browser for Mac and Windows">Cyberduck</a>. Since it’s open source, multi-platform, with a revenue stream I thinks it’s the best choice for us. Another bonus is that if you are a macOS user, the interface will seem very familiar to you.</p>
+
+<p>To use the FTP client <a href="https://cyberduck.io/?l=en" target="_blank" title="Cyberduck | Libre FTP, SFTP, WebDAV, S3, Backblaze B2 &amp; OpenStack Swift browser for Mac and Windows">Cyberduck</a> to transfer your assignments to the course web server, simply follow the screencast below.</p>
+
+<div class="video-wrapper">
+	<iframe src="https://player.vimeo.com/video/253034589" width="640" height="400" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+</div>
+
+<h2 id="grading">Grading</h2>
+
+<p>This assignment will be worth 5 points.</p>
+
+<ul>
+  <li>If you received between <strong>4–5 points</strong>, you successfully used Cyberduck to transfer your files to the course web server without any help.</li>
+  <li>If you received between <strong>1–3 points</strong>, you successfully used Cyberduck to transfer your files to the course web server with additional help.</li>
+  <li>If you received <strong>0 points</strong> you did not complete the assignment.</li>
+</ul>
+
+    </div>
+
+
+		
+		
+		</div>
+		
+		<!--<script src="https://garyrozanc.com//students/js/plugins.js"></script>-->
+		<script src="../js/plugins.js"></script>
+		
+		<script>
+			// Change URL
+			var origin = localStorage.getItem('origin');
+			var a = document.getElementById('origin');
+			if (a) {
+				a.href = origin;
+			}
+		</script>
+	
+	</body>
+
+</html>

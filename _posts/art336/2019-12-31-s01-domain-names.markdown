@@ -25,7 +25,7 @@ It’s during that first year that it’s nearly impossible to compare apples to
 ## Making a Domain Name Private
 No matter who the Domain Name Registrar is, the information of the person who is leasing the domain name is publicly available. For example, going to <a href="https://www.whois.com/whois/</a>" target="_blank" title="Whois Lookup">https://www.whois.com/whois/</a> and running a Whois Lookup for facebook.com will reveal the name, address, and phone number of the person who leased the domain name.
 
-<img src="../img/whois-lookup.jpeg">
+![Whois Lookup Screenshot](../img/art336-whois-lookup.jpg)
 
 For a fee, a domain name registrar will give you the option to make your information private. This will hide your personal information from people, such as telemarketers, who will be looking for this information. It’s entirely up to you to decide if you want to make your information public or private, but at the time of this writing namecheap.com offers one year of free domain name privacy.
 

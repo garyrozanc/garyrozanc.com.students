@@ -14,21 +14,21 @@ assets: https://www.dropbox.com/s/nbg3zyzillvzsbf/art336-font-specimen-evaluatio
 Tools like Adobe Xd, InVision, and Sketch give you the ability to create clickable prototypes and make it easy to send a non-responsive version of your visual design to view on a smartphone or tablet device. However, relying on these prototypes for accurate evaluation is problematic. For example, in **Figure 1**, the screenshot on the left is a visual design created in Sketch specifically sized for the iPhone 7 Plus, viewed using the Sketch Mirror app on an iPhone 7 Plus. The screenshot on the right is a visual design created specifically for the iPhone 4s, viewed on an iPhone 7 Plus. While not ideal, you can still estimate what your smaller sized designs will look like on a slightly larger screen, the same isn’t true in reverse.
 
 <figure>
-	<img src="../img/sketch-mirror-7plus.jpg" alt="Sketch Mirror on iPhone 7 Plus">
+	<img src="../img/art336-sketch-mirror-7plus.jpg" alt="Sketch Mirror on iPhone 7 Plus">
 	<figcaption>Figure 1</figcaption>
 </figure>
 
 In **Figure 2**, using the same software setup, the iPhone 4s sized artboard is on the left and the iPhone 7 Plus artboard is on the right. Since these are both being viewed on an iPhone 4s, notice how the iPhone 7 Plus artboard on the right is significantly scaled, making it impossible to accurately evaluate your typographic choices.
 
 <figure>
-	<img src="../img/sketch-mirror-4s.jpg" alt="Sketch Mirror on iPhone 4s">
+	<img src="../img/art336-sketch-mirror-4s.jpg" alt="Sketch Mirror on iPhone 4s">
 	<figcaption>Figure 2</figcaption>
 </figure>
 
-Fortunately, there is an easy way to evaluate your typographic choices in web browsers and on any of the myriad of devices available today. Based on the <a href="http://webfontspecimen.com/" target="_blank" title="Web Font Specimen Website">Web Font Specimen</a> by <a href="http://twitter.com/nicewebtype" target="_blank" title="Twitter User: @nicewebtype">@nicewebtype</a> I’ve created the <a href="https://www.dropbox.com/s/nbg3zyzillvzsbf/art336-font-specimen-evaluation-page.zip?dl=0" target="_blank" title="Webfont Specimen Evaluation Page Download">Webfont Specimen Evaluation Page</a> for you to use to evaluate your typographic choices at the beginning of the visual design process, not after you hand off the files to your front-end developer.
+Fortunately, there is an easy way to evaluate your typographic choices in web browsers and on any of the myriad of devices available today. Based on the <a href="http://webfontspecimen.com/" target="_blank" title="Web Font Specimen Website">Web Font Specimen</a> by <a href="http://twitter.com/nicewebtype" target="_blank" title="Twitter User: @nicewebtype">@nicewebtype</a> I’ve created the <a href="../downloads/art336-font-specimen-evaluation-page.zip" target="_blank" title="Webfont Specimen Evaluation Page Download">Webfont Specimen Evaluation Page</a> for you to use to evaluate your typographic choices at the beginning of the visual design process, not after you hand off the files to your front-end developer.
 
 ## Resources
-- Download the <a href="https://www.dropbox.com/s/nbg3zyzillvzsbf/art336-font-specimen-evaluation-page.zip?dl=0" target="_blank" title="Webfont Specimen Evaluation Page Download">Webfont Specimen Evaluation Page</a>
+- Download the <a href="../downloads/art336-font-specimen-evaluation-page.zip" target="_blank" title="Webfont Specimen Evaluation Page Download">Webfont Specimen Evaluation Page</a>
 - <a href="https://www.fontsquirrel.com/" target="_blank" title="Free Fonts! Legit Free & Quality » Font Squirrel">Font Squirrel</a>
 - <a href="https://www.theleagueofmoveabletype.com/" target="_blank" title="The League of Moveable Type">The League of Moveable Type</a>
 - <a href="https://fonts.google.com/" target="_blank" title="Google Fonts">Google Fonts</a>

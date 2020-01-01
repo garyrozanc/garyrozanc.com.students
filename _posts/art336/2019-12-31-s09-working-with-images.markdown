@@ -13,9 +13,9 @@ assets: https://www.dropbox.com/s/9nqbo6yqtbolu6t/art336-working-with-images.zip
 
 Designers love to use big hero images when designing a website. I’m not going to debate the merits of the use of hero images—or any images for that matter—in a web page design. Images certainly have their place, but they can also cause big problems for the site’s visitor if not done correctly.
 
-<img src="../img/hero-01.jpg" alt="Image of Clever Birds Website Home Page">
+![Image of Clever Birds Website Home Page](../img/art336-hero-01.jpg)
 
-<img src="../img/hero-02.jpg" alt="Image of Christian Woo Website Home Page">
+![Image of Christian Woo Website Home Page](../img/art336-hero-02.jpg)
 
 In this series of screencasts, I demonstrate how to use HTML and CSS to embed images in your web pages. This includes the use of vector images! More importantly however, I  cover the Art Direction—the identification of breakpoints—of photographic images for different screen sizes. Remember the following from our in-class discussion?
 
@@ -30,11 +30,11 @@ Another content type easy to identify breakpoints for are images. When you crop 
 Finally, I cover performance issues such as what happens if an images takes too long to load and how to optimize your images for performance. 
 
 ## Tips Before Starting
-- Download the necessary <a href="https://www.dropbox.com/s/9nqbo6yqtbolu6t/art336-working-with-images.zip?dl=0" target="_blank" title="Project image assets"> assets</a>.
+- Download the necessary <a href="../downloads/art336-working-with-images.zip" target="_blank" title="Project image assets"> assets</a>.
 - Do not upload the “assets” folder that contains the high resolution .jpg files to your class web hosting account! This could cause you to get an error when visiting your hosting account that says something to the effect of “Over Storage Limit”.
 
 ### Part 01 of 07
-In part 01 you will basically <a href="https://students.garyrozanc.com/downloads/art336-working-with-images-assets.zip" target="_blank" title="Project image assets">download the necessary files</a> and use the boilerplate to setup the assignment.
+In part 01 you will basically <a href="../downloads/art336-working-with-images-assets.zip" target="_blank" title="Project image assets">download the necessary files</a> and use the boilerplate to setup the assignment.
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/0HW5MXmbXas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -77,7 +77,7 @@ This assignment will be worth 35 points.
 - If you received between **0 points** you did not complete the assignment.
 
 ## Resources
-- The necessary <a href="https://students.garyrozanc.com/downloads/art336-working-with-images-assets.zip" target="_blank" title="Project image assets">image assets</a>.
+- The necessary <a href="../downloads/art336-working-with-images-assets.zip" target="_blank" title="Project image assets">image assets</a>.
 - <a href="http://petercollingridge.appspot.com/svg-editor" target="_blank" title="SVG Editor">SVG Editor</a>
 - <a href="https://www.webpagetest.org/" target="_blank" title="WebPagetest - Website Performance and Optimization Test">WebPagetest - Website Performance and Optimization Test</a>
 - <a href="https://imageoptim.com/mac" target="_blank" title="ImageOptim — better Save for Web">ImageOptim — better Save for Web</a>

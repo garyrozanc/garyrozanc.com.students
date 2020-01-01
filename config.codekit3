@@ -220,37 +220,48 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/_js/vendor/flowtype.js": {
+	"/_js/vendor/flowtype-min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/_js/vendor/flowtype-min.js",
+		"oA": 0,
+		"oAP": "/_js/vendor/flowtype-min-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
+		"tS": 0
+		},
+	"/_js/vendor/flowtype.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/_js/vendor/flowtype-min.js",
+		"oF": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/_js/vendor/jquery-3.2.1.min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "/_js/vendor/jquery-3.2.1.min-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/_js/vendor/page-scroll.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 1,
+		"mi": 0,
+		"oA": 0,
 		"oAP": "/_js/vendor/page-scroll-min.js",
-		"oF": 0,
-		"sC": 1,
+		"oF": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/_layouts/default.html": {
@@ -301,52 +312,84 @@
 		"oAP": "/_plugins/video_embed.rb",
 		"oF": 0
 		},
-	"/_posts/art336/2019-01-27-a01-what-are-breakpoints.markdown": {
+	"/_posts/art336/2019-12-31-s01-domain-names.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_posts/art336/2019-01-27-a01-what-are-breakpoints.markdown",
+		"oAP": "/_posts/art336/2019-12-31-s01-domain-names.markdown",
 		"oF": 0
 		},
-	"/_posts/art336/2019-01-27-s01-domain-names.markdown": {
+	"/_posts/art336/2019-12-31-s02-web-hosting.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_posts/art336/2019-01-27-s01-domain-names.markdown",
+		"oAP": "/_posts/art336/2019-12-31-s02-web-hosting.markdown",
 		"oF": 0
 		},
-	"/_posts/art336/2019-01-27-s02-web-hosting.markdown": {
+	"/_posts/art336/2019-12-31-s03-web-tools.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_posts/art336/2019-01-27-s02-web-hosting.markdown",
+		"oAP": "/_posts/art336/2019-12-31-s03-web-tools.markdown",
 		"oF": 0
 		},
-	"/_posts/art336/2019-01-27-s03-web-tools.markdown": {
+	"/_posts/art336/2019-12-31-s04-html-css-boilerplate.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_posts/art336/2019-01-27-s03-web-tools.markdown",
+		"oAP": "/_posts/art336/2019-12-31-s04-html-css-boilerplate.markdown",
 		"oF": 0
 		},
-	"/_posts/art336/2019-01-30-a02-atomic-design.markdown": {
+	"/_posts/art336/2019-12-31-s05-course-assignment-page.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_posts/art336/2019-01-30-a02-atomic-design.markdown",
+		"oAP": "/_posts/art336/2019-12-31-s05-course-assignment-page.markdown",
 		"oF": 0
 		},
-	"/_posts/art336/2019-02-04-a03-responsive-case-study.markdown": {
+	"/_posts/art336/2019-12-31-s06-using-a-ftp-client.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_posts/art336/2019-02-04-a03-responsive-case-study.markdown",
+		"oAP": "/_posts/art336/2019-12-31-s06-using-a-ftp-client.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-12-31-s07-webfont-specimen-evaluation-page.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-12-31-s07-webfont-specimen-evaluation-page.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-12-31-s08-web-typography.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-12-31-s08-web-typography.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-12-31-s09-working-with-images.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-12-31-s09-working-with-images.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-12-31-s10-layout-evaluation-performance-templmate.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-12-31-s10-layout-evaluation-performance-templmate.markdown",
 		"oF": 0
 		},
 	"/_posts/art336/2019-12-31-syllabus.markdown": {
@@ -355,6 +398,110 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_posts/art336/2019-12-31-syllabus.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a01-what-are-breakpoints.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a01-what-are-breakpoints.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a02-atomic-design.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a02-atomic-design.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a03-responsive-case-study.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a03-responsive-case-study.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a04-interface-design-and-prototyping-tools.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a04-interface-design-and-prototyping-tools.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a05-just-enough-research.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a05-just-enough-research.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a06-initial-client-meeting.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a06-initial-client-meeting.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a07-where-to-begin-designing-for-the-web.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a07-where-to-begin-designing-for-the-web.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a07a-content-inventory.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a07a-content-inventory.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a07b-information-architecture.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a07b-information-architecture.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a07c-user-research.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a07c-user-research.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a07d-art-direction-vs-graphic-design.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a07d-art-direction-vs-graphic-design.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a08-element-collage.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a08-element-collage.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2020-01-01-a09-static-mockups-and-prototypes.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a09-static-mockups-and-prototypes.markdown",
 		"oF": 0
 		},
 	"/_scss/_base.scss": {
@@ -485,6 +632,86 @@
 		"oAP": "/_site/art336/a03-responsive-case-study.html",
 		"oF": 0
 		},
+	"/_site/art336/a04-interface-design-and-prototyping-tools.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a04-interface-design-and-prototyping-tools.html",
+		"oF": 0
+		},
+	"/_site/art336/a05-just-enough-research.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a05-just-enough-research.html",
+		"oF": 0
+		},
+	"/_site/art336/a06-initial-client-meeting.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a06-initial-client-meeting.html",
+		"oF": 0
+		},
+	"/_site/art336/a07-where-to-begin-designing-for-the-web.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a07-where-to-begin-designing-for-the-web.html",
+		"oF": 0
+		},
+	"/_site/art336/a07a-content-inventory.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a07a-content-inventory.html",
+		"oF": 0
+		},
+	"/_site/art336/a07b-information-architecture.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a07b-information-architecture.html",
+		"oF": 0
+		},
+	"/_site/art336/a07c-user-research.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a07c-user-research.html",
+		"oF": 0
+		},
+	"/_site/art336/a07d-art-direction-vs-graphic-design.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a07d-art-direction-vs-graphic-design.html",
+		"oF": 0
+		},
+	"/_site/art336/a08-element-collage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a08-element-collage.html",
+		"oF": 0
+		},
+	"/_site/art336/a09-static-mockups-and-prototypes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a09-static-mockups-and-prototypes.html",
+		"oF": 0
+		},
 	"/_site/art336/s01-domain-names.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -509,6 +736,62 @@
 		"oAP": "/_site/art336/s03-web-tools.html",
 		"oF": 0
 		},
+	"/_site/art336/s04-html-css-boilerplate.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s04-html-css-boilerplate.html",
+		"oF": 0
+		},
+	"/_site/art336/s05-course-assignment-page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s05-course-assignment-page.html",
+		"oF": 0
+		},
+	"/_site/art336/s06-using-a-ftp-client.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s06-using-a-ftp-client.html",
+		"oF": 0
+		},
+	"/_site/art336/s07-webfont-specimen-evaluation-page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s07-webfont-specimen-evaluation-page.html",
+		"oF": 0
+		},
+	"/_site/art336/s08-web-typography.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s08-web-typography.html",
+		"oF": 0
+		},
+	"/_site/art336/s09-working-with-images.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s09-working-with-images.html",
+		"oF": 0
+		},
+	"/_site/art336/s10-layout-evaluation-performance-templmate.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s10-layout-evaluation-performance-templmate.html",
+		"oF": 0
+		},
 	"/_site/art336/syllabus.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -525,12 +808,62 @@
 		"oAP": "/_site/assignments.html",
 		"oF": 0
 		},
+	"/_site/css/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/_site/css/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/_site/dashboard/uploads/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_site/dashboard/uploads/index.php",
+		"oF": 0
+		},
+	"/_site/downloads/art336-boilerplate.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-boilerplate.zip",
+		"oF": 0
+		},
+	"/_site/downloads/art336-font-specimen-evaluation-page.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-font-specimen-evaluation-page.zip",
+		"oF": 0
+		},
+	"/_site/downloads/art336-typographic-hierarchy-page-template.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-typographic-hierarchy-page-template.zip",
+		"oF": 0
+		},
+	"/_site/downloads/art336-typographic-hierarchy.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-typographic-hierarchy.zip",
+		"oF": 0
+		},
+	"/_site/downloads/art336-working-with-images.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/downloads/art336-working-with-images.zip",
 		"oF": 0
 		},
 	"/_site/gradetracker/admin-approve.php": {
@@ -795,6 +1128,82 @@
 		"oAP": "/_site/gradetracker/uploads/upload.php",
 		"oF": 0
 		},
+	"/_site/img/art336-boilerplate-contents.jpg": {
+		"ft": 16384,
+		"iS": 139024,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-boilerplate-contents.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-css-diagram-text.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_site/img/art336-css-diagram-text.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/_site/img/art336-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 129823,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 77086,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-icon-apple.jpg": {
+		"ft": 16384,
+		"iS": 133665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-icon-apple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-icon-favicon.jpg": {
+		"ft": 16384,
+		"iS": 135749,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-icon-favicon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-icon-windows.jpg": {
+		"ft": 16384,
+		"iS": 174349,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-icon-windows.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_site/img/art336-obama-inaguation-crop-01.jpg": {
 		"ft": 16384,
 		"iS": 66646,
@@ -828,6 +1237,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/img/art336-sketch-mirror-4s.jpg": {
+		"ft": 16384,
+		"iS": 291698,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-sketch-mirror-4s.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-sketch-mirror-7plus.jpg": {
+		"ft": 16384,
+		"iS": 266466,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-sketch-mirror-7plus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_site/img/art336-smartphone-reach-area.png": {
 		"ft": 32768,
 		"iS": 29395,
@@ -837,6 +1268,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/_site/img/art336-whois-lookup.jpg": {
+		"ft": 16384,
+		"iS": 216464,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-whois-lookup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_site/img/favicon.ico": {
@@ -882,7 +1324,7 @@
 		"oA": 0,
 		"oAP": "/_site/ish/js/init-ck-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/_site/ish/js/init.js": {
@@ -893,7 +1335,7 @@
 		"oA": 0,
 		"oAP": "/_site/ish/js/init-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/_site/ish/js/url-handler.js": {
@@ -904,7 +1346,7 @@
 		"oA": 0,
 		"oAP": "/_site/ish/js/url-handler-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/_site/ish/README.md": {
@@ -944,7 +1386,7 @@
 		"oA": 0,
 		"oAP": "/_site/js/plugins-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/_site/LICENSE": {
@@ -1071,6 +1513,54 @@
 		"oAP": "/css/main-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/downloads/art336-boilerplate.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-boilerplate.zip",
+		"oF": 0
+		},
+	"/downloads/art336-font-specimen-evaluation-page.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-font-specimen-evaluation-page.zip",
+		"oF": 0
+		},
+	"/downloads/art336-typographic-hierarchy-page-template.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-typographic-hierarchy-page-template.zip",
+		"oF": 0
+		},
+	"/downloads/art336-typographic-hierarchy.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-typographic-hierarchy.zip",
+		"oF": 0
+		},
+	"/downloads/art336-working-with-images-assets.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-working-with-images-assets.zip",
+		"oF": 0
+		},
+	"/downloads/art336-working-with-images.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/downloads/art336-working-with-images.zip",
+		"oF": 0
 		},
 	"/gradetracker/admin-approve.php": {
 		"cB": 0,
@@ -1342,6 +1832,82 @@
 		"oAP": "/gradetracker/uploads/upload.php",
 		"oF": 0
 		},
+	"/img/art336-boilerplate-contents.jpg": {
+		"ft": 16384,
+		"iS": 139024,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-boilerplate-contents.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-css-diagram-text.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/art336-css-diagram-text.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/art336-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 129823,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 77086,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-icon-apple.jpg": {
+		"ft": 16384,
+		"iS": 133665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-icon-apple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-icon-favicon.jpg": {
+		"ft": 16384,
+		"iS": 135749,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-icon-favicon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-icon-windows.jpg": {
+		"ft": 16384,
+		"iS": 174349,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-icon-windows.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/art336-obama-inaguation-crop-01.jpg": {
 		"ft": 16384,
 		"iS": 66646,
@@ -1375,6 +1941,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/art336-sketch-mirror-4s.jpg": {
+		"ft": 16384,
+		"iS": 291698,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-sketch-mirror-4s.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/art336-sketch-mirror-7plus.jpg": {
+		"ft": 16384,
+		"iS": 266466,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-sketch-mirror-7plus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/art336-smartphone-reach-area.png": {
 		"ft": 32768,
 		"iS": 29395,
@@ -1384,6 +1972,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/art336-whois-lookup.jpg": {
+		"ft": 16384,
+		"iS": 216464,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/art336-whois-lookup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/favicon.ico": {
@@ -1437,7 +2036,7 @@
 		"oA": 0,
 		"oAP": "/ish/js/init-ck-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/ish/js/init.js": {
@@ -1448,7 +2047,7 @@
 		"oA": 0,
 		"oAP": "/ish/js/init-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/ish/js/url-handler.js": {
@@ -1459,7 +2058,7 @@
 		"oA": 0,
 		"oAP": "/ish/js/url-handler-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/ish/README.md": {
@@ -1499,7 +2098,7 @@
 		"oA": 0,
 		"oAP": "/js/plugins-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"/LICENSE": {
@@ -3494,7 +4093,7 @@
 		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {

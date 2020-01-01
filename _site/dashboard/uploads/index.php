@@ -118,7 +118,8 @@
 		
 		</div>
 		
-		<script src="https://garyrozanc.com//students/js/plugins.js"></script>
+		<!--<script src="https://garyrozanc.com//students/js/plugins.js"></script>-->
+		<script src="../js/plugins.js"></script>
 		
 		<script>
 			// Change URL

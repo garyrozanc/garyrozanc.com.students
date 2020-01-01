@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1273 287" style="enable-background:new 0 0 1273 287;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2E75FF;}
+	.st1{font-family:'EcoCoding';}
+	.st2{font-size:73.811px;}
+	.st3{fill:#525252;}
+	.st4{fill:#262626;}
+	.st5{fill:#9A2EFF;}
+	.st6{fill:#606060;}
+	.st7{fill:#E78900;}
+	.st8{fill:#8E8A8A;}
+	.st9{font-family:'ProximaNova-Regular';}
+	.st10{font-size:44px;}
+	.st11{fill:none;stroke:#8E8A8A;stroke-width:3;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#262626;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<text transform="matrix(1 0 0 1 -3 170.7842)"><tspan x="0" y="0" class="st0 st1 st2">body</tspan><tspan x="159.4" y="0" class="st3 st1 st2"> </tspan><tspan x="199.3" y="0" class="st4 st1 st2">{</tspan><tspan x="239.1" y="0" class="st3 st1 st2"> </tspan><tspan x="279" y="0" class="st5 st1 st2">background-color</tspan><tspan x="916.7" y="0" class="st6 st1 st2">:</tspan><tspan x="956.6" y="0" class="st3 st1 st2"> </tspan><tspan x="996.4" y="0" class="st7 st1 st2">#fff</tspan><tspan x="1155.9" y="0" class="st3 st1 st2">; </tspan><tspan x="1235.6" y="0" class="st4 st1 st2">}</tspan></text>
+<g>
+	<text transform="matrix(1 0 0 1 1.5558 31)" class="st8 st9 st10">selector</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 515.0975 31)" class="st8 st9 st10">property</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1021.457 31)" class="st8 st9 st10">value</text>
+</g>
+<text transform="matrix(1 0 0 1 627.2112 284)" class="st8 st9 st10">declaration</text>
+<g>
+	<g>
+		<polyline class="st11" points="1251,203.3 1251,273 864,273 		"/>
+		<g>
+			<path class="st8" d="M1246.5,203.5c0-2.5,2-4.5,4.5-4.5s4.5,2,4.5,4.5c0,2.5-2,4.5-4.5,4.5S1246.5,206,1246.5,203.5z"/>
+		</g>
+	</g>
+</g>
+<path class="st12" d="M1251,199"/>
+<g>
+	<g>
+		<polyline class="st11" points="600,273 219,273 219,203.3 		"/>
+		<g>
+			<path class="st8" d="M223.5,203.5c0-2.5-2-4.5-4.5-4.5s-4.5,2-4.5,4.5c0,2.5,2,4.5,4.5,4.5S223.5,206,223.5,203.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="78.7" y1="49" x2="78.7" y2="104.7"/>
+		<g>
+			<path class="st8" d="M74.2,104.5c0,2.5,2,4.5,4.5,4.5c2.5,0,4.5-2,4.5-4.5c0-2.5-2-4.5-4.5-4.5C76.2,100,74.2,102,74.2,104.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="596.7" y1="49" x2="596.7" y2="104.7"/>
+		<g>
+			<path class="st8" d="M592.2,104.5c0,2.5,2,4.5,4.5,4.5s4.5-2,4.5-4.5c0-2.5-2-4.5-4.5-4.5S592.2,102,592.2,104.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="1071.7" y1="49" x2="1071.7" y2="104.7"/>
+		<g>
+			<path class="st8" d="M1067.2,104.5c0,2.5,2,4.5,4.5,4.5c2.5,0,4.5-2,4.5-4.5c0-2.5-2-4.5-4.5-4.5
+				C1069.2,100,1067.2,102,1067.2,104.5z"/>
+		</g>
+	</g>
+</g>
+</svg>

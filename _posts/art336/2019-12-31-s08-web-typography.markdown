@@ -24,7 +24,7 @@ HTML is considered the “Structure” layer. Using HTML tags, you define specif
 
 Where HTML falls short is how it typographically styles the marked up content. If you were to leave the default styling of a longer headline marked up with a <code>&lt;h3&gt;</code> tag, it could easily be mistaken for a pull quote. However, before you learn how to use CSS to change the default “Presentation”, you need to know the common HTML tags that affect the visual hierarchy of typography as well as the tag’s contextual function in search results. This and more will be covered in-depth in the following screencasts on HTML.
 
-You will need to download these <a href="https://www.dropbox.com/s/he358faihpb1xdx/art336-typographic-hierarchy-page-template.zip?dl=0" target="_blank" title="Template">starter template files</a>!
+You will need to download these <a href="../downloads/art336-typographic-hierarchy-page-template.zip" target="_blank" title="Template">starter template files</a>!
 
 ### Part 01 of 19
 <div class="video-wrapper">
@@ -71,7 +71,7 @@ As discussed in the previous screencasts, the default styling of many HTML tags 
 
 In the following screencasts you will learn to use CSS selectors to target basic HTML elements. You will also use CSS properties and values to change the default typography on a web page. Finally, you will begin to use classes to target specific HTML elements.
 
-<img src="../img/css-diagram-text.svg" alt="CSS Diagram">
+![CSS Diagram](../img/art336-smartphone-reach-area.png)
 
 ### Part 09 of 19
 <div class="video-wrapper">
@@ -141,7 +141,7 @@ This assignment will be worth 35 points.
 - <a href="https://css-tricks.com/snippets/css/system-font-stack/" target="_blank" title="System Font Stack | CSS-Tricks">System Font Stack | CSS-Tricks</a>
 - <a href="https://www.cssfontstack.com/" target="_blank" title="CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code.">CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code.</a>
 - <a href="https://abookapart.com/products/css3-for-web-designers" title="A Book Apart, CSS3 for Web Designers" target="_blank">CSS3 for Web Designers</a> by Dan Cederholm
-- <a href="https://students.garyrozanc.com/downloads/art336-typographic-hierarchy.zip" target="_blank" title="Template">Template Files</a>
+- <a href="../downloads/art336-typographic-hierarchy-page-template.zip" target="_blank" title="Template">Template Files</a>
 - <a href="https://www.webpagetest.org/" target="_blank" title="WebPagetest - Website Performance and Optimization Test">WebPagetest - Website Performance and Optimization Test</a>
 
 ## Footnotes

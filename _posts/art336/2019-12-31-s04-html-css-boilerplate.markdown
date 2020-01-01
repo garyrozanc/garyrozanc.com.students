@@ -32,8 +32,7 @@ I’m glad you asked! After completing this course and you go on to design and d
 Before you go on to the next section, make sure to download the starter boilerplate files I’ve prepared for you. The boilerplate I’ve supplied is in no way complete! You will need to complete the following screencasts to build your own boilerplate that will be the base for each exercise in the course.
 
 ## The Boilerplate Contents
-
-<img src="../img/boilerplate-contents.jpg">
+![HTML5 Boilerplate Contents](../img/art336-boilerplate-contents.jpg)
 
 After you download and unzip the boilerplate you will see the same contents as in the above image. If you are using a Windows computer you may also see one or more files named _.DS_Store_ which isn’t picture here. The .DS_Store file is proprietary to the macOS operating system. Windows users can delete the file, it won’t affect anything. MacOS users who can see the file through programs like Brackets or CyberDuck can delete the file too, but it will just be recreated again, so basically leave it alone.
 
@@ -85,7 +84,7 @@ The browserconfig.xml file is important to you as a visual designer because it g
 
 As I’ve already mentioned, web servers by default look for the index.html file unless a URL is given containing a direct path to a file, or a full-stack developer changed the default web server settings. Since I’m supplying the web server, only the first two scenarios will apply to us, so you will be creating your own index.html file by following the screencast. The good news is, you only need to do this once. That’s why it’s called a Boilerplate. You will use this index.html file as a starting point in all your projects throughout the remainder of this course, even if you rename it to something other than index.html.
 
-You will need to <a href="https://www.dropbox.com/s/pfxrswhi80z1eu6/art336-boilerplate.zip?dl=0" target="_blank" title="ART 336 Boilerplate Files">download this file</a> _before_ starting the screencast!
+You will need to <a href="../downloads/art336-boilerplate.zip" target="_blank" title="ART 336 Boilerplate Files">download this file</a> _before_ starting the screencast!
 
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/QNEsDbBeUf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -99,7 +98,7 @@ Within the boilerplate folder, you will notice a series of image files. These ic
 
 All of you have subconsciously seen a favicon.ico. It’s the tiny icon you will see on the tab of most web browsers.
 
-<img src="../img/icon-favicon.jpg">
+![Examples of Favicons](../img/art336-icon-favicon.jpg)
 
 In the example above, you will see both the favicon.ico and logo I created for the Design Edu Today podcast. Notice I didn’t simply use the logo for the favicon. Favicons are very small, and therefore don’t hold detail well. When the Design Edu Today logo is reduced to 32×32 pixels and smaller, it is completely illegible. Therefore I created a “D” shaped icon with the letter “EDU” within the shape.
 
@@ -109,12 +108,13 @@ If you look at the favicons in the other tabs in the example above, you will not
 
 The icon.png file is used by Apple’s iOS to create icons for the home screen. Since Apple rounds the corner of the icon, you have to be careful with your design choices. Placing content too close to the edge will make the icon look awkward near the corners. You also need to take color into consideration. Since users can pick any type of background image, color, or texture they want, you want to design an icon that will stand out under most conditions.
 
-<img src="../img/icon-apple.jpg">
+![Examples of Apple’s Homescreen Icons](../img/art336-icon-apple.jpg)
 
 ##### tile.png and tile-wide.png
 
 These two icons are specific to the Windows operating system, and offer the most opportunities for experimentation in visual design. As you can see in the screenshot below, Windows will display the icon either as a rectangle or square. You don’t have any control over which one as Windows makes the decision based on the number of icons on any given device and the available space. I think the design of the square is tricky in that it can be displayed at both large and small sizes. This means that you if you optimize your design for the larger size, it could lose its legibility at the small size, and vice versa.
 
+![Examples of Microsoft’s Homescreen Icons](../img/art336-icon-windows.jpg)
 <img src="../img/icon-windows.jpg">
 
 ##### humans.txt and robots.txt
@@ -126,7 +126,6 @@ It’s best to think of the <a href="http://humanstxt.org/Standard.html" target=
 From the context of a portfolio website, the <a href="http://www.robotstxt.org/robotstxt.html" target="_blank" title="Extra robots.txt information">robots.txt</a> file let’s things like search engines know if they should display the contents of the website in search results. Now, if you want your work private, don’t put it on the web because this file doesn’t hide content. The most it does is suggest whether to display the contents. It’s up to search engines like Google to decide if they want to honor the request. For the sake of this course, I’ve setup the robots.txt file to not index your sites contents in search engines. It’s up to you to decide if you want to promote the searchability of your work.
 
 ## Grading
-
 This assignment will be worth 5 points. Create a duplicate folder and files and name the folder exactly as follows (all lowercase with hyphens and no blank spaces) **html-css-boilerplate-firstname-lastname**, and upload the files via the DropBox link. You can compress/zip the folder if that is easier for you.
 
 - If you received between **4&ndash;5 points** you successfully downloaded the Boilerplate starting files and updated the index.html.
