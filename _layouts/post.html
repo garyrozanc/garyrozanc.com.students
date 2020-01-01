@@ -12,25 +12,60 @@ layout: default
 	    <h1>{{ page.title }}</h1>
 	    
 	    <div class="assignment-meta-info">
-		    <span class="assignment-course-number">Art {{ page.categories | prepend: 'art' | slice: -5, 3 }}</span>
-		    <span class="assignment-due">
-			    Due:
-				{% capture currentDate %}
-			    		{{ "now" | date: "%Y-%m-%d"}}
-			    {% endcapture %}	
-			    {% capture dueDate %}
-			    		{{ page.due-date | date: "%Y-%m-%d"}}
-			    {% endcapture %}						
-				{% if dueDate >= currentDate %}
-					<span class="green">
-				{% else %}
-					<span class="red">
+		    <!--<span class="assignment-course-number">Art {{ page.categories | prepend: 'art' | slice: -5, 3 }}</span>-->
+		    <ul>
+			    <li>
+				    Due:
+					{% capture currentDate %}
+				    		{{ "now" | date: "%Y-%m-%d"}}
+				    {% endcapture %}	
+				    {% capture dueDate %}
+				    		{{ page.due-date | date: "%Y-%m-%d"}}
+				    {% endcapture %}						
+					{% if dueDate >= currentDate %}
+						<span class="green">
+					{% else %}
+						<span class="red">
+					{% endif %}
+					{{ page.due-date | date: "%a, %b %d, %Y" }}</span>
+				</li>
+				
+				{% if page.time %}
+				<li>
+					Est. Time:
+					{% capture currentDate %}
+				    		{{ "now" | date: "%Y-%m-%d"}}
+				    {% endcapture %}	
+				    {% capture dueDate %}
+				    		{{ page.due-date | date: "%Y-%m-%d"}}
+				    {% endcapture %}						
+					{% if dueDate >= currentDate %}
+						<span class="green">
+					{% else %}
+						<span class="red">
+					{% endif %}
+					{{ page.time }}</span>
+				</li>
 				{% endif %}
-				{{ page.due-date | date: "%a, %b %d, %Y" }}</span>
-			</span>
-			{% if page.points %}
-			<span class="assignment-points">Points: {{ page.points }}</span></span>
-			{% endif %}
+				
+				{% if page.points %}
+				<li>
+					Points:
+					{% capture currentDate %}
+				    		{{ "now" | date: "%Y-%m-%d"}}
+				    {% endcapture %}	
+				    {% capture dueDate %}
+				    		{{ page.due-date | date: "%Y-%m-%d"}}
+				    {% endcapture %}						
+					{% if dueDate >= currentDate %}
+						<span class="green">
+					{% else %}
+						<span class="red">
+					{% endif %}
+					{{ page.points }}</span>
+				</li>
+				{% endif %}
+		    </ul>
 	    </div>
 	    
 	</header>

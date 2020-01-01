@@ -1,0 +1,73 @@
+I"�-<p>Now that you have registered a domain name and have it pointing to a web server with two directories setup, it’s time to create content to put on that web server. However, you are going to need some tools to help you along your way. While there are a lot of tools out there that you could use, or already may be using I preselected the ones I would like you to use to complete the exercises in this course.</p>
+
+<p>Since there are a lot of other options available, I wanted to share with you the three main reasons I have chosen the ones that I did.</p>
+<ol>
+  <li>All the tools are open source and free to use. Since the web is technically open, and the industry tends to openly share its knowledge, it’s only appropriate to use tools that embrace that philosophy.</li>
+  <li>The tools that I have chosen work on both macOS and Windows. While the screencasts are conducted on a Mac, if you are using Windows you should notice very little difference between the tools. This will make it easy for just about anyone to complete the course.</li>
+  <li>Perhaps the most important factor I look for is active development or a revenue stream. Open source tools tend to disappear after a while because the work done on them is by volunteers, in their spare time. If there is no way for someone to work on the project full time—make a living—the incentive to maintain the tools can quickly fade as other responsibilities creep into their day to day lives.</li>
+</ol>
+
+<p>Of course you are free to choose your own tools, but I can’t help you if you have a problem. So, if you would like help if a problem should arise, I suggest using the tools that I have recommended.</p>
+
+<h2 id="text-editor">Text Editor</h2>
+<p>To complete the exercises for this course you are going to write HTML and CSS. You could literally do this in a Word document, or Notepad. However, HTML and CSS can be very picky in what you type, or more specifically, don’t type. A good text editor will do a lot of different things to make writing HTML and CSS much easier that will be discussed in the screencasts throughout this course.</p>
+
+<p>For this course, you will need to download and install the open source tool <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a>. Again, I decided on <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a> because it’s open source, so it’s free to use. It works on macOS, Windows, and Linux machines. <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a> is also the core of Adobe’s Dreamweaver. This suggests that regular maintenance and updates will be coming to <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a> for a long time.</p>
+
+<p>If you know how to install software, you don’t need to follow along with the screencast. If you are unfamiliar with install software, or are confused on how to update <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a>, watch the short screencast.</p>
+
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/74Tr9CZk2VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="autoprefixer">Autoprefixer</h3>
+<p>In addition to Brackets you will need to install the <a href="https://github.com/mikaeljorhult/brackets-autoprefixer" target="_blank" title="Brackets/Edge Code extension that parses CSS documents and add vendor prefixes automatically.">Autoprefixer</a> plugin. I’ll cover how to install the plugin in the screencast below, but before you begin, it’s necessary to cover what this plugin does so you understand its importance. New properties are constantly being added to the CSS specification. Anyone can suggest a new property through the W3 organization https://www.w3.org/Style/CSS/current-work.en.html, but not everyone can immediately build support for it into a web browser. The proposed specification goes through a vetting process to make sure it’s a sound addition.</p>
+
+<p>Just like you, a browser can make its own recommendation for a new CSS specification to the W3 with one big advantage. The browser developers can build support for the proposed spec into the browser to help demonstrate how it will work. However, it’s frowned upon when browser just randomly introduce new proprietary specifications that don’t work on all browsers. To avoid this, browser developers came up with Vendor Prefixes that would allow a browser to add support for an experimental specification without affecting existing specification.</p>
+
+<p>The only downside to vendor prefixes, and the need for the <a href="https://github.com/mikaeljorhult/brackets-autoprefixer" target="_blank" title="Brackets/Edge Code extension that parses CSS documents and add vendor prefixes automatically.">Autoprefixer</a> plugin, is not all CSS properties need a vendor prefix. Unfortunately, sometimes when an experimental property officially gets added to the CSS specification vendors are slow to add the finalized specification into the latest browser release. This means that sometime it’s necessary to write out a CSS property in its final accepted declaration and with a vendor prefix. It would take way too much time for developers to go through hundreds of lines of CSS to manually add vendor prefixes. The <a href="https://github.com/mikaeljorhult/brackets-autoprefixer" target="_blank" title="Brackets/Edge Code extension that parses CSS documents and add vendor prefixes automatically.">Autoprefixer</a> plugin does this for us automatically by search the <a href="https://caniuse.com/" target="_blank" title="Can I Use">Can I Use</a> database to see which vendor prefixes may need to be added. The following is a list of vendor prefixes used by each browser developer.</p>
+
+<ul>
+  <li>Android: <strong>-webkit-</strong></li>
+  <li>Chrome: <strong>-webkit-</strong></li>
+  <li>Firefox: <strong>-moz-</strong></li>
+  <li>Internet Explorer: <strong>-ms-</strong></li>
+  <li>iOS: <strong>-webkit-</strong></li>
+  <li>Opera: <strong>-o-</strong></li>
+  <li>Safari: <strong>-webkit-</strong></li>
+</ul>
+
+<h3 id="show-whitespace-vs">Show Whitespace VS</h3>
+<p>The <a href="https://github.com/patlillis/brackets-show-whitespace-vs" target="_blank" title="Brackets Show Whitespace VS plugin">Show Whitespace VS</a> plugin is really more for me than for you. All this plugin does is literally mark white space in your HTML and CSS files with tiny dots. This helps me, and you, troubleshoot your code if something isn’t work. Being able to see if the code being typed during the screencasts have spaces between characters will make learning the medium of the web much easier.</p>
+
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/kwYCtZluqgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h2 id="ftp-client">FTP Client</h2>
+<p>Once you have created your HTML and CSS files in your text editor, you will need to upload them to your course web hosting account with a File Transfer Protocol client. Again, there are many options out there. For this course, I will be using <a href="https://cyberduck.io/?l=en" target="_blank" title="CyberDuck">CyberDuck</a> in the screencasts. Unless you are already familiar with using another FTP client I strongly recommend that you also use <a href="https://cyberduck.io/?l=en" target="_blank" title="CyberDuck">CyberDuck</a>. Students tend to have the most issues with this step in the process, and using something other than what I demonstrate will only end up causing you problems.</p>
+
+<p>The reason I chose <a href="https://cyberduck.io/?l=en" target="_blank" title="CyberDuck">CyberDuck</a> is first and foremost, ease of use! A lot of the other FTP client out there are difficult to use for people who aren’t familiar with FTP. The other reason I like <a href="https://cyberduck.io/?l=en" target="_blank" title="CyberDuck">CyberDuck</a> is they openly look for donations, or you can buy it through the Mac App store. This means that the program, while free to use, generates enough income for someone to maintain it. As with everything else it’s dual operating system.</p>
+
+<p>You will need to follow along with the screencast to learn how to setup <a href="https://cyberduck.io/?l=en" target="_blank" title="CyberDuck">CyberDuck</a> so it can connect to your course web hosting account. In a separate screencast I will demonstrate how to use <a href="https://cyberduck.io/?l=en" target="_blank" title="CyberDuck">CyberDuck</a> to manage your files including uploading, downloading, and deleting.</p>
+
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/TmqLDdDoAvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h2 id="interactive-design-software">Interactive Design Software</h2>
+<p>You will need access to the <a href="http://www.adobe-students.com/creativecloud/buy/students.html" target="_blank" title="Adobe Creative Cloud">Adobe Creative Cloud</a> for three reasons. The first, you will need Photoshop to edit photos for use on the web. Second, you will also need Illustrator to prepare vector images for the web. Finally, you will need Adobe Fonts (Formerly TypeKit) to use web fonts in the exercises.</p>
+
+<p>While I’ll be using the Creative Cloud in the screencasts, if you don’t have it, you can still manage. You can sign up for a free TypeKit account and that will be more than enough for you to follow along. You can also use <a href="https://affinity.serif.com/en-us/designer/" target="_blank" title="Affinity Designer">Affinity Designer</a> and <a href="https://affinity.serif.com/en-us/photo/" target="_blank" title="Affinity Photo">Affinity Photo</a>, the Illustrator and Photoshop competitors from <a href="http://www.serif.com/" target="_blank" title="Serif">Serif</a>. The Affinity software is not free, but it’s much less expensive than the Creative Cloud and doesn’t require a subscription. They are also working on <a href="https://9to5mac.com/2017/12/14/affinity-publisher-for-mac-tease-video-2018-beta-release/" target="_blank" title="Affinity Publisher">Affinity Publisher</a>, a replacement InDesign.</p>
+
+<h2 id="grading">Grading</h2>
+<p>This assignment will be worth 5 points. Name the screenshot files exactly as follows (all lowercase with hyphens and no blank spaces) <strong>web-tools-brackets-firstname-lastname.(gif,jpg,png)</strong>, <strong>web-tools-autoprefixer-firstname-lastname.(gif,jpg,png)</strong>, <strong>web-tools-whitespace-firstname-lastname.(gif,jpg,png)</strong>, and <strong>web-tools-cyberduck-firstname-lastname.(gif,jpg,png)</strong>, and upload the files via the DropBox link.</p>
+
+<ul>
+  <li>You will recieve 1 point for installing Brackets</li>
+  <li>You will recieve 1 point for installing the Autoprefixer plugin</li>
+  <li>You will recieve 1 point for installing the Show Whitespace VS plugin</li>
+  <li>You will recieve 1 point for installing Cyberduck</li>
+  <li>You will recieve 1 point for taking a screenshot showing each program and plugin installed</li>
+</ul>
+:ET

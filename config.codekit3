@@ -309,44 +309,52 @@
 		"oAP": "/_posts/art336/2019-01-27-a01-what-are-breakpoints.markdown",
 		"oF": 0
 		},
+	"/_posts/art336/2019-01-27-s01-domain-names.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-01-27-s01-domain-names.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-01-27-s02-web-hosting.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-01-27-s02-web-hosting.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-01-27-s03-web-tools.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-01-27-s03-web-tools.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-01-30-a02-atomic-design.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-01-30-a02-atomic-design.markdown",
+		"oF": 0
+		},
+	"/_posts/art336/2019-02-04-a03-responsive-case-study.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2019-02-04-a03-responsive-case-study.markdown",
+		"oF": 0
+		},
 	"/_posts/art336/2019-12-31-syllabus.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_posts/art336/2019-12-31-syllabus.markdown",
-		"oF": 0
-		},
-	"/_posts/art336/2019-12-31-what-are-we-doing-today.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_posts/art336/2019-12-31-what-are-we-doing-today.markdown",
-		"oF": 0
-		},
-	"/_posts/links/2017-07-24-interactive.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_posts/links/2017-07-24-interactive.markdown",
-		"oF": 0
-		},
-	"/_posts/links/2017-07-24-internships.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_posts/links/2017-07-24-internships.markdown",
-		"oF": 0
-		},
-	"/_posts/links/2017-07-24-side-projects.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_posts/links/2017-07-24-side-projects.markdown",
 		"oF": 0
 		},
 	"/_scss/_base.scss": {
@@ -461,12 +469,44 @@
 		"oAP": "/_site/art336/a01-what-are-breakpoints.html",
 		"oF": 0
 		},
-	"/_site/art336/index.html": {
+	"/_site/art336/a02-atomic-design.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/art336/index.html",
+		"oAP": "/_site/art336/a02-atomic-design.html",
+		"oF": 0
+		},
+	"/_site/art336/a03-responsive-case-study.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a03-responsive-case-study.html",
+		"oF": 0
+		},
+	"/_site/art336/s01-domain-names.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s01-domain-names.html",
+		"oF": 0
+		},
+	"/_site/art336/s02-web-hosting.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s02-web-hosting.html",
+		"oF": 0
+		},
+	"/_site/art336/s03-web-tools.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/s03-web-tools.html",
 		"oF": 0
 		},
 	"/_site/art336/syllabus.html": {
@@ -477,6 +517,14 @@
 		"oAP": "/_site/art336/syllabus.html",
 		"oF": 0
 		},
+	"/_site/assignments.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/assignments.html",
+		"oF": 0
+		},
 	"/_site/dashboard/uploads/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -484,6 +532,331 @@
 		"oA": 2,
 		"oAP": "/_site/dashboard/uploads/index.php",
 		"oF": 0
+		},
+	"/_site/gradetracker/admin-approve.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/admin-approve.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/admin-attendance-submit.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/admin-attendance-submit.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/admin-attendance.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/admin-attendance.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/admin-grades-submit.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/admin-grades-submit.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/admin-grades.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/admin-grades.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/admin-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/admin-menu.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/admin.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/admin.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/advising.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/advising.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/api.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/api.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/assignment-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/assignment-page.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/dashboard-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/dashboard-menu.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/dashboard.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/dashboard.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/db.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/db.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/index.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/insert_students.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/insert_students.sql",
+		"oF": 0
+		},
+	"/_site/gradetracker/late-location.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/late-location.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/late-update.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/late-update.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/late-warning.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/late-warning.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/late.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/late.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/LICENSE",
+		"oF": 0
+		},
+	"/_site/gradetracker/login-form.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/login-form.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/login-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/login-menu.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/login-update.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/login-update.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/login-verify.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/login-verify.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/login-warning.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/login-warning.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/login.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/login.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/NOTES.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_site/gradetracker/NOTES.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_site/gradetracker/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_site/gradetracker/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_site/gradetracker/sample-data.sql": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/sample-data.sql",
+		"oF": 0
+		},
+	"/_site/gradetracker/uploads/upload.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/uploads/upload.php",
+		"oF": 0
+		},
+	"/_site/img/art336-obama-inaguation-crop-01.jpg": {
+		"ft": 16384,
+		"iS": 66646,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-obama-inaguation-crop-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-obama-inaguation-crop-02.jpg": {
+		"ft": 16384,
+		"iS": 42259,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-obama-inaguation-crop-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-obama-inaguation.jpg": {
+		"ft": 16384,
+		"iS": 104648,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-obama-inaguation.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/img/art336-smartphone-reach-area.png": {
+		"ft": 32768,
+		"iS": 29395,
+		"oA": 0,
+		"oAP": "/_site/img/art336-smartphone-reach-area.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/img/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/img/favicon.ico",
+		"oF": 0
+		},
+	"/_site/img/favicon.png": {
+		"ft": 32768,
+		"iS": 1868,
+		"oA": 0,
+		"oAP": "/_site/img/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/_site/index.html": {
 		"cB": 0,
@@ -493,28 +866,200 @@
 		"oAP": "/_site/index.html",
 		"oF": 0
 		},
-	"/_site/links/interactive.html": {
+	"/_site/ish/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/links/interactive.html",
+		"oAP": "/_site/ish/index.php",
 		"oF": 0
 		},
-	"/_site/links/internships.html": {
+	"/_site/ish/js/init-ck.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/ish/js/init-ck-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/_site/ish/js/init.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/ish/js/init-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/_site/ish/js/url-handler.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/ish/js/url-handler-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/_site/ish/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_site/ish/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_site/ish/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/_site/ish/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/_site/js/plugins.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/js/plugins-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/_site/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/links/internships.html",
+		"oAP": "/_site/LICENSE",
 		"oF": 0
 		},
-	"/_site/links/side-projects.html": {
+	"/_site/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_site/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_site/webfonts/EcoCoding-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/links/side-projects.html",
+		"oAP": "/_site/webfonts/EcoCoding-webfont.woff",
+		"oF": 0
+		},
+	"/_site/webfonts/EcoCoding-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/EcoCoding-webfont.woff2",
+		"oF": 0
+		},
+	"/_site/webfonts/proximanova-light-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/proximanova-light-webfont.woff",
+		"oF": 0
+		},
+	"/_site/webfonts/proximanova-light-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/proximanova-light-webfont.woff2",
+		"oF": 0
+		},
+	"/_site/webfonts/proximanova-lightit-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/proximanova-lightit-webfont.woff",
+		"oF": 0
+		},
+	"/_site/webfonts/proximanova-lightit-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/proximanova-lightit-webfont.woff2",
+		"oF": 0
+		},
+	"/_site/webfonts/proximanova-semibold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/proximanova-semibold-webfont.woff",
+		"oF": 0
+		},
+	"/_site/webfonts/proximanova-semibold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/proximanova-semibold-webfont.woff2",
+		"oF": 0
+		},
+	"/_site/webfonts/proximanovacond-black-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/proximanovacond-black-webfont.woff",
+		"oF": 0
+		},
+	"/_site/webfonts/proximanovacond-black-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/webfonts/proximanovacond-black-webfont.woff2",
+		"oF": 0
+		},
+	"/assignments.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/assignments.html",
 		"oF": 0
 		},
 	"/css/main.css": {

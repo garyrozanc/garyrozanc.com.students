@@ -12,6 +12,58 @@ $positive: #81d064;
 $warning: #ff8888;
 $border-radius: 2px;
 
+@import url("https://use.typekit.net/uft2pcb.css");
+
+@mixin font-body {
+    font-family: proxima-nova, verdana, helvetica, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+@mixin font-body-italic {
+	font-style: italic;
+}
+
+@mixin font-body-medium {
+	font-weight: 500;
+}
+
+@mixin font-h5 {
+	font-family: vista-slab, serif;
+	font-weight: 500;
+	font-style: italic;
+}
+
+@mixin font-h4 {
+	font-family: vista-slab, serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+@mixin font-h3 {
+	font-family: vista-slab, serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+@mixin font-h2 {
+	font-family: vista-slab, serif;
+	font-weight: 900;
+	font-style: italic;
+}
+
+@mixin font-h1 {
+	font-family: vista-slab, serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@mixin font-headline {
+	font-family: vista-slab, serif;
+}
+
+
+/*
 @font-face {
     font-family: 'proximanova-light';
     src: url('../webfonts/proximanova-light-webfont.woff2') format('woff2'),
@@ -22,8 +74,8 @@ $border-radius: 2px;
 
 @font-face {
     font-family: 'proximanova-lightit';
-    src: url('../webfonts/proximanova-lightit-webfont.woff2') format('woff2'),
-         url('../webfonts/proximanova-lightit-webfont.woff') format('woff');
+    src: url('../webfonts/EcoCoding-webfont.woff2') format('woff2'),
+         url('../webfonts/EcoCoding-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -51,3 +103,4 @@ $border-radius: 2px;
     font-weight: normal;
     font-style: normal;
 }
+*/
