@@ -808,16 +808,6 @@
 		"oAP": "/_site/assignments.html",
 		"oF": 0
 		},
-	"/_site/css/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/_site/css/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/_site/dashboard/uploads/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -1370,6 +1360,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/img/art336-element-collage-06.jpg": {
+		"ft": 16384,
+		"iS": 300040,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/img/art336-element-collage-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_site/img/art336-hero-01.jpg": {
 		"ft": 16384,
 		"iS": 129823,
@@ -1552,17 +1553,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_site/img/art336-whois-lookup.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_site/img/element-collage-06.jpg": {
-		"ft": 16384,
-		"iS": 300040,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_site/img/element-collage-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

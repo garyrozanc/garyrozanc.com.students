@@ -158,7 +158,8 @@
 }
 
 .green {
-	color: #83ca7b;
+	//color: #83ca7b;
+	color: $positive;
 }
 
 .student-login {
@@ -189,6 +190,13 @@
 	}
 	.black {
 		color: $font-color;
+	}
+	a {
+		box-shadow: inset 0 -0.15em 0 $positive;
+		color: $font-color-light;
+		&:hover {
+			box-shadow: inset 0 -0.7em 0 $positive;
+		}
 	}
 }
 

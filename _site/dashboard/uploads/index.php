@@ -10,10 +10,10 @@
   <meta name="description" content="Gary is an Assistant Professor at the University of Maryland, Baltimore County. While Gary loves all things design, he specializes in teaching responsive web and user experience design.
 ">
 
-  <!--<link rel="stylesheet" href="https://garyrozanc.com//students/css/main.css">-->
+  <!--<link rel="stylesheet" href="https://garyrozanc.com/students/css/main.css">-->
   <link rel="stylesheet" href="../css/main.css">
-  <link rel="canonical" href="https://garyrozanc.com//students/dashboard/uploads/index.php">
-  <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com//students/feed.xml">
+  <link rel="canonical" href="https://garyrozanc.com/students/dashboard/uploads/index.php">
+  <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com/students/feed.xml">
 </head>
 
 	
@@ -118,7 +118,7 @@
 		
 		</div>
 		
-		<!--<script src="https://garyrozanc.com//students/js/plugins.js"></script>-->
+		<!--<script src="https://garyrozanc.com/students/js/plugins.js"></script>-->
 		<script src="../js/plugins.js"></script>
 		
 		<script>

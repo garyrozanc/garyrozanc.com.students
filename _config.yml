@@ -10,7 +10,7 @@ title: Gary Rozanc Teaching Blog
 email: grozanc@umbc.edu
 description: > # this means to ignore newlines until "baseurl:"
   Gary is an Assistant Professor at the University of Maryland, Baltimore County. While Gary loves all things design, he specializes in teaching responsive web and user experience design.
-baseurl: "/students" # the subpath of your site, e.g. /blog
+baseurl: "students" # the subpath of your site, e.g. /blog
 url: "https://garyrozanc.com/" # the base hostname & protocol for your site
 twitter_username: garyrozanc
 github_username:  garyrozanc
