@@ -1,0 +1,7 @@
+---
+layout: redirect
+redirect-link: https://art336s20.slack.com
+permalink: art336/index.html
+---
+
+Ugh...The contents you are looking for are not here. You will be redirected to the course <a href="ttps://art336s20.slack.com">Slack group</a>.

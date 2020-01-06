@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Gary Rozanc</title>
+		<meta http-equiv="refresh" content="0;URL={{ page.redirect-link }}">
+	</head>
+	
+	<body id="top">
+		
+		<div class="wrap">
+			{{ content }}
+		</div>
+		
+		<!--<script src="{{ "/js/plugins.js" | prepend: site.baseurl | prepend: site.url }}"></script>-->
+		<script src="../js/flowtype.js"></script>
+		<script src="../js/page-scroll.js"></script>
+		
+		<script>
+			// Change URL
+			var origin = localStorage.getItem('origin');
+			var a = document.getElementById('origin');
+			if (a) {
+				a.href = origin;
+			}
+		</script>
+	
+	</body>
+
+</html>
