@@ -21,6 +21,5 @@
     }
 }());
 
-// Place any jQuery/helper plugins in here.
-// @codekit-append "/vendor/flowtype.js";
 // @codekit-append "/vendor/page-scroll.js";
+// @codekit-append "/vendor/flowtype.js";

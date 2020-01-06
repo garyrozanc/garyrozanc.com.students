@@ -220,23 +220,12 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/_js/vendor/flowtype-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/_js/vendor/flowtype-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"/_js/vendor/flowtype.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/_js/vendor/flowtype-min.js",
 		"oF": 1,
 		"sC": 0,
@@ -247,9 +236,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/_js/vendor/jquery-3.2.1.min-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		},
@@ -258,7 +247,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/_js/vendor/page-scroll-min.js",
 		"oF": 1,
 		"sC": 0,
@@ -1655,6 +1644,28 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/_site/js/flowtype.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/js/flowtype-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/_site/js/page-scroll.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/js/page-scroll-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/_site/js/plugins.js": {
 		"bF": 0,
 		"ft": 64,
@@ -2645,6 +2656,28 @@
 		"oAP": "/ish/styles-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/js/flowtype.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/flowtype-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/page-scroll.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/page-scroll-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
 	"/js/plugins.js": {
 		"bF": 0,
@@ -4228,7 +4261,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http://garyrozanc.com.students:8888/",
+	"externalServerAddress": "http://localhost:8888/garyrozanc.com.students/_site/",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

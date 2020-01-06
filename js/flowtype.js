@@ -91,7 +91,7 @@
 new flowtype( 'body', { 
     //maxFont : 68,
     maxFont : 68,
-    minFont : 21,
+    minFont : 24,
     fontRatio: 44,
     lineRatio: 1.35
 });

@@ -4,7 +4,7 @@ body {
 	color: $font-color;
 	//font-family: 'proximanova-light', verdana, helvetica, sans-serif;
 	@include font-body;
-	font-size: 16px;
+	font-size: 18px;
 	//padding: .5em;
 	transition: font-size 500ms ease-in-out;	
 	width: 100%;
