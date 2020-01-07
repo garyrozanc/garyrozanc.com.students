@@ -1,7 +1,7 @@
 ---
 layout: redirect
-redirect-link: https://art336s20.slack.com
+redirect-link: https://art336-s20-01.slack.com
 permalink: art336/index.html
 ---
 
-You will be redirected to the course <a href="https://art336s20.slack.com">Slack group</a> shortly.
+You will be redirected to the course <a href="https://art336-s20-01.slack.com">Slack group</a> shortly.
