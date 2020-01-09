@@ -11,21 +11,21 @@ upload-files: https://www.dropbox.com/request/2M2m7gFEIJzkLdvHQ4i6
 assets: 
 ---
 
-Now that you have registered a domain name and have it pointing to a web server with two directories setup, it’s time to create content to put on that web server. However, you are going to need some tools to help you along your way. While there are a lot of tools out there that you could use, or already may be using I preselected the ones I would like you to use to complete the exercises in this course.
+Now that you have registered a domain name and have it pointing to a web server with two directories setup, it’s time to create content to put on that web server. However, you are going to need some tools to help you along your way. While there are a lot of tools out there that you could use, or already may be using I preselected the ones I would like you to use to complete the exercises in these course.
 
 Since there are a lot of other options available, I wanted to share with you the three main reasons I have chosen the ones that I did. 
 1. All the tools are open source and free to use. Since the web is technically open, and the industry tends to openly share its knowledge, it’s only appropriate to use tools that embrace that philosophy.
 2. The tools that I have chosen work on both macOS and Windows. While the screencasts are conducted on a Mac, if you are using Windows you should notice very little difference between the tools. This will make it easy for just about anyone to complete the course.
-3. Perhaps the most important factor I look for is active development or a revenue stream. Open source tools tend to disappear after a while because the work done on them is by volunteers, in their spare time. If there is no way for someone to work on the project full time—make a living—the incentive to maintain the tools can quickly fade as other responsibilities creep into their day to day lives.
+3. Perhaps the most important factor I look for is active development or a revenue stream. Open source tools tend to disappear after a while because the work done on them is by volunteers. If there is no way for someone to work on the project full time—make a living—the incentive to maintain the tools can quickly fade as other responsibilities creep into their day to day lives.
 
-Of course you are free to choose your own tools, but I can’t help you if you have a problem. So, if you would like help if a problem should arise, I suggest using the tools that I have recommended.
+Of course you are free to choose your own tools, but I can’t help you if you have a problem with software I personally have not used. So, if you would like help if a problem should arise, I suggest using the tools that I have recommended.
 
 ## Text Editor
 To complete the exercises for this course you are going to write HTML and CSS. You could literally do this in a Word document, or Notepad. However, HTML and CSS can be very picky in what you type, or more specifically, don’t type. A good text editor will do a lot of different things to make writing HTML and CSS much easier that will be discussed in the screencasts throughout this course.
 
 For this course, you will need to download and install the open source tool <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a>. Again, I decided on <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a> because it’s open source, so it’s free to use. It works on macOS, Windows, and Linux machines. <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a> is also the core of Adobe’s Dreamweaver. This suggests that regular maintenance and updates will be coming to <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a> for a long time.
 
-If you know how to install software, you don’t need to follow along with the screencast. If you are unfamiliar with install software, or are confused on how to update <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a>, watch the short screencast.
+If you know how to install software, you don’t need to follow along with the screencast. If you are unfamiliar with installing software, or are confused on how to update <a href="http://brackets.io/" target="_blank" title="Brackets: A modern, open source text editor that understands web design.">Brackets</a>, watch the short screencast.
 
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/74Tr9CZk2VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -67,13 +67,13 @@ You will need to follow along with the screencast to learn how to setup <a href=
 ## Interactive Design Software
 You will need access to the <a href="http://www.adobe-students.com/creativecloud/buy/students.html" target="_blank" title="Adobe Creative Cloud">Adobe Creative Cloud</a> for three reasons. The first, you will need Photoshop to edit photos for use on the web. Second, you will also need Illustrator to prepare vector images for the web. Finally, you will need Adobe Fonts (Formerly TypeKit) to use web fonts in the exercises.
 
-While I’ll be using the Creative Cloud in the screencasts, if you don’t have it, you can still manage. You can sign up for a free TypeKit account and that will be more than enough for you to follow along. You can also use <a href="https://affinity.serif.com/en-us/designer/" target="_blank" title="Affinity Designer">Affinity Designer</a> and <a href="https://affinity.serif.com/en-us/photo/" target="_blank" title="Affinity Photo">Affinity Photo</a>, the Illustrator and Photoshop competitors from <a href="http://www.serif.com/" target="_blank" title="Serif">Serif</a>. The Affinity software is not free, but it’s much less expensive than the Creative Cloud and doesn’t require a subscription. They are also working on <a href="https://9to5mac.com/2017/12/14/affinity-publisher-for-mac-tease-video-2018-beta-release/" target="_blank" title="Affinity Publisher">Affinity Publisher</a>, a replacement InDesign.
+While I’ll be using the Creative Cloud in the screencasts, if you don’t have it, you can still manage. You can sign up for a free TypeKit account and that will be more than enough for you to follow along. You can also use <a href="https://affinity.serif.com/en-us/designer/" target="_blank" title="Affinity Designer">Affinity Designer</a> and <a href="https://affinity.serif.com/en-us/photo/" target="_blank" title="Affinity Photo">Affinity Photo</a>, and <a href="https://affinity.serif.com/en-gb/publisher/" target="_blank" title="Affinity Publisher">Affinity Publisher</a> the Illustrator, InDesign, and Photoshop competitors from <a href="http://www.serif.com/" target="_blank" title="Serif">Serif</a>. The Affinity software is not free, but it’s much less expensive than the Creative Cloud and doesn’t require a subscription.
 
 ## Grading
 This assignment will be worth 5 points. Name the screenshot files exactly as follows (all lowercase with hyphens and no blank spaces) **web-tools-brackets-firstname-lastname.(gif,jpg,png)**, **web-tools-autoprefixer-firstname-lastname.(gif,jpg,png)**, **web-tools-whitespace-firstname-lastname.(gif,jpg,png)**, and **web-tools-cyberduck-firstname-lastname.(gif,jpg,png)**, and upload the files via the DropBox link.
 
-- You will recieve 1 point for installing Brackets
-- You will recieve 1 point for installing the Autoprefixer plugin
-- You will recieve 1 point for installing the Show Whitespace VS plugin
-- You will recieve 1 point for installing Cyberduck
-- You will recieve 1 point for taking a screenshot showing each program and plugin installed 
+- You will receive 1 point for installing Brackets.
+- You will receive 1 point for installing the Autoprefixer plugin.
+- You will receive 1 point for installing the Show Whitespace VS plugin.
+- You will receive 1 point for installing Cyberduck.
+- You will receive 1 point for taking a screenshot showing each program and plugin installed.

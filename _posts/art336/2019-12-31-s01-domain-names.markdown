@@ -48,7 +48,7 @@ In the past, I’ve left it up to students to figure out how to do the registrat
 ## Pointing the Domain Name to an IP Address
 As I alluded to in the second sentence of this exercise, a domain name is part of interrelated process that allows people to see your files via the internet. Since the domain name is only one service in an interrelated process, unfortunately what you are about to do won’t yield any visible results until you complete the next exercise: _02 Web Hosting_. 
 
-However, even though you won’t see the results until the next exercise, it’s important to take care and make sure you follow the screencast exactly. In the screencast, you will be creating four Domain Name Server or DNS records, two A records, and one CNAME record, that will direct web browsers to the locations of your files on the course web server. You will be using the IP address of the class web server 45.55.166.182 to create the link between your domain name and the future location of your files. 
+However, even though you won’t see the results until the next exercise, it’s important to take care and make sure you follow the screencast exactly. In the screencast, you will be creating three Domain Name Server or DNS records, two A records, and one CNAME record, that will direct web browsers to the locations of your files on the course web server. You will be using the IP address of the class web server 45.55.166.182 to create the link between your domain name and the future location of your files. 
 
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/8F50PRB3vgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
