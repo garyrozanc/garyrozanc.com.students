@@ -1,6 +1,5 @@
 ---
 layout: post
-css: assignments
 categories: art336
 title: "S03: Web Tools"
 date: 2019-01-27 09:00:00
@@ -75,5 +74,4 @@ This assignment will be worth 5 points. Name the screenshot files exactly as fol
 - You will receive 1 point for installing Brackets.
 - You will receive 1 point for installing the Autoprefixer plugin.
 - You will receive 1 point for installing the Show Whitespace VS plugin.
-- You will receive 1 point for installing Cyberduck.
 - You will receive 1 point for taking a screenshot showing each program and plugin installed.

@@ -1,14 +1,9 @@
 ---
 layout: post
-css: assignments
 categories: art336
 title: "S06: Using a FTP Client"
 date: 2019-01-27 09:00:00
-due-date: 2019-02-11
 time: "30 minutes"
-points: 5
-upload-files:
-assets:
 ---
 
 Throughout this course you will be creating HTML and CSS documents, using web fonts, and images on your computer. Working on the files directly on your computer is a great strategy because you don’t have to worry about a slow, or non-existent internet connection, web server issues, etc., or litany of other potential issues. However, unless your computer is setup as a web server with a 24/7 connection to the internet, the page you create won’t be viewable by anyone unless they are sitting at your computer.
@@ -17,18 +12,20 @@ Since you want the speed benefits of working on the HTML and CSS files on your c
 
 You may have also heard of this process referred to as SFTP, or Secure File Transfer Protocol. SFTP functions the same way as FTP, with one exception, encryption. With the SFTP process files sent between your computer and the web server are encrypted. This extra layer of security ensures that sensitive data sent between the two computers isn’t readable if it were hacked by someone. For this course, you will use FTP, not SFTP since none of the data you are sending to the remote web server is sensitive.
 
-To utilize the File Transfer Protocol you need a FTP client. There are many FTP clients available for both macOS and Windows. <a href="https://filezilla-project.org/" target="_blank" title="FileZilla - The free FTP solution"><a href="https://panic.com/transmit/" target="_blank" title="Transmit 5">Transmit 5</a></a> and Transmit are some of the more popular ones, but for this course you will be using <a href="https://cyberduck.io/?l=en" target="_blank" title="Cyberduck | Libre FTP, SFTP, WebDAV, S3, Backblaze B2 & OpenStack Swift browser for Mac and Windows">Cyberduck</a>. Since it’s open source, multi-platform, with a revenue stream I thinks it’s the best choice for us. Another bonus is that if you are a macOS user, the interface will seem very familiar to you.
+To utilize the File Transfer Protocol you need a FTP client. There are many FTP clients available for both macOS and Windows. <a href="https://filezilla-project.org/" target="_blank" title="FileZilla - The free FTP solution"><a href="https://panic.com/transmit/" target="_blank" title="Transmit 5">Transmit 5</a></a> and <a href="https://filezilla-project.org/" target="_blank" title="FIlezilla">Filezilla</a> are some of the more popular ones, but for this course you will be using <a href="https://cyberduck.io/?l=en" target="_blank" title="Cyberduck | Libre FTP, SFTP, WebDAV, S3, Backblaze B2 & OpenStack Swift browser for Mac and Windows">Cyberduck</a>. Since it’s open source, multi-platform, with a revenue stream I thinks it’s the best choice for us. Another bonus is that if you are a macOS user, the interface will seem very familiar to you.
+
+### Installing and Configuring Cyberduck
+
+Before you can transfer files to the course webhosting account you will need to download, install, and configure Cyberduck.  
+
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/TmqLDdDoAvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Uploading Files with Cyberduck
 
 To use the FTP client <a href="https://cyberduck.io/?l=en" target="_blank" title="Cyberduck | Libre FTP, SFTP, WebDAV, S3, Backblaze B2 & OpenStack Swift browser for Mac and Windows">Cyberduck</a> to transfer your assignments to the course web server, simply follow the screencast below.
 
 <div class="video-wrapper">
 	<iframe src="https://player.vimeo.com/video/253034589" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-## Grading
-
-This assignment will be worth 5 points.
-
-- If you received between **4–5 points**, you successfully used Cyberduck to transfer your files to the course web server without any help.
-- If you received between **1–3 points**, you successfully used Cyberduck to transfer your files to the course web server with additional help.
-- If you received **0 points** you did not complete the assignment.
