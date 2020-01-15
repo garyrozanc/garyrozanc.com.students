@@ -1,4 +1,4 @@
-<section class="login-form">
+<section class="login-warning">
 	<h1>Create Password</h1>
 	<p><?php echo $_SESSION['name'] ?>, your temporary password is your Campus ID. Until you create a password, anyone with access to your campus email address and campus id would be able to login in and see your grades. You will continue to see this message each time you log in until you create a password.</p>
 	

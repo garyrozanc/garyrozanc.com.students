@@ -2004,36 +2004,20 @@
 		"oAP": "/gradetracker/api.php",
 		"oF": 0
 		},
-	"/gradetracker/assignment-page.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/gradetracker/assignment-page.php",
-		"oF": 0
-		},
-	"/gradetracker/dashboard-menu.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/gradetracker/dashboard-menu.php",
-		"oF": 0
-		},
-	"/gradetracker/dashboard.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/gradetracker/dashboard.php",
-		"oF": 0
-		},
 	"/gradetracker/db.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/gradetracker/db.php",
+		"oF": 0
+		},
+	"/gradetracker/gradetracker.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/gradetracker/gradetracker.php",
 		"oF": 0
 		},
 	"/gradetracker/index.php": {
@@ -2092,36 +2076,12 @@
 		"oAP": "/gradetracker/LICENSE",
 		"oF": 0
 		},
-	"/gradetracker/login-form.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/gradetracker/login-form.php",
-		"oF": 0
-		},
-	"/gradetracker/login-menu.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/gradetracker/login-menu.php",
-		"oF": 0
-		},
 	"/gradetracker/login-update.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/gradetracker/login-update.php",
-		"oF": 0
-		},
-	"/gradetracker/login-verify.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/gradetracker/login-verify.php",
 		"oF": 0
 		},
 	"/gradetracker/login-warning.php": {
@@ -2138,6 +2098,38 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/gradetracker/login.php",
+		"oF": 0
+		},
+	"/gradetracker/menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/gradetracker/menu.php",
+		"oF": 0
+		},
+	"/gradetracker/not-in-use.login-form.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/gradetracker/not-in-use.login-form.php",
+		"oF": 0
+		},
+	"/gradetracker/not-in-use.login-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/gradetracker/not-in-use.login-menu.php",
+		"oF": 0
+		},
+	"/gradetracker/not-in-use.login-verify.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/gradetracker/not-in-use.login-verify.php",
 		"oF": 0
 		},
 	"/gradetracker/NOTES.md": {
@@ -2714,6 +2706,17 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/js/flowtype-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/jquery-3.4.1.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/jquery-3.4.1.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0

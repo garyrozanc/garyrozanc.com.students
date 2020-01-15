@@ -1,9 +1,9 @@
-<!doctype html>
-<html class="login no-js" lang="en">
-
-	<?php include('includes/head.php'); ?>
+---
+layout: default
+permalink: gradetracker/login.php
+---
 	
-	<body class="login">	
+	<main class="gradetracker">	
 	<?php 
 		include 'db.php';
 		
@@ -28,14 +28,9 @@
 		} elseif ($row['id_password'] === NULL && $row['id_course'] != NULL) {
 			include('login-warning.php');
 		} elseif ($row['id_password'] == $_SESSION['id_password']) {
-			header('Location: dashboard-menu.php');
+			header('Location: menu.php');
 		} else {
-			echo "<section class=\"login-form\"><p>You entered an unknown email address or the wrong password. <a href=\"index.php\" title=\"Login Page\">Please try again.</a></p></section>";
+			echo "<section class=\"login-error\"><p>You entered an unknown email address or the wrong password. <a href=\"index.php\" title=\"Login Page\">Please try again.</a></p></section>";
 		}
-	?>
-	
-	<?php include('includes/footer.php'); ?>
-	
-	</body>
-
-</html>
+	?>	
+	</main>

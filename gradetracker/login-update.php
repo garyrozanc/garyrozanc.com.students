@@ -1,9 +1,9 @@
-<!doctype html>
-<html class="login no-js" lang="en">
-
-	<?php include('includes/head.php'); ?>
+---
+layout: default
+permalink: gradetracker/login-update.php
+---
 	
-	<body class="login">
+	<main class="gradetracker">
 		
 		<script>
 			function checkPass() {
@@ -84,10 +84,6 @@
 				</form>
 		  <?php } 
 			} ?>
-		</section>
+		</section>	
 		
-		<?php include('includes/footer.php'); ?>
-		
-	</body>
-
-</html>
+	</main>
