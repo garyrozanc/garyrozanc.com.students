@@ -25,7 +25,9 @@ You must have completed ART 213 (with a grade of “C” or better), ART 331 (wi
     - Explain and defend design choices through formal presentations.
     
 ## Required/Suggested Texts
-There are several books available, but not required, that will expand upon what you learn during the course of the semester. Many, if not all of the <a href="https://abookapart.com/" target="_blank" title="A Book Apart">A Book Apart</a> collection is available in the library so check them out.
+There are several books available, but not required, that will expand upon what you learn during the course of the semester. 
+
+Many, if not all of the <a href="https://abookapart.com/" target="_blank" title="A Book Apart">A Book Apart</a> collection is available in the library so check them out.
 
 - <a href="http://www.abookapart.com/products/mobile-first" title="Mobile First" target="_blank">Mobile First</a> by Luke Wroblewski
 - <a href="http://abookapart.com/products/responsive-web-design" target="_blank" title="Responsive Web Design">Responsive Web Design</a> by Ethan Marcotte
@@ -80,20 +82,22 @@ You will need the following software and supplies.
 ### Communications
 One learning objective of this course, “Make use of an interactive design process,” goes beyond creating visuals. The interactive design process involves working in multidisciplinary teams. Those multidisciplinary teams consisting of content strategists, designers, developers, user experience designers, etc. work in concert and communicate constantly. Currently, [Slack](https://slack.com/) is the tool most commonly used for teams to collaborate. Therefore, we are going to use Slack for all class communications. If you are having trouble using Slack, setup a time to meet with me one on one. It’s pretty straightforward, so it won’t be much of a learning curve.
 
-You will need to make sure that you can see each of the following channels: #announcements, #articles, #class-assignments, #comments-questions, #screencasts. If you don’t see one of these channels direct message me and I will add you.
+You will need to make sure that you can see each of the following channels: _#announcements_, _#articles_, _#assignments_, _#discussions-questions_. If you don’t see one of these channels direct message me and I will add you.
 
 One bonus to using Slack is all the different groups you can join. Since designers use Slack daily, they have also setup groups to discuss design, jobs, freelance, etc. If you find a group not on these two lists, post it on our Slack group.
 
 - [Best Slack Groups for Designers](https://getflywheel.com/layout/best-slack-groups-for-designers/)
 - [Slack List](https://slacklist.info/)
 
+In addition to communications through Slack, I maintain weekly office hours on Monday and Wednesday from 12–2 pm for you to stop in with questions or comments. My office is located in FA332 and you can [schedule and manage appoints with Google Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUVDOXRIbjBJc0VIfGRlZmF1bHR8NzM3Y2ZiOWViZTMxN2ZhMzhiMGFkMmUxYmEzNGE0ZTM). 
+
 ### Workload
 5 classes is considered a typical course load _15 credits a semester &times; 8 semesters = 120 credits_. Each class is 4 contact hours _4 hours &times; 5 classes = 20 hours_. Each class also has 4 hours of outside work each week _20 classroom hours + 20 outside work hours = 40 hrs)_. I will assign projects and readings each week to fit within that formula. If you can’t commit to a minimum of 4 hours of outside work each week you won’t do well in this course.
 
-Finally, read the class blog carefully before asking questions. 99.9% of your questions have already been answered and are on the blog, including your grades, my office hours and contact info! If you email me a question that is already on the blog I’ll remind you to read the blog.
+Finally, read the assignment descriptions—and this syllabus—carefully before asking questions. 99.9% of your questions have already been answered, including your grades, my office hours and contact info! If you email me a question that is already listed I’ll remind you to look it up.
 
 ### Attendance
-You get two personal days to use for illness, campus sanctioned activities, personal reasons, etc. No documentation is necessary, these are your personal days to utilize as you deem necessary. On subsequent absences, your final semester grade is lowered by 10% (one letter grade) for each absence. For example, if you have a “B” and missed four classes you will receive a final grade of a “D”. Absences are automatically factored into your final grade in the class dashboard. 
+You get two personal days to use for illness, campus sanctioned activities, personal reasons, etc. No documentation is necessary, these are your personal days to utilize as you deem necessary. On subsequent absences, your final semester grade is lowered by 10% (one letter grade) for each absence. For example, if you have a “B” and missed four classes you will receive a final grade of a “D”. Absences are automatically factored into your final grade in the class grade tracker. 
 
 Attendance will be taken within the first 10 minutes of class. Students who show up after attendance is taken are already marked absent. Being late disrupts the flow of class for the students who are on time if I have to stop everything to update your attendance from absent to late. To avoid disrupting the class to change your _Absent_ to a _Late_ you will need to use the class blog to submit a late notification. Failure to do this in a timely manner upon arrival to class will result in your late arrival remaining an absence. Lates will be recorded in twenty minute increments. For every 110 minutes you are late, you will receive an absence. Unlike your absences in the class dashboard, lates will not be automatically tallied into your final grade, so I will be doing that manually at the end of the semester.
 
@@ -104,7 +108,7 @@ A final course grade of _Incomplete_ will only be assigned to students who curre
 ### Final Exam Attendance
 The final exam will be held during the final exam period posted on the UMBC website for our class. The final exam could consist of a critique, a presentation, in class quiz, or simply turning in assignment files. In person attendance for the final exam is mandatory. Failure to attend the final exam will result in lowering your final course grade by one letter grade.
 
-The only excused final exam absences—illness or participation in UMBC organized mandatory activities or a common final exam with an overlapping time—must be accompanied by a note from the UMBC Student Health Center, another health care provider, or UMBC faculty/coach.
+The only excused final exam absences—participation in UMBC organized mandatory activities, or a common final exam with an overlapping time—must be accompanied by a note from a UMBC faculty or coach.
 
 ## Assignments
 
@@ -114,20 +118,20 @@ _Class_ assignments are to be completed in _class_. The reason for this is class
 When you are in ART 336 you should be working on ART 336 assignments. Working on projects for other art studio courses or studying for quizzes demonstrates that you do not have enough ART 336 assignments to fill up the 2 contact hours for each class period. If I continually see you working on the screencasts, outside projects, etc. I will assign additional exercises to help make you better web designers: the goal of the course.
 
 ### Screencast Assignments
-I have created a series of screencasts with the goal of teaching you just enough HTML and CSS to understand the medium you are designing for and to test out your design choices before you hand them off to a developer. The screencasts will need to be completed on time. Each builds off the previous and they are directly timed to coincide with the class assignments. By the middle of the semester you should be using what you learned in the screencast in class. If you don't keep up with the screencasts you wont be able to complete the in class assignments. Not completing the assignments will severely affect your final course grade.
+I have created a series of screencasts with the goal of teaching you just enough HTML and CSS to understand the medium you are designing for and to test out your design choices before you hand them off to a developer. The screencasts will need to be completed on time. Each builds off the previous and they are directly timed to coincide with the in-class assignments. By the middle of the semester you should be using what you learned in the screencast in class. If you don't keep up with the screencasts you wont be able to complete the in-class assignments. Not completing the assignments will severely affect your final course grade.
 
 ### Assignment Questions
-24 hours prior to a project or exercise being due I will not answer assignment related questions via email or before/during/after class. You should not be starting an assignment 48 hours before it’s due! I will still answer assignment related questions regardless of deadline if you stop by during my office hours.
+24 hours prior to a project or exercise being due I will not answer assignment related questions via email or before/during/after class. You should not be starting an assignment 48 hours before it’s due! I will still answer assignment related questions regardless of deadline if you stop by during my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVDOXRIbjBJc0VIfGRlZmF1bHR8NzM3Y2ZiOWViZTMxN2ZhMzhiMGFkMmUxYmEzNGE0ZTM).
 
 ### Grading
-Over the course of the semester you will earn points by completing in class assignments and screencasts for homework. Because every in class assignment and screencast is different, each will have its own grading rubric describing how I will be assessing the work. Be sure to carefully review each assignment or screencast blog post and its grading rubric to ensure you have successfully completed the entire assignment. Assignments and screencasts will range anywhere from 5 to 25 points depending on complexity with clearly identified point values on the specific assignment’s blog post.
+Over the course of the semester you will earn points by completing in class assignments and screencasts for homework. Because every in class assignment and screencast is different, each will have its own grading rubric describing how I will be assessing the work. Be sure to carefully review each assignment or screencast blog post and its grading rubric to ensure you have successfully completed the entire assignment. Assignments and screencasts will range anywhere from 5 to 25 points depending on complexity with clearly identified point values on the specific assignment’s description page.
 
-The in class assignments and the screencasts you will be doing for homework are weighted evenly, each worth 50% of the final semester grade. This means that you have to complete both the assignments (150 points) and screencasts (150 points) to successfully pass the course. Failure to keep up with either  will result in a low or failing grade! As a reminder, since ART 336 is a requirement for the Graphic Design major, you will need to earn a letter grade of “C” or higher to have it count towards the major. Anything below a “C” will result in you needing to retake the course. It is also important for you to remember that you can only attempt a course three times. If you do not pass, or you withdraw from a course three times, you will not be able to take future courses in the major. When you attempt to retake a course for the second or third time, you will need to get a waiver for the registrar’s office which has very specific deadlines!  
+The in class assignments and the screencasts you will be doing for homework are weighted evenly, each worth 50% of the final semester grade. This means that you have to complete both the assignments (150 points) and screencasts (150 points) to successfully pass the course. Failure to keep up with either will result in a low or failing grade! As a reminder, since ART 336 is a requirement for the Graphic Design major, you will need to earn a letter grade of “C” or higher to have it count towards the major. Anything below a “C” will result in you needing to retake the course. It is also important for you to remember that you can only attempt a course three times. If you do not pass, or you withdraw from a course three times, you will not be able to take future courses in the major. When you attempt to retake a course for the second or third time, you will need to get a waiver for the registrar’s office which has very specific deadlines!  
 
 #### Late Work, Incompletes, and Make-Up
 Professionalism will be stressed. Treat this class as you would a job. Late arrival to a client meeting or missed deadlines will cost you a job and your ex-employer a client. Therefore, all assignments must be completed on time, and are due at the beginning of class. 
 
-An assignment not ready for the start of class will be considered late. Assignments lose 10% each day _not class period_ they are late. Assignments over 7 days late will be given a **0**, no exceptions. Turn in your Assignments even if you aren’t finished, it’s better to turn in **something**. Getting partial points is better than getting a **0**.
+An assignment not ready for the start of class will be considered late. Assignments lose 10% each **day** _not class period_ they are late. Assignments over 7 days late will be given a **0**, no exceptions. Turn in your Assignments even if you aren’t finished, it’s better to turn in **something**. Getting partial points is better than getting a **0**.
 
 - Day 1 100%
 - Day 2 90%
@@ -192,58 +196,87 @@ Finally, off-campus supports and resources:
 
 ## Course Calendar
 
-### Week 1
+### Week 1 (01.27)
 - Introductions & Discuss Syllabus
-- [A01: What are Breakpoints](https://gary.is/art336/a01-what-are-breakpoints.html)
-- [A02: Atomic Design & Design Systems](https://gary.is/art336/a02-atomic-design.html)
-- [S01: Domain Names](https://gary.is/art336/s01-domain-names.html)
-- [S02: Web Hosting](https://gary.is/art336/s02-web-hosting.html)
-- [S03: Web Tools](https://gary.is/art336/s03-web-tools.html)
-- [S04: HTML & CSS Boilerplate](https://gary.is/art336/s04-html-css-boilerplate.html)
-- [S05: Course Assignment Page](https://gary.is/art336/s05-course-assignment-page.html)
+- Learn <a href="https://vimeo.com/219302853" target="_blank">“20 years of Web Design and Community”</a> in 40 minutes.
+- A01: What are Breakpoints
+- S01: Domain Names
+- S02: Web Hosting
+- S03: Using a FTP Client (S06)
+- S04: Web Tools (S03)
+- S05: HTML & CSS Boilerplate (S04)
+- S06: Course Assignment Page (S05)
+- <del>S06: Using a FTP Client</del>
 
-### Week 2
-- [A03: Responsive Case Study](https://gary.is/art336/a03-responsive-case-study.html)
-- [A04: Interface Design & Prototyping Tools](https://gary.is/art336/a04-interface-design-and-prototyping-tools.html)
-- [S06: Using a FTP Client](https://gary.is/art336/s06-using-a-ftp-client.html)
-- [S07: Webfont Specimen Evaluation Page](https://gary.is/art336/s07-webfont-specimen-evaluation-page.html)
+### Week 2 (02.03)
+- A02: Atomic Design & Design Systems
+- A03: Responsive Case Study
 
-### Week 3
-- [A05: Just Enough Research](https://gary.is/art336/a05-just-enough-research.html)
-- [A06: Initial Client Meeting - Project Scope](https://gary.is/art336/a06-initial-client-meeting.html)
-- [S08: Web Typography](https://gary.is/art336/s08-web-typography.html)
+### Week 3 (02.10)
+- A04: Interface Design & Prototyping Tools
+- A05: Just Enough Research
+- S07: Webfont Specimen Evaluation Page
 
-### Week 4
-- [A07: Where to Begin Designing for the Web?](https://gary.is/art336/a07-where-to-begin-designing-for-the-web.html)
-- [A07 - A: Content Inventory](https://gary.is/art336/a07a-content-inventory.html)
+### Week 4 (02.17)
+- A06: Client Meeting - Inital Project Scope
+- A07: Where to Begin Designing for the Web?
+- A07 - A: Content Inventory
+- S08: Web Typography
 
-### Week 5
-- [A07 - B: Information Architecture](https://gary.is/art336/a07b-information-architecture.html)
-- [A07 - C: User Research](https://gary.is/art336/a07c-user-research.html)
-- [S09: Working With Images](https://gary.is/art336/s09-working-with-images.html)
+### Week 5 (02.24)
+- A07 - B: Information Architecture
+- A07 - C: User Research
 
-### Week 6
-- [A07 - D: Art Direction vs. Graphic Design](https://gary.is/art336/a07d-art-direction-vs-graphic-design.html)
+### Week 6 (03.02)
+- A07 - D: Art Direction vs. Graphic Design
 
-### Week 7
-- [S10: Layout & Performance Evaluation Template](https://gary.is/art336/s10-layout-evaluation-performance-templmate.html)
-- Monday, March 15th – Friday, March 22nd is UMBC’s spring break. No classes.
+### Week 7 (03.09)
+- A06: Client Meeting - Art Direction Presentation
+- S09: Working With Images
 
-### Week 8
+### March 15th–March 22nd
+
+- Spring break. No classes.
+
+### Week 8 (03.23)
+
+- A08: Element Collage and using the S07: Webfont Specimen Evaluation Page
+- S10: Layout & Performance Evaluation Template
+
+### Week 9 (03.30)
+
+- A09: Design Systems
 
 
-### Week 9
-
-
-### Week 10
+### Week 10 (04.06)
+- Putting it All Togther 
+  - A09: Design Systems
+  - S08: Web Typography
+  - S10: Layout & Performance Evaluation Template
+- A10: Website Mockups - Introduction
 - Monday, April 6th is the last day to withdraw from individual courses with a “W”.
 
+### Week 11 (04.13)
 
-### Weeks 11–14
+- A10: Website Mockups - Animations
 
+### Week 12 (04.20)
 
-### Week 15
-- Monday, May 11th is the final critique.
+- A10: Website Mockups - In progress critique
+
+### Week 13 (04.27)
+
+- A10: Website Mockups - Production Days
+
+### Week 14 (05.04)
+
+- Monday, May 4th is the final critique, part one.
+- Wednesday, May 6th is the final critique, part one.
+
+### Week 15 (05.11)
+
+- A11: Client Presentation.
+- Wednesday, May 13th, no class, reading day.
 
 ### Week 16
 - Monday, May 18th is the client pitch.
