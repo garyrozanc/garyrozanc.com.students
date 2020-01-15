@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: gradetracker/index.php
+permalink: gradebook/index.php
 ---
 	
-		<main class="gradetracker">
+		<main class="gradebook">
 			<h1>Login</h1>
 			<form action="login.php" method="post" class="login-form">
 				<label for="id_email">Campus Email</label>

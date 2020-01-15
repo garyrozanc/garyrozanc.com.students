@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: gradetracker/login.php
+permalink: gradebook/login.php
 ---
 	
-	<main class="gradetracker">	
+	<main class="gradebook">	
 	<?php 
 		include 'db.php';
 		

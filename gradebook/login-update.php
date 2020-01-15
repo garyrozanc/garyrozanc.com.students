@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: gradetracker/login-update.php
+permalink: gradebook/login-update.php
 ---
 	
-	<main class="gradetracker">
+	<main class="gradebook">
 		
 		<script>
 			function checkPass() {

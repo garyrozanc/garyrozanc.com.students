@@ -1,5 +1,6 @@
-<!-- late-location.php -->
+
 <!-- Step 03 -->
+
 <?php
 	
 	include 'db.php';

@@ -1007,36 +1007,20 @@
 		"oAP": "/_site/gradetracker/api.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/assignment-page.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/gradetracker/assignment-page.php",
-		"oF": 0
-		},
-	"/_site/gradetracker/dashboard-menu.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/gradetracker/dashboard-menu.php",
-		"oF": 0
-		},
-	"/_site/gradetracker/dashboard.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/gradetracker/dashboard.php",
-		"oF": 0
-		},
 	"/_site/gradetracker/db.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_site/gradetracker/db.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/gradetracker.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/gradetracker.php",
 		"oF": 0
 		},
 	"/_site/gradetracker/index.php": {
@@ -1095,36 +1079,12 @@
 		"oAP": "/_site/gradetracker/LICENSE",
 		"oF": 0
 		},
-	"/_site/gradetracker/login-form.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/gradetracker/login-form.php",
-		"oF": 0
-		},
-	"/_site/gradetracker/login-menu.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/gradetracker/login-menu.php",
-		"oF": 0
-		},
 	"/_site/gradetracker/login-update.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_site/gradetracker/login-update.php",
-		"oF": 0
-		},
-	"/_site/gradetracker/login-verify.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/gradetracker/login-verify.php",
 		"oF": 0
 		},
 	"/_site/gradetracker/login-warning.php": {
@@ -1141,6 +1101,38 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_site/gradetracker/login.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/menu.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/not-in-use.login-form.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/not-in-use.login-form.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/not-in-use.login-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/not-in-use.login-menu.php",
+		"oF": 0
+		},
+	"/_site/gradetracker/not-in-use.login-verify.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/gradetracker/not-in-use.login-verify.php",
 		"oF": 0
 		},
 	"/_site/gradetracker/NOTES.md": {
@@ -1705,6 +1697,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/_site/js/jquery-3.4.1.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/js/jquery-3.4.1.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"/_site/js/page-scroll.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1932,207 +1935,207 @@
 		"oAP": "/downloads/art336-working-with-images.zip",
 		"oF": 0
 		},
-	"/gradetracker/admin-approve.php": {
+	"/gradebook/admin-approve.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/admin-approve.php",
+		"oAP": "/gradebook/admin-approve.php",
 		"oF": 0
 		},
-	"/gradetracker/admin-attendance-submit.php": {
+	"/gradebook/admin-attendance-submit.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/admin-attendance-submit.php",
+		"oAP": "/gradebook/admin-attendance-submit.php",
 		"oF": 0
 		},
-	"/gradetracker/admin-attendance.php": {
+	"/gradebook/admin-attendance.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/admin-attendance.php",
+		"oAP": "/gradebook/admin-attendance.php",
 		"oF": 0
 		},
-	"/gradetracker/admin-grades-submit.php": {
+	"/gradebook/admin-grades-submit.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/admin-grades-submit.php",
+		"oAP": "/gradebook/admin-grades-submit.php",
 		"oF": 0
 		},
-	"/gradetracker/admin-grades.php": {
+	"/gradebook/admin-grades.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/admin-grades.php",
+		"oAP": "/gradebook/admin-grades.php",
 		"oF": 0
 		},
-	"/gradetracker/admin-menu.php": {
+	"/gradebook/admin-menu.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/admin-menu.php",
+		"oAP": "/gradebook/admin-menu.php",
 		"oF": 0
 		},
-	"/gradetracker/admin.php": {
+	"/gradebook/admin.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/admin.php",
+		"oAP": "/gradebook/admin.php",
 		"oF": 0
 		},
-	"/gradetracker/advising.php": {
+	"/gradebook/advising.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/advising.php",
+		"oAP": "/gradebook/advising.php",
 		"oF": 0
 		},
-	"/gradetracker/api.php": {
+	"/gradebook/api.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/api.php",
+		"oAP": "/gradebook/api.php",
 		"oF": 0
 		},
-	"/gradetracker/db.php": {
+	"/gradebook/db.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/db.php",
+		"oAP": "/gradebook/db.php",
 		"oF": 0
 		},
-	"/gradetracker/gradetracker.php": {
+	"/gradebook/gradebook.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/gradetracker.php",
+		"oAP": "/gradebook/gradebook.php",
 		"oF": 0
 		},
-	"/gradetracker/index.php": {
+	"/gradebook/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/index.php",
+		"oAP": "/gradebook/index.php",
 		"oF": 0
 		},
-	"/gradetracker/insert_students.sql": {
+	"/gradebook/insert_students.sql": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/insert_students.sql",
+		"oAP": "/gradebook/insert_students.sql",
 		"oF": 0
 		},
-	"/gradetracker/late-location.php": {
+	"/gradebook/late-location.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/late-location.php",
+		"oAP": "/gradebook/late-location.php",
 		"oF": 0
 		},
-	"/gradetracker/late-update.php": {
+	"/gradebook/late-update.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/late-update.php",
+		"oAP": "/gradebook/late-update.php",
 		"oF": 0
 		},
-	"/gradetracker/late-warning.php": {
+	"/gradebook/late-warning.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/late-warning.php",
+		"oAP": "/gradebook/late-warning.php",
 		"oF": 0
 		},
-	"/gradetracker/late.php": {
+	"/gradebook/late.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/late.php",
+		"oAP": "/gradebook/late.php",
 		"oF": 0
 		},
-	"/gradetracker/LICENSE": {
+	"/gradebook/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/LICENSE",
+		"oAP": "/gradebook/LICENSE",
 		"oF": 0
 		},
-	"/gradetracker/login-update.php": {
+	"/gradebook/login-update.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/login-update.php",
+		"oAP": "/gradebook/login-update.php",
 		"oF": 0
 		},
-	"/gradetracker/login-warning.php": {
+	"/gradebook/login-warning.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/login-warning.php",
+		"oAP": "/gradebook/login-warning.php",
 		"oF": 0
 		},
-	"/gradetracker/login.php": {
+	"/gradebook/login.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/login.php",
+		"oAP": "/gradebook/login.php",
 		"oF": 0
 		},
-	"/gradetracker/menu.php": {
+	"/gradebook/menu.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/menu.php",
+		"oAP": "/gradebook/menu.php",
 		"oF": 0
 		},
-	"/gradetracker/not-in-use.login-form.php": {
+	"/gradebook/not-in-use.login-form.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/not-in-use.login-form.php",
+		"oAP": "/gradebook/not-in-use.login-form.php",
 		"oF": 0
 		},
-	"/gradetracker/not-in-use.login-menu.php": {
+	"/gradebook/not-in-use.login-menu.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/not-in-use.login-menu.php",
+		"oAP": "/gradebook/not-in-use.login-menu.php",
 		"oF": 0
 		},
-	"/gradetracker/not-in-use.login-verify.php": {
+	"/gradebook/not-in-use.login-verify.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/not-in-use.login-verify.php",
+		"oAP": "/gradebook/not-in-use.login-verify.php",
 		"oF": 0
 		},
-	"/gradetracker/NOTES.md": {
+	"/gradebook/NOTES.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2142,7 +2145,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/gradetracker/NOTES.html",
+		"oAP": "/gradebook/NOTES.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2151,7 +2154,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/gradetracker/README.md": {
+	"/gradebook/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -2161,7 +2164,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/gradetracker/README.html",
+		"oAP": "/gradebook/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2170,28 +2173,28 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/gradetracker/sample-data.sql": {
+	"/gradebook/sample-data.sql": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/sample-data.sql",
+		"oAP": "/gradebook/sample-data.sql",
 		"oF": 0
 		},
-	"/gradetracker/uploads/index.php": {
+	"/gradebook/uploads/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/uploads/index.php",
+		"oAP": "/gradebook/uploads/index.php",
 		"oF": 0
 		},
-	"/gradetracker/uploads/upload.php": {
+	"/gradebook/uploads/upload.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/gradetracker/uploads/upload.php",
+		"oAP": "/gradebook/uploads/upload.php",
 		"oF": 0
 		},
 	"/img/art336-art-direction-birthday-01.gif": {
