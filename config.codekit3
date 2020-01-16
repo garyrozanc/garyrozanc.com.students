@@ -493,6 +493,14 @@
 		"oAP": "/_posts/art336/2020-01-01-a08-element-collage.markdown",
 		"oF": 0
 		},
+	"/_posts/art336/2020-01-01-a09-design-systems.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a09-design-systems.markdown",
+		"oF": 0
+		},
 	"/_posts/art336/2020-01-01-a10-static-mockups-and-prototypes.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -717,6 +725,14 @@
 		"oAP": "/_site/art336/a08-element-collage.html",
 		"oF": 0
 		},
+	"/_site/art336/a09-design-systems.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a09-design-systems.html",
+		"oF": 0
+		},
 	"/_site/art336/a10-static-mockups-and-prototypes.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -935,207 +951,207 @@
 		"oAP": "/_site/downloads/art336-working-with-images.zip",
 		"oF": 0
 		},
-	"/_site/gradetracker/admin-approve.php": {
+	"/_site/gradebook/admin-approve.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/admin-approve.php",
+		"oAP": "/_site/gradebook/admin-approve.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/admin-attendance-submit.php": {
+	"/_site/gradebook/admin-attendance-submit.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/admin-attendance-submit.php",
+		"oAP": "/_site/gradebook/admin-attendance-submit.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/admin-attendance.php": {
+	"/_site/gradebook/admin-attendance.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/admin-attendance.php",
+		"oAP": "/_site/gradebook/admin-attendance.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/admin-grades-submit.php": {
+	"/_site/gradebook/admin-grades-submit.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/admin-grades-submit.php",
+		"oAP": "/_site/gradebook/admin-grades-submit.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/admin-grades.php": {
+	"/_site/gradebook/admin-grades.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/admin-grades.php",
+		"oAP": "/_site/gradebook/admin-grades.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/admin-menu.php": {
+	"/_site/gradebook/admin-menu.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/admin-menu.php",
+		"oAP": "/_site/gradebook/admin-menu.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/admin.php": {
+	"/_site/gradebook/admin.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/admin.php",
+		"oAP": "/_site/gradebook/admin.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/advising.php": {
+	"/_site/gradebook/advising.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/advising.php",
+		"oAP": "/_site/gradebook/advising.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/api.php": {
+	"/_site/gradebook/api.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/api.php",
+		"oAP": "/_site/gradebook/api.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/db.php": {
+	"/_site/gradebook/db.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/db.php",
+		"oAP": "/_site/gradebook/db.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/gradetracker.php": {
+	"/_site/gradebook/gradebook.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/gradetracker.php",
+		"oAP": "/_site/gradebook/gradebook.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/index.php": {
+	"/_site/gradebook/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/index.php",
+		"oAP": "/_site/gradebook/index.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/insert_students.sql": {
+	"/_site/gradebook/insert_students.sql": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/insert_students.sql",
+		"oAP": "/_site/gradebook/insert_students.sql",
 		"oF": 0
 		},
-	"/_site/gradetracker/late-location.php": {
+	"/_site/gradebook/late-location.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/late-location.php",
+		"oAP": "/_site/gradebook/late-location.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/late-update.php": {
+	"/_site/gradebook/late-update.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/late-update.php",
+		"oAP": "/_site/gradebook/late-update.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/late-warning.php": {
+	"/_site/gradebook/late-warning.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/late-warning.php",
+		"oAP": "/_site/gradebook/late-warning.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/late.php": {
+	"/_site/gradebook/late.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/late.php",
+		"oAP": "/_site/gradebook/late.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/LICENSE": {
+	"/_site/gradebook/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/LICENSE",
+		"oAP": "/_site/gradebook/LICENSE",
 		"oF": 0
 		},
-	"/_site/gradetracker/login-update.php": {
+	"/_site/gradebook/login-update.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/login-update.php",
+		"oAP": "/_site/gradebook/login-update.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/login-warning.php": {
+	"/_site/gradebook/login-warning.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/login-warning.php",
+		"oAP": "/_site/gradebook/login-warning.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/login.php": {
+	"/_site/gradebook/login.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/login.php",
+		"oAP": "/_site/gradebook/login.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/menu.php": {
+	"/_site/gradebook/menu.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/menu.php",
+		"oAP": "/_site/gradebook/menu.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/not-in-use.login-form.php": {
+	"/_site/gradebook/not-in-use.login-form.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/not-in-use.login-form.php",
+		"oAP": "/_site/gradebook/not-in-use.login-form.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/not-in-use.login-menu.php": {
+	"/_site/gradebook/not-in-use.login-menu.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/not-in-use.login-menu.php",
+		"oAP": "/_site/gradebook/not-in-use.login-menu.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/not-in-use.login-verify.php": {
+	"/_site/gradebook/not-in-use.login-verify.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/not-in-use.login-verify.php",
+		"oAP": "/_site/gradebook/not-in-use.login-verify.php",
 		"oF": 0
 		},
-	"/_site/gradetracker/NOTES.md": {
+	"/_site/gradebook/NOTES.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1145,7 +1161,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/_site/gradetracker/NOTES.html",
+		"oAP": "/_site/gradebook/NOTES.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1154,7 +1170,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_site/gradetracker/README.md": {
+	"/_site/gradebook/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1164,7 +1180,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/_site/gradetracker/README.html",
+		"oAP": "/_site/gradebook/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1173,20 +1189,20 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_site/gradetracker/sample-data.sql": {
+	"/_site/gradebook/sample-data.sql": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/sample-data.sql",
+		"oAP": "/_site/gradebook/sample-data.sql",
 		"oF": 0
 		},
-	"/_site/gradetracker/uploads/upload.php": {
+	"/_site/gradebook/uploads/upload.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/gradetracker/uploads/upload.php",
+		"oAP": "/_site/gradebook/uploads/upload.php",
 		"oF": 0
 		},
 	"/_site/img/art336-art-direction-birthday-01.gif": {

@@ -3,10 +3,10 @@ layout: post
 css: assignments
 categories: art336
 title: "S10: Layout & Performance Evaluation Template"
-date: 2019-03-04 09:00:00
+date: 2019-01-29 09:00:00
 due-date: 2019-03-25
 time: "3 hours"
-points: 20
+points: 50
 upload-files: 
 assets: https://www.dropbox.com/s/e3mpve87srtg9i5/art336-layout-evaluation-template.zip?dl=0
 ---
@@ -47,8 +47,9 @@ Sorry for the brevity, but you will need <a href="../downloads/art336-layout-eva
 
 
 ## Grading
-This assignment will be worth 20 points.
+This assignment will be worth 50 points.
 
 - Rubric coming soon…
-- If you received **20 points** you successfully…
-- If you received between **0 points** you did not successfully…
+- If you received **34&ndash;50 points** you successfully…
+- If you received **1&ndash;33 points** you did not successfully…
+- If you received between **0 points** you did not complete the assignment.

@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A01: What are Breakpoints"
-date: 2019-01-27 09:00:00
+date: 2019-01-30 09:00:00
 due-date: 2020-01-28
 time: "60 minutes"
 points: 5

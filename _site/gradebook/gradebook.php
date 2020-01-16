@@ -12,7 +12,7 @@
 
   <!--<link rel="stylesheet" href="https://garyrozanc.com/students/css/main.css">-->
   <link rel="stylesheet" href="../css/main.css">
-  <link rel="canonical" href="https://garyrozanc.com/students/gradetracker/gradetracker.php">
+  <link rel="canonical" href="https://garyrozanc.com/students/gradebook/gradebook.php">
   <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com/students/feed.xml">
 </head>
 
@@ -20,9 +20,11 @@
 	<body id="top">
 		
 		<div class="wrap">
-			<main class="gradetracker">
+			<main class="gradebook">
 		
-		<a href="menu.php" class="btn-close"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path class="st0" d="M50 0C22.4 0 0 22.4 0 50c0 27.6 22.4 50 50 50s50-22.4 50-50C100 22.4 77.6 0 50 0zM80.7 70.1L70.1 80.7c-0.6 0.6-1.5 0.6-2.1 0l-18-18 -18 18c-0.6 0.6-1.5 0.6-2.1 0L19.3 70.1c-0.6-0.6-0.6-1.5 0-2.1l18-18 -18-18c-0.6-0.6-0.6-1.5 0-2.1l10.6-10.6c0.6-0.6 1.5-0.6 2.1 0l18 18 18-18c0.6-0.6 1.5-0.6 2.1 0l10.6 10.6c0.6 0.6 0.6 1.5 0 2.1l-18 18 18 18C81.3 68.6 81.3 69.5 80.7 70.1z"/></svg></a>
+		<div class="icon-close">
+			<a href="menu.php"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 100 100" xml:space="preserve"><path class="st0" d="M50 0C22.4 0 0 22.4 0 50c0 27.6 22.4 50 50 50s50-22.4 50-50C100 22.4 77.6 0 50 0zM80.7 70.1L70.1 80.7c-0.6 0.6-1.5 0.6-2.1 0l-18-18 -18 18c-0.6 0.6-1.5 0.6-2.1 0L19.3 70.1c-0.6-0.6-0.6-1.5 0-2.1l18-18 -18-18c-0.6-0.6-0.6-1.5 0-2.1l10.6-10.6c0.6-0.6 1.5-0.6 2.1 0l18 18 18-18c0.6-0.6 1.5-0.6 2.1 0l10.6 10.6c0.6 0.6 0.6 1.5 0 2.1l-18 18 18 18C81.3 68.6 81.3 69.5 80.7 70.1z"/></svg></a>
+		</div>
 		
 	<?php 
 		include 'db.php';
@@ -45,7 +47,7 @@
 		
 		echo "<p><a href=\"late-warning.php\">Late Checkin</a></p>";
 		
-		echo "<section>  \n";
+		echo "<section class=\"attendance\">  \n";
 		echo "<h2>Attendance</h2> \n";
 		echo "<div class=\"late\"> \n";
 
@@ -58,7 +60,7 @@
 		
 		while($statement->fetch()) {
 			if ($attendance_count_late > "0") {
-				echo "<h3>".$attendance_count_late." Lates</h3> \n";
+				echo "<h3>".$attendance_count_late." Late(s)</h3> \n";
 			} else {
 				echo "<h3>0 Lates</h3> \n";
 			}
@@ -94,7 +96,7 @@
 			
 			while($statement->fetch()) {
 				if ($attendance_count_absent > "0") {
-					echo "<h3>".$attendance_count_absent." Absences</h3> \n";
+					echo "<h3>".$attendance_count_absent." Absence(s)</h3> \n";
 				} else {
 					echo "<h3>0 Absences</h3> \n";
 				}

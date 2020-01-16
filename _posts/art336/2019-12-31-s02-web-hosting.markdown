@@ -6,9 +6,6 @@ title: "S02: Web Hosting"
 date: 2019-01-27 09:00:00
 due-date: 2019-02-04
 time: "30 minutes"
-points: 5
-upload-files: https://www.dropbox.com/request/h0JLkb32ciPP0q3tZov9
-assets: 
 ---
 
 In the _01 Domain Names_ exercise you pointed your domain name to the course web hosting server located at 45.55.166.182. However, a web server can host multiple websites. Simply pointing your domain name to a web server’s IP address won’t tell the web browser where your specific files are located. Web servers are very similar to apartment buildings in how their addresses are organized. For example a street address will point to a single apartment building much like an IP address will point to a single web server. Within an apartment building there are individual apartments each with their own unique address, and web servers are setup exactly the same way.
@@ -66,10 +63,3 @@ Now that you have setup your web hosting account so you have directories to stor
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/BjiUCTBYP04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-## Grading
-This assignment will be worth 5 points. Take a screenshot of your domain, subdomain, and a ftp user (blur out any passwords) and name the files exactly as follows (all lowercase with hyphens and no blank spaces) **sentora-domain-firstname-lastname.(gif,jpg,png)**, **sentora-subdomain-firstname-lastname.(gif,jpg,png)**, and **sentora-ftpuser-firstname-lastname.(gif,jpg,png)** and upload the files via the DropBox link.
-
-- If you received between **4–5** points you successfully logged into your web hosting account and setup the following: a domain, subdomain, and a ftp user.
-- If you received between **1–3** points you did not successfully log into your web hosting account and setup one or more of the following: a domain, subdomain, a ftp user, and your email address.
-- If you received **0** points you did not complete the screencast.

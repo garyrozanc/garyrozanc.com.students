@@ -3,10 +3,10 @@ layout: post
 css: assignments
 categories: art336
 title: "S09: Working With Images"
-date: 2019-02-23 09:00:00
+date: 2019-01-29 09:00:00
 due-date: 2019-03-06
 time: "3 hours"
-points: 35
+points: 40
 upload-files: 
 assets: https://www.dropbox.com/s/9nqbo6yqtbolu6t/art336-working-with-images.zip?dl=0
 ---
@@ -70,10 +70,11 @@ In part 01 you will basically <a href="../downloads/art336-working-with-images-a
 </div>
 
 ### Grading
-This assignment will be worth 35 points.
+This assignment will be worth 40 points.
 
 - Rubric coming soon…
-- If you received **35 points** you successfully…
+- If you received **27&ndash;40 points** you successfully…
+- If you received **1&ndash;26 points** you did not successfully…
 - If you received between **0 points** you did not complete the assignment.
 
 ## Resources

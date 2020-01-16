@@ -12,7 +12,7 @@
 
   <!--<link rel="stylesheet" href="https://garyrozanc.com/students/css/main.css">-->
   <link rel="stylesheet" href="../css/main.css">
-  <link rel="canonical" href="https://garyrozanc.com/students/gradetracker/menu.php">
+  <link rel="canonical" href="https://garyrozanc.com/students/gradebook/menu.php">
   <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com/students/feed.xml">
 </head>
 
@@ -20,7 +20,7 @@
 	<body id="top">
 		
 		<div class="wrap">
-			<main class="gradetracker">
+			<main class="gradebook">
 		
 	<?php 
 		include 'db.php';
@@ -50,28 +50,28 @@
 							$result = $mysqli->query("SELECT * FROM admin WHERE id_course = '$id_course_explode[0]'");
 							$row = mysqli_fetch_assoc($result);
 							$result->close();
-					    		echo "<li><a href=\"gradetracker.php?id_course=".$id_course_explode[0]."\">".$row['course_title']."</a></li>";
+					    		echo "<li><a href=\"gradebook.php?id_course=".$id_course_explode[0]."\">".$row['course_title']."</a></li>";
 					    	}
 					    	
 					    if ($id_course_explode[1]) {
 							$result = $mysqli->query("SELECT * FROM admin WHERE id_course = '$id_course_explode[1]'");
 							$row = mysqli_fetch_assoc($result);
 							$result->close();
-					    		echo "<li><a href=\"gradetracker.php?id_course=".$id_course_explode[1]."\">".$row['course_title']."</a></li>";
+					    		echo "<li><a href=\"gradebook.php?id_course=".$id_course_explode[1]."\">".$row['course_title']."</a></li>";
 					    	}
 					    	
 					    	if ($id_course_explode[2]) {
 							$result = $mysqli->query("SELECT * FROM admin WHERE id_course = '$id_course_explode[2]'");
 							$row = mysqli_fetch_assoc($result);
 							$result->close();
-					    		echo "<li><a href=\"gradetracker.php?id_course=".$id_course_explode[2]."\">".$row['course_title']."</a></li>";
+					    		echo "<li><a href=\"gradebook.php?id_course=".$id_course_explode[2]."\">".$row['course_title']."</a></li>";
 					    	}
 					    	
 					    	if ($id_course_explode[3]) {
 							$result = $mysqli->query("SELECT * FROM admin WHERE id_course = '$id_course_explode[3]'");
 							$row = mysqli_fetch_assoc($result);
 							$result->close();
-					    		echo "<li><a href=\"gradetracker.php?id_course=".$id_course_explode[3]."\">".$row['course_title']."</a></li>";
+					    		echo "<li><a href=\"gradebook.php?id_course=".$id_course_explode[3]."\">".$row['course_title']."</a></li>";
 					    	}
 					    	
 					    	echo "<li><a href=\"advising.php\">Advising Appointments</a></li>";

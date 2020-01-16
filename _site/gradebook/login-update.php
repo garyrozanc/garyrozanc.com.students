@@ -12,7 +12,7 @@
 
   <!--<link rel="stylesheet" href="https://garyrozanc.com/students/css/main.css">-->
   <link rel="stylesheet" href="../css/main.css">
-  <link rel="canonical" href="https://garyrozanc.com/students/gradetracker/login-update.php">
+  <link rel="canonical" href="https://garyrozanc.com/students/gradebook/login-update.php">
   <link rel="alternate" type="application/rss+xml" title="Gary Rozanc Teaching Blog" href="https://garyrozanc.com/students/feed.xml">
 </head>
 
@@ -20,7 +20,7 @@
 	<body id="top">
 		
 		<div class="wrap">
-			<main class="gradetracker">
+			<main class="gradebook">
 		
 		<script>
 			function checkPass() {

@@ -6,7 +6,7 @@ title: "S08: Web Typography"
 date: 2019-01-29 09:00:00
 due-date: 2019-02-25
 time: "6 hours"
-points: 35
+points: 40
 upload-files:
 assets: https://www.dropbox.com/s/he358faihpb1xdx/art336-typographic-hierarchy-page-template.zip?dl=0
 ---
@@ -129,11 +129,12 @@ In the following screencasts you will learn to use CSS selectors to target basic
 </div>
 
 ### Grading
-This assignment will be worth 35 points.
+This assignment will be worth 40 points.
 
 - Rubric coming soon…
-- If you received **35 points** you successfully…
-- If you received between **0 points** you did not successfully…
+- If you received **27&ndash;40 points** you successfully marked up the text with the proper HTML tags, and successfully changed the typographic hierarchy of the page with CSS.
+- If you received between **1&ndash;26 points** you did not properly mark up the majority of the text with the proper HTML tags and did not make all the necessary changes to the typographic hierarchy of the page with CSS.
+- If you received between **0 points** you did not complete the assignment.
 
 ## Resources
 - <a href="https://meowni.ca/font-style-matcher/" target="_blank" title="Font style matcher">Font style matcher</a>

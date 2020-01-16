@@ -6,9 +6,7 @@ title: "S05: Course Assignment Page"
 date: 2019-01-27 09:00:00
 due-date: 2019-02-04
 time: "20 minutes"
-points: 5
-upload-files: https://www.dropbox.com/request/H0POWMRXhkOUu4nJPEWk
-assets:
+points: 10
 ---
 
 Now that you have created an HTML/CSS Boilerplate, it’s time to put it to use. As I have already mentioned, the boilerplate you just learned about will be the basis for most of your assignments for the remainder of this course. In the screencast below, you will create a HTML page that you will update each time you finish an assignment. By the end of the course, this page will be a list for your to reference of all that you have learned. 
@@ -23,6 +21,6 @@ Now that you have created an HTML/CSS Boilerplate, it’s time to put it to use.
 
 This assignment will be worth 5 points. Create a duplicate folder and files and name the folder exactly as follows (all lowercase with hyphens and no blank spaces) **html-assignment-page-firstname-lastname**, and upload the files via the DropBox link. You can compress/zip the folder if that is easier for you.
 
-- If you received between **4–5 points** you successfully used the Boilerplate starting files to create an index.html assignment page.
-- If you received between **1–3 points** you did not correclty create an index.html assignment page.
+- If you received between **7&ndash;10 points** you successfully used the Boilerplate starting files to create an index.html assignment page.
+- If you received between **1&ndash;6 points** you did not correctly create an index.html assignment page.
 - If you received **0 points** you did not complete the assignment.

@@ -7,8 +7,7 @@ date: 2019-01-27 09:00:00
 due-date: 2019-02-04
 time: "30 minutes"
 points: 5
-upload-files: https://www.dropbox.com/request/tsz5AMbvwfqQEoH8yGPm
-assets: 
+upload-files: https://www.dropbox.com/request/tsz5AMbvwfqQEoH8yGPm 
 ---
 
 To help understand the web as a design medium, you will first need to get content on the web so it’s viewable on different devices and browsers. To get started, you will need two interrelated services: a place to store—host—your content online and a physical address so others can easily find the location of the hosted content you will be creating. In this exercise I will be discussing the physical address of the hosted files, the hosting of files will be covered in the _02_ Web Hosting exercise.
@@ -58,5 +57,5 @@ However, even though you won’t see the results until the next exercise, it’s
 This assignment will be worth 5 points. Take a screenshot of your completed domain name registration or confirmation email and name the file exactly as follows (all lowercase with hyphens and no blank spaces) **domain-name-firstname-lastname.(gif,jpg,png)** and upload the files via the DropBox link.
 
 - If you received between **4&ndash;5 points** you successfully registered your domain name and properly setup your DNS records.
-- If you received between **1&ndash;3 points** you did not properly setup your DNS records.
+- If you received between **1&ndash;3 points** if you did not properly setup your DNS records.
 - If you received **0** points you did not complete the screencast.

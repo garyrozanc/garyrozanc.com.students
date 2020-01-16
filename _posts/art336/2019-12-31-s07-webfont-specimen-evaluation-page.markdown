@@ -6,7 +6,7 @@ title: "S07: Webfont Specimen Evaluation Page"
 date: 2019-01-29 09:00:00
 due-date: 2019-02-11
 time: "2 hour, 30 minutes"
-points: 30
+points: 25
 upload-files:
 assets: https://www.dropbox.com/s/nbg3zyzillvzsbf/art336-font-specimen-evaluation-page.zip?dl=0
 ---
@@ -71,6 +71,6 @@ In this screencast, you will add the 7 Webfont Specimen Evaluation Pages to your
 
 ## Grading
 
-- If you received between **22&ndash;30 points** you successfully loaded the self hosted fonts, Google Fonts, Adobe Fonts, updated your assignment index.html page, and uploaded the files to the class web server.
-- If you received between **12&ndash;21 points** you successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either updated your assignment index.html page, or uploaded the files to the class web server.
-- If you received between **0&ndash;11 points** you did not successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either did not updated your assignment index.html page, or uploaded the files to the class web server.
+- If you received between **17&ndash;25 points** you successfully loaded the self hosted fonts, Google Fonts, Adobe Fonts, updated your assignment index.html page, and uploaded the files to the class web server.
+- If you received between **8&ndash;16 points** you successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either updated your assignment index.html page, or uploaded the files to the class web server.
+- If you received between **0&ndash;7 points** you did not successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either did not updated your assignment index.html page, or uploaded the files to the class web server.

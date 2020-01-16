@@ -260,12 +260,6 @@
 	}
 }
 
-.attendance {
-	h3 {
-		color: $warning;
-	}
-}
-
 .grades {
 	.passing {
 		color: darken($focus, 14%);
@@ -408,5 +402,23 @@ b + .dashboard-options {
 	}
 	.advising-appointment {
 		flex: 0 0 16.6666%;
+	}
+}
+
+.gradebook {
+	li {
+		margin-bottom: 1em;
+	}
+	li p {
+		margin-top: 0;
+	}
+}
+
+.gradebook .attendance {
+	h3 {
+		color: $warning;
+	}
+	li {
+		margin: 0;
 	}
 }

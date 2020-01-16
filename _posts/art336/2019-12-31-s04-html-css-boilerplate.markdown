@@ -6,7 +6,7 @@ title: "S04: HTML & CSS Boilerplate"
 date: 2019-01-27 09:00:00
 due-date: 2019-02-04
 time: "30 minutes"
-points: 5
+points: 10
 upload-files: https://www.dropbox.com/request/4MdpgiLP18ZqKgTZZILD
 assets: https://www.dropbox.com/s/pfxrswhi80z1eu6/art336-boilerplate.zip?dl=0
 ---
@@ -128,6 +128,6 @@ From the context of a portfolio website, the <a href="http://www.robotstxt.org/r
 ## Grading
 This assignment will be worth 5 points. Create a duplicate folder and files and name the folder exactly as follows (all lowercase with hyphens and no blank spaces) **html-css-boilerplate-firstname-lastname**, and upload the files via the DropBox link. You can compress/zip the folder if that is easier for you.
 
-- If you received between **4&ndash;5 points** you successfully downloaded the Boilerplate starting files and updated the index.html.
-- If you received between **1&ndash;3 points** you did not properly or updated the index.html.
+- If you received between **7&ndash;10 points** you successfully downloaded the Boilerplate starting files and updated the index.html.
+- If you received between **1&ndash;6 points** you did not properly updated the index.html.
 - If you received **0 points** you did not complete the assignment.

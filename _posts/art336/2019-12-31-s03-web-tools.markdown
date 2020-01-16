@@ -4,10 +4,7 @@ categories: art336
 title: "S03: Web Tools"
 date: 2019-01-27 09:00:00
 due-date: 2019-02-04
-time: "20 minutes"
-points: 5
-upload-files: https://www.dropbox.com/request/2M2m7gFEIJzkLdvHQ4i6
-assets: 
+time: "20 minutes" 
 ---
 
 Now that you have registered a domain name and have it pointing to a web server with two directories setup, it’s time to create content to put on that web server. However, you are going to need some tools to help you along your way. While there are a lot of tools out there that you could use, or already may be using I preselected the ones I would like you to use to complete the exercises in these course.
@@ -67,11 +64,3 @@ You will need to follow along with the screencast to learn how to setup <a href=
 You will need access to the <a href="http://www.adobe-students.com/creativecloud/buy/students.html" target="_blank" title="Adobe Creative Cloud">Adobe Creative Cloud</a> for three reasons. The first, you will need Photoshop to edit photos for use on the web. Second, you will also need Illustrator to prepare vector images for the web. Finally, you will need Adobe Fonts (Formerly TypeKit) to use web fonts in the exercises.
 
 While I’ll be using the Creative Cloud in the screencasts, if you don’t have it, you can still manage. You can sign up for a free TypeKit account and that will be more than enough for you to follow along. You can also use <a href="https://affinity.serif.com/en-us/designer/" target="_blank" title="Affinity Designer">Affinity Designer</a> and <a href="https://affinity.serif.com/en-us/photo/" target="_blank" title="Affinity Photo">Affinity Photo</a>, and <a href="https://affinity.serif.com/en-gb/publisher/" target="_blank" title="Affinity Publisher">Affinity Publisher</a> the Illustrator, InDesign, and Photoshop competitors from <a href="http://www.serif.com/" target="_blank" title="Serif">Serif</a>. The Affinity software is not free, but it’s much less expensive than the Creative Cloud and doesn’t require a subscription.
-
-## Grading
-This assignment will be worth 5 points. Name the screenshot files exactly as follows (all lowercase with hyphens and no blank spaces) **web-tools-brackets-firstname-lastname.(gif,jpg,png)**, **web-tools-autoprefixer-firstname-lastname.(gif,jpg,png)**, **web-tools-whitespace-firstname-lastname.(gif,jpg,png)**, and **web-tools-cyberduck-firstname-lastname.(gif,jpg,png)**, and upload the files via the DropBox link.
-
-- You will receive 1 point for installing Brackets.
-- You will receive 1 point for installing the Autoprefixer plugin.
-- You will receive 1 point for installing the Show Whitespace VS plugin.
-- You will receive 1 point for taking a screenshot showing each program and plugin installed.
