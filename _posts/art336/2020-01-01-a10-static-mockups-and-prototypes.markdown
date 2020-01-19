@@ -12,11 +12,11 @@ assets:
 ---
 
 ## Static Website Mockups (40pts)
-Now that you have content, wireframes, style tiles, and element collages, it’s finally time to start mocking up your website. You will need to mockup each of the necessary pages using either Adobe XD CC, Figma, InVision Studio, or Sketch. Each page will have a minimum of two sizes, small and large. I would suggest that you create artboards that are the size of the devices _you own_. This will allow you to test your design decisions as close to a 1 to 1 ratio as possible. Just remember that this 1 to 1 ration is _your ratio_ not necessarily the how the users will be viewing it.
+Now that you have content, wireframes, style tiles, and element collages, it&rsquo;s finally time to start mocking up your website. You will need to mockup each of the necessary pages. Each page will have a minimum of two sizes, small and large. I would suggest that you create artboards that are the size of the devices _you own_. This will allow you to test your design decisions as close to a 1 to 1 ratio as possible. Just remember that this 1 to 1 ration is _your ratio_ not necessarily how the users will be viewing it.
 
-You will also need to create mockups for elements that will change drastically when the browser window expands or shrinks. How you approach this is up to you. The purpose of this deliverable is to give the developer a blueprint to work from that doesn’t leave anything ambiguous that can be misinterpreted. It’s up to you to do the <a href="s10-evaluation-template.html" target="_blank" title="Evaluation Framework Assignment Page">necessary research and figure out the correct sizes for these elements</a>.
+You will also need to create mockups for elements that will change drastically when the browser window expands or shrinks. How you approach this is up to you. The purpose of this deliverable is to give the developer a blueprint to work from that doesn&rsquo;t leave anything ambiguous that can be misinterpreted. It&rsquo;s up to you to do the <a href="s10-evaluation-template.html" target="_blank" title="Evaluation Framework Assignment Page">necessary research and figure out the correct sizes for these elements</a>.
 
-It’s also up to you to determine the necessary number of pages. As we have discussed in class, some of the pages could be combined into one (the assignment page), some content may be better split over several (students archives). You will need to tell me in class how many pages you plan on mocking up.
+It&rsquo;s also up to you to determine the necessary number of pages. As we have discussed in class, some of the pages could be combined into one (the assignment page), some content may be better split over several (students archives). You will need to tell me in class how many pages you plan on mocking up.
 
 ### Grading
 - If you received between **30&ndash;40 points** you followed directions, included all of the necessary pages/sections, and demonstrated progress/refinement of your designs based on the critiques.
@@ -24,7 +24,7 @@ It’s also up to you to determine the necessary number of pages. As we have dis
 - If you received between **1&ndash;11 points** you did not follow directions, include all of the five necessary pages/sections, or demonstrated progress/refinement of your designs based on the critiques.
 
 ## Clickable Prototypes (10pts)
-Once your static mockups are finished, pick one of them (large or small) to make what I like to call a <a href="https://youtu.be/DPzKs0ZzWlY" target="_blank">“clickable prototype”</a>. For example, you will make links and buttons into hotspots. Someone will be able to click on the hotspots and be taken to the linked page. This is a great tool for demonstrating the site’s user flow to the client. This is a simple process in any of the programs and will only take an hour or two.
+Once your static mockups are finished, pick one of them (large or small) to make what I like to call a <a href="https://youtu.be/DPzKs0ZzWlY" target="_blank">“clickable prototype”</a>. For example, you will make links and buttons into hotspots. Someone will be able to click on the hotspots and be taken to the linked page. This is a great tool for demonstrating the site&rsquo;s user flow to the client. This is a simple process in any of the programs and will only take an hour or two.
 
 ## Grading
 - If you received between **7&ndash;10 points** you had multiple links to multiple pages to throughly demonstrate the user flow of the site.
@@ -41,7 +41,7 @@ You need to create two <a href="https://gary.is/art336/s07-webfont-specimen-eval
 - If you received **5 points** you only created a working webfont specimen evaluation page for either your body font or your headline font, not both.
 
 ## S10: Layout & Performance Evaluation Template (10pts)
-As you learned in the screencast, and during the in class demo, your wireframes are not accurate representations of your final designs. Using the <a href="https://gary.is/art336/s10-layout-evaluation-performance-templmate.html">Layout & Performance Evaluation Template</a> you need to recreate the final wireframe version of your “large” design of the assignment page (requested by the client). However, you really should create one of these for **each** page you design, but I’m not requiring it.
+As you learned in the screencast, and during the in class demo, your wireframes are not accurate representations of your final designs. Using the <a href="https://gary.is/art336/s10-layout-evaluation-performance-templmate.html">Layout & Performance Evaluation Template</a> you need to recreate the final wireframe version of your “large” design of the assignment page (requested by the client). However, you really should create one of these for **each** page you design, but I&rsquo;m not requiring it.
 
 ## Grading
 - If you received between **8&ndash;10 points** you successfully created a version of your wireframe using the Layout & Performance Evaluation Template for the assignment page page (requested by the client).

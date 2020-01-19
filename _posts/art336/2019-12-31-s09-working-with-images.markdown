@@ -11,7 +11,7 @@ upload-files:
 assets: https://www.dropbox.com/s/9nqbo6yqtbolu6t/art336-working-with-images.zip?dl=0
 ---
 
-Designers love to use big hero images when designing a website. I’m not going to debate the merits of the use of hero images—or any images for that matter—in a web page design. Images certainly have their place, but they can also cause big problems for the site’s visitor if not done correctly.
+Designers love to use big hero images when designing a website. I&rsquo;m not going to debate the merits of the use of hero images—or any images for that matter—in a web page design. Images certainly have their place, but they can also cause big problems for the site&rsquo;s visitor if not done correctly.
 
 ![Image of Clever Birds Website Home Page](../img/art336-hero-01.jpg)
 
@@ -19,7 +19,7 @@ Designers love to use big hero images when designing a website. I’m not going 
 
 In this series of screencasts, I demonstrate how to use HTML and CSS to embed images in your web pages. This includes the use of vector images! More importantly however, I  cover the Art Direction—the identification of breakpoints—of photographic images for different screen sizes. Remember the following from our in-class discussion?
 
-Another content type easy to identify breakpoints for are images. When you crop an image suitable for a wide screen you can’t assume it still works when scaled to fit within a skinnier screen width. A good example of this is an image of President Barack Obama being sworn in. A wider version lets the viewer see Justice Kennedy, and President Obama with his family looking on. On a skinny screen the image is scaled to fit and the content _breaks_ making it hard to see details of President Obama, the original intent of the image. This is where a breakpoint can be inserted that art directs the image to be cropped into President Obama and Michelle Obama to retain detail. Another breakpoint can be added to adjust the design to further crop into President Obama.
+Another content type easy to identify breakpoints for are images. When you crop an image suitable for a wide screen you can&rsquo;t assume it still works when scaled to fit within a skinnier screen width. A good example of this is an image of President Barack Obama being sworn in. A wider version lets the viewer see Justice Kennedy, and President Obama with his family looking on. On a skinny screen the image is scaled to fit and the content _breaks_ making it hard to see details of President Obama, the original intent of the image. This is where a breakpoint can be inserted that art directs the image to be cropped into President Obama and Michelle Obama to retain detail. Another breakpoint can be added to adjust the design to further crop into President Obama.
 
 ![Wide Crop - President Barak Obama Inauguration](../img/obama-inaguation.jpg)
 
@@ -72,9 +72,18 @@ In part 01 you will basically <a href="../downloads/art336-working-with-images-a
 ### Grading
 This assignment will be worth 40 points.
 
-- Rubric coming soon…
 - If you received **27&ndash;40 points** you successfully…
-- If you received **1&ndash;26 points** you did not successfully…
+    - Used the <code>&lt;img&gt;</code> to include images optimized in Photoshop in your index.html document.
+    - Created a section with a resizable background image that fills the entire screen.
+    - Created a section with an image embedded with the <code>&lt;picture&gt;</code>.
+    - Embedded SVG icons with the <code>&lt;img&gt;</code> tag.
+    - Embedded SVG icons with the <code>&lt;svg&gt;</code> tag and styled them with CSS.
+- If you received **1&ndash;26 points** you did not successfully do one or more of the following…
+    - Used the <code>&lt;img&gt;</code> to include images optimized in Photoshop in your index.html document.
+    - Created a section with a resizable background image that fills the entire screen.
+    - Created a section with an image embedded with the <code>&lt;picture&gt;</code>.
+    - Embedded SVG icons with the <code>&lt;img&gt;</code> tag.
+    - Embedded SVG icons with the <code>&lt;svg&gt;</code> tag and styled them with CSS.
 - If you received between **0 points** you did not complete the assignment.
 
 ## Resources

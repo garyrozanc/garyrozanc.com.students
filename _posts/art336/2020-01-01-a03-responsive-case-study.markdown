@@ -11,7 +11,7 @@ upload-files:
 assets: 
 ---
 
-On May 25th 2010 Ethan Marcotte wrote the seminal article <a href="http://alistapart.com/article/responsive-web-design" target="_blank" title="Responsive Web Design: Ethan Marcotte">Responsive Web Design</a>, the basis for the modern web. In the article Ethan discusses how fluid grids, flexible images, and media queries let websites respond to a user’s device and deliver an appropriately sized layout.
+On May 25th 2010 Ethan Marcotte wrote the seminal article <a href="http://alistapart.com/article/responsive-web-design" target="_blank" title="Responsive Web Design: Ethan Marcotte">Responsive Web Design</a>, the basis for the modern web. In the article Ethan discusses how fluid grids, flexible images, and media queries let websites respond to a user&rsquo;s device and deliver an appropriately sized layout.
 
 Your assignment will be to work with your group over the next hour and ten minutes and review one of the responsive websites listed below. After doing some research, your group will put together a 6 minute summary—no slides, just the website—for presentation to the class today that covers the following:
 
@@ -28,13 +28,13 @@ Your assignment will be to work with your group over the next hour and ten minut
 3. [Philly.com](http://superfriend.ly/helped/phillycom/)
 4. <a href="http://paravelinc.com/work/microsoft/" target="_blank" title="Paravel, Inc.">Microsoft</a>
 5. <a href="http://codepen.seesparkbox.com/" target="_blank" title="Sparkbox">CodePen</a>
-6. <a href="https://www.happycog.com/work/ben-and-jerrys/" target="_blank" title="Happy Cog">Ben & Jerry’s</a>
+6. <a href="https://www.happycog.com/work/ben-and-jerrys/" target="_blank" title="Happy Cog">Ben & Jerry&rsquo;s</a>
 7. <a href="http://readwrite.com/2011/12/25/redux_how_the_boston_globe_pulled_off_html5_responsive_d" target="_blank" title="How the Boston Globe Pulled Off HTML5 Responsive Design">Boston Globe</a>
 
 ## Grading
 
-This assignment will be worth 10 points and is due at the end of class. Email me a link to a Google Doc or a Word doc with the names of your group’s members, the website you studied and a couple of bullet points that you discuss during the class report for each category: Goals, (Re)Design, Success, and Working Methods before you leave class.
+This assignment will be worth 10 points and is due at the end of class. Email me a link to a Google Doc or a Word doc with the names of your group&rsquo;s members, the website you studied and a couple of bullet points that you discuss during the class report for each category: Goals, (Re)Design, Success, and Working Methods before you leave class.
 
 - **6–10:** The presentation includes details about each of the three goals. The group is well prepared and familiar with their assigned website and the class gets insight from the presentation.
-- **3–5:** The presentation includes the required parts, but could have used more detail and research in order to back up their findings. The class learns a few things, but not anything they couldn’t have learned from clicking on the initial links below.
+- **3–5:** The presentation includes the required parts, but could have used more detail and research in order to back up their findings. The class learns a few things, but not anything they couldn&rsquo;t have learned from clicking on the initial links below.
 - **0–2:** The presentation is missing one or more of the required parts, and the group is not familiar with their website they were assigned. The presentation does not give the class info on the process or inform them of anything new.

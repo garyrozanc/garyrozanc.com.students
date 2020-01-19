@@ -20,7 +20,7 @@ Again, you do not have the job yet! Right now, you are meeting with the potentia
 - Who are your peer competitors?
 - Who are your aspirational competitors?
 
-Questions you shouldn’t be asking are:
+Questions you shouldn&rsquo;t be asking are:
 
 - What is your favorite color?
 - What other [blank] do you like the look of?

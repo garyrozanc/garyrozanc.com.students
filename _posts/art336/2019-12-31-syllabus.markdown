@@ -15,7 +15,7 @@ You must have completed ART 213 (with a grade of “C” or better), ART 331 (wi
 ## Learning Objectives
 - Understanding
     - Demonstrate HTML5 and its contextual, semantic purpose, and classify the markup content.
-    - Demonstrate CSS’s use for content presentation by illustrating its effects on typography, imagery, and layout.
+    - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
 - Applying
     - Make use of an interactive design process.
     - Construct interactive designs with prototyping software.
@@ -43,7 +43,7 @@ There are quite a few recommended magazines and blogs you should be following if
 - <a href="http://www.smashingmagazine.com/" title="Smashing Magazine" target="_blank">Smashing Magazine</a>
 - <a href="http://www.webdesignernews.com/" target="_blank" title="Web Designer News">Web Designer News</a>
 
-If reading isn’t your thing, but you still want to learn more about web design there are quite a few podcasts worth following.
+If reading isn&rsquo;t your thing, but you still want to learn more about web design there are quite a few podcasts worth following.
 
 - <a href="http://www.muleradio.net/thebigwebshow/" target="_blank">The Big Web Show</a>
 - <a href="http://responsivewebdesign.com/podcast/" target="_blank" title="Responsive Web Design Podcast">Responsive Web Design Podcast</a>
@@ -80,9 +80,9 @@ You will need the following software and supplies.
 ## Policy on Classroom Expectations
 
 ### Communications
-One learning objective of this course, “Make use of an interactive design process,” goes beyond creating visuals. The interactive design process involves working in multidisciplinary teams. Those multidisciplinary teams consisting of content strategists, designers, developers, user experience designers, etc. work in concert and communicate constantly. Currently, [Slack](https://slack.com/) is the tool most commonly used for teams to collaborate. Therefore, we are going to use Slack for all class communications. If you are having trouble using Slack, setup a time to meet with me one on one. It’s pretty straightforward, so it won’t be much of a learning curve.
+One learning objective of this course, “Make use of an interactive design process,” goes beyond creating visuals. The interactive design process involves working in multidisciplinary teams. Those multidisciplinary teams consisting of content strategists, designers, developers, user experience designers, etc. work in concert and communicate constantly. Currently, [Slack](https://slack.com/) is the tool most commonly used for teams to collaborate. Therefore, we are going to use Slack for all class communications. If you are having trouble using Slack, setup a time to meet with me one on one. It&rsquo;s pretty straightforward, so it won&rsquo;t be much of a learning curve.
 
-You will need to make sure that you can see each of the following channels: _#announcements_, _#articles_, _#assignments_, _#discussions-questions_. If you don’t see one of these channels direct message me and I will add you.
+You will need to make sure that you can see each of the following channels: _#announcements_, _#articles_, _#assignments_, _#discussions-questions_. If you don&rsquo;t see one of these channels direct message me and I will add you.
 
 One bonus to using Slack is all the different groups you can join. Since designers use Slack daily, they have also setup groups to discuss design, jobs, freelance, etc. If you find a group not on these two lists, post it on our Slack group.
 
@@ -92,9 +92,9 @@ One bonus to using Slack is all the different groups you can join. Since designe
 In addition to communications through Slack, I maintain weekly office hours on Monday and Wednesday from 12–2 pm for you to stop in with questions or comments. My office is located in FA332 and you can [schedule and manage appoints with Google Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUVDOXRIbjBJc0VIfGRlZmF1bHR8NzM3Y2ZiOWViZTMxN2ZhMzhiMGFkMmUxYmEzNGE0ZTM). 
 
 ### Workload
-5 classes is considered a typical course load _15 credits a semester &times; 8 semesters = 120 credits_. Each class is 4 contact hours _4 hours &times; 5 classes = 20 hours_. Each class also has 4 hours of outside work each week _20 classroom hours + 20 outside work hours = 40 hrs)_. I will assign projects and readings each week to fit within that formula. If you can’t commit to a minimum of 4 hours of outside work each week you won’t do well in this course.
+5 classes is considered a typical course load _15 credits a semester &times; 8 semesters = 120 credits_. Each class is 4 contact hours _4 hours &times; 5 classes = 20 hours_. Each class also has 4 hours of outside work each week _20 classroom hours + 20 outside work hours = 40 hrs)_. I will assign projects and readings each week to fit within that formula. If you can&rsquo;t commit to a minimum of 4 hours of outside work each week you won&rsquo;t do well in this course.
 
-Finally, read the assignment descriptions—and this syllabus—carefully before asking questions. 99.9% of your questions have already been answered, including your grades, my office hours and contact info! If you email me a question that is already listed I’ll remind you to look it up.
+Finally, read the assignment descriptions—and this syllabus—carefully before asking questions. 99.9% of your questions have already been answered, including your grades, my office hours and contact info! If you email me a question that is already listed I&rsquo;ll remind you to look it up.
 
 ### Attendance
 You get two personal days to use for illness, campus sanctioned activities, personal reasons, etc. No documentation is necessary, these are your personal days to utilize as you deem necessary. On subsequent absences, your final semester grade is lowered by 10% (one letter grade) for each absence. For example, if you have a “B” and missed four classes you will receive a final grade of a “D”. Absences are automatically factored into your final grade in the class grade tracker. 
@@ -113,7 +113,7 @@ The only excused final exam absences—participation in UMBC organized mandatory
 ## Assignments
 
 ### In-Class Assignments
-_Class_ assignments are to be completed in _class_. The reason for this is class assignments are meant to replicate the speed that you will need to work at once you entry the industry. To ensure that you are using your class time wisely, and working quickly, you must upload your work at the end of each class through the blog. Remember, everything you upload is timestamped, so I’ll know **exactly** when you uploaded it. Failure to upload your project by the end of class will automatically result in a zero for that day. If you are not in class to work on the assignment, you will also receive a zero on the assignment. There are no exceptions to this policy. 
+_Class_ assignments are to be completed in _class_. The reason for this is class assignments are meant to replicate the speed that you will need to work at once you entry the industry. To ensure that you are using your class time wisely, and working quickly, you must upload your work at the end of each class through the blog. Remember, everything you upload is timestamped, so I&rsquo;ll know **exactly** when you uploaded it. Failure to upload your project by the end of class will automatically result in a zero for that day. If you are not in class to work on the assignment, you will also receive a zero on the assignment. There are no exceptions to this policy. 
 
 When you are in ART 336 you should be working on ART 336 assignments. Working on projects for other art studio courses or studying for quizzes demonstrates that you do not have enough ART 336 assignments to fill up the 2 contact hours for each class period. If I continually see you working on the screencasts, outside projects, etc. I will assign additional exercises to help make you better web designers: the goal of the course.
 
@@ -125,17 +125,17 @@ I have created a series of screencasts with the goal of teaching you just enough
 For the final, you will give exactly an 8 minute (timed) presentation to the class on why your design decisions are the best choices. The final exam is worth 50 points, or 10% of the final semester exam. 
 
 ### Assignment Questions
-24 hours prior to a project or exercise being due I will not answer assignment related questions via email or before/during/after class. You should not be starting an assignment 48 hours before it’s due! I will still answer assignment related questions regardless of deadline if you stop by during my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVDOXRIbjBJc0VIfGRlZmF1bHR8NzM3Y2ZiOWViZTMxN2ZhMzhiMGFkMmUxYmEzNGE0ZTM).
+24 hours prior to a project or exercise being due I will not answer assignment related questions via email or before/during/after class. You should not be starting an assignment 48 hours before it&rsquo;s due! I will still answer assignment related questions regardless of deadline if you stop by during my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVDOXRIbjBJc0VIfGRlZmF1bHR8NzM3Y2ZiOWViZTMxN2ZhMzhiMGFkMmUxYmEzNGE0ZTM).
 
 ### Grading
-Over the course of the semester you will earn points by completing in class assignments and screencasts for homework. Because every in class assignment and screencast is different, each will have its own grading rubric describing how I will be assessing the work. Be sure to carefully review each assignment or screencast blog post and its grading rubric to ensure you have successfully completed the entire assignment. Assignments and screencasts will range anywhere from 5 to 70 points depending on complexity with clearly identified point values on the specific assignment’s description page.
+Over the course of the semester you will earn points by completing in class assignments and screencasts for homework. Because every in class assignment and screencast is different, each will have its own grading rubric describing how I will be assessing the work. Be sure to carefully review each assignment or screencast blog post and its grading rubric to ensure you have successfully completed the entire assignment. Assignments and screencasts will range anywhere from 5 to 70 points depending on complexity with clearly identified point values on the specific assignment&rsquo;s description page.
 
-The in class assignments are worth 54% of the of the final semester grade. The screencasts are worth 36% of the final semester grade. This means that you have to complete the in class assignments (270 points) and screencasts (180 points) to successfully pass the course. Failure to keep up with either will result in a low or failing grade! As a reminder, since ART 336 is a requirement for the Graphic Design major, you will need to earn a letter grade of “C” or higher to have it count towards the major. Anything below a “C” will result in you needing to retake the course. It is also important for you to remember that you can only attempt a course three times. If you do not pass, or you withdraw from a course three times, you will not be able to take future courses in the major. When you attempt to retake a course for the second or third time, you will need to get a waiver for the registrar’s office which has very specific deadlines!  
+The in class assignments are worth 54% of the of the final semester grade. The screencasts are worth 36% of the final semester grade. This means that you have to complete the in class assignments (270 points) and screencasts (180 points) to successfully pass the course. Failure to keep up with either will result in a low or failing grade! As a reminder, since ART 336 is a requirement for the Graphic Design major, you will need to earn a letter grade of “C” or higher to have it count towards the major. Anything below a “C” will result in you needing to retake the course. It is also important for you to remember that you can only attempt a course three times. If you do not pass, or you withdraw from a course three times, you will not be able to take future courses in the major. When you attempt to retake a course for the second or third time, you will need to get a waiver for the registrar&rsquo;s office which has very specific deadlines!  
 
 #### Late Work, Incompletes, and Make-Up
 Professionalism will be stressed. Treat this class as you would a job. Late arrival to a client meeting or missed deadlines will cost you a job and your ex-employer a client. Therefore, all assignments must be completed on time, and are due at the beginning of class. 
 
-An assignment not ready for the start of class will be considered late. Assignments lose 10% each **day** _not class period_ they are late. Assignments over 7 days late will be given a **0**, no exceptions. Turn in your Assignments even if you aren’t finished, it’s better to turn in **something**. Getting partial points is better than getting a **0**.
+An assignment not ready for the start of class will be considered late. Assignments lose 10% each **day** _not class period_ they are late. Assignments over 7 days late will be given a **0**, no exceptions. Turn in your Assignments even if you aren&rsquo;t finished, it&rsquo;s better to turn in **something**. Getting partial points is better than getting a **0**.
 
 - Day 1 100%
 - Day 2 90%
@@ -154,7 +154,7 @@ An assignment not ready for the start of class will be considered late. Assignme
 - F: 59%&ndash;0% 
 
 ## UMBC Statement of Values for Academic Integrity
-By enrolling in this course, each student assumes the responsibilities of an active participant in UMBC’s scholarly community in which everyone’s academic work and behavior are held to the highest standards of honesty. Cheating, fabrication, plagiarism, and helping others to commit these acts are all forms of academic dishonesty, and they are wrong. Academic misconduct could result in disciplinary action that may include, but is not limited to, suspension or dismissal. To read the full Student Academic Conduct Policy, consult UMBC policies, or the Faculty Handbook (Section 14.3). For graduate courses, see the Graduate School website.
+By enrolling in this course, each student assumes the responsibilities of an active participant in UMBC&rsquo;s scholarly community in which everyone&rsquo;s academic work and behavior are held to the highest standards of honesty. Cheating, fabrication, plagiarism, and helping others to commit these acts are all forms of academic dishonesty, and they are wrong. Academic misconduct could result in disciplinary action that may include, but is not limited to, suspension or dismissal. To read the full Student Academic Conduct Policy, consult UMBC policies, or the Faculty Handbook (Section 14.3). For graduate courses, see the Graduate School website.
 
 ### Use of Stock Photography and Other Imagery
 <blockquote>
@@ -175,7 +175,7 @@ UMBC is committed to eliminating discriminatory obstacles that disadvantage stud
 - If you have a disability and want to request accommodations, contact <a href="http://sds.umbc.edu/" target="_blank" title="Student Disability Services">Student Disability Services</a> in the Math/Psych Bldg., Rm 212 or at 410-455-2459. SDS will require you to provide appropriate documentation of disability.
 
 ## Disclosures of Sexual Misconduct and Child Abuse or Neglect
-As an instructor, I am considered a Responsible Employee, per UMBC’s Policy on <a href="located at http://humanrelations.umbc.edu/sexual-misconduct/umbc-resource-page-for-sexual-misconduct-and-other-related-misconduct/" target="blank" title="Prohibited Sexual Misconduct, Interpersonal Violence, and Other Related Misconduct">Prohibited Sexual Misconduct, Interpersonal Violence, and Other Related Misconduct</a>. While my goal is for you to be able to share information related to your life experiences through discussion and written work, I want to be transparent that as a Responsible Employee I am required to report disclosures of sexual assault, domestic violence, relationship violence, stalking, and/or gender-based harassment to the University’s Title IX Coordinator.
+As an instructor, I am considered a Responsible Employee, per UMBC&rsquo;s Policy on <a href="located at http://humanrelations.umbc.edu/sexual-misconduct/umbc-resource-page-for-sexual-misconduct-and-other-related-misconduct/" target="blank" title="Prohibited Sexual Misconduct, Interpersonal Violence, and Other Related Misconduct">Prohibited Sexual Misconduct, Interpersonal Violence, and Other Related Misconduct</a>. While my goal is for you to be able to share information related to your life experiences through discussion and written work, I want to be transparent that as a Responsible Employee I am required to report disclosures of sexual assault, domestic violence, relationship violence, stalking, and/or gender-based harassment to the University&rsquo;s Title IX Coordinator.
 
 As an instructor, I also have a mandatory obligation to report disclosures of or suspected instances of child abuse or neglect <a href="www.usmh.usmd.edu/regents/bylaws/SectionVI/VI150.pdf">(www.usmh.usmd.edu/regents/bylaws/SectionVI/VI150.pdf)</a>.
 
@@ -187,7 +187,7 @@ If you need to speak with someone in confidence about an incident, UMBC has the 
 - After-hours counseling and care available by calling campus police at 410-455-5555.
 
 Other on-campus supports and resources:
-- The Women’s Center, 410-455-2714
+- The Women&rsquo;s Center, 410-455-2714
 - Title IX Coordinator, 410-455-1606
 - Additional on and off campus supports and resources can be found at: http://humanrelations.umbc.edu/sexual-misconduct/gender-equitytitle-ix/.
 
@@ -253,7 +253,7 @@ Finally, off-campus supports and resources:
 
 
 ### Week 10 (04.06)
-- Putting it All Togther 
+- Putting it All Together 
   - A09: Design Systems
   - S08: Web Typography
   - S10: Layout & Performance Evaluation Template

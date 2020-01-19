@@ -6,12 +6,12 @@ title: "S07: Webfont Specimen Evaluation Page"
 date: 2019-01-29 09:00:00
 due-date: 2019-02-11
 time: "2 hour, 30 minutes"
-points: 25
+points: 30
 upload-files:
 assets: https://www.dropbox.com/s/nbg3zyzillvzsbf/art336-font-specimen-evaluation-page.zip?dl=0
 ---
 
-Tools like Adobe Xd, InVision, and Sketch give you the ability to create clickable prototypes and make it easy to send a non-responsive version of your visual design to view on a smartphone or tablet device. However, relying on these prototypes for accurate evaluation is problematic. For example, in **Figure 1**, the screenshot on the left is a visual design created in Sketch specifically sized for the iPhone 7 Plus, viewed using the Sketch Mirror app on an iPhone 7 Plus. The screenshot on the right is a visual design created specifically for the iPhone 4s, viewed on an iPhone 7 Plus. While not ideal, you can still estimate what your smaller sized designs will look like on a slightly larger screen, the same isn’t true in reverse.
+Tools like Adobe Xd, InVision, and Sketch give you the ability to create clickable prototypes and make it easy to send a non-responsive version of your visual design to view on a smartphone or tablet device. However, relying on these prototypes for accurate evaluation is problematic. For example, in **Figure 1**, the screenshot on the left is a visual design created in Sketch specifically sized for the iPhone 7 Plus, viewed using the Sketch Mirror app on an iPhone 7 Plus. The screenshot on the right is a visual design created specifically for the iPhone 4s, viewed on an iPhone 7 Plus. While not ideal, you can still estimate what your smaller sized designs will look like on a slightly larger screen, the same isn&rsquo;t true in reverse.
 
 <figure>
 	<img src="../img/art336-sketch-mirror-7plus.jpg" alt="Sketch Mirror on iPhone 7 Plus">
@@ -25,7 +25,7 @@ In **Figure 2**, using the same software setup, the iPhone 4s sized artboard is 
 	<figcaption>Figure 2</figcaption>
 </figure>
 
-Fortunately, there is an easy way to evaluate your typographic choices in web browsers and on any of the myriad of devices available today. Based on the <a href="http://webfontspecimen.com/" target="_blank" title="Web Font Specimen Website">Web Font Specimen</a> by <a href="http://twitter.com/nicewebtype" target="_blank" title="Twitter User: @nicewebtype">@nicewebtype</a> I’ve created the <a href="../downloads/art336-font-specimen-evaluation-page.zip" target="_blank" title="Webfont Specimen Evaluation Page Download">Webfont Specimen Evaluation Page</a> for you to use to evaluate your typographic choices at the beginning of the visual design process, not after you hand off the files to your front-end developer.
+Fortunately, there is an easy way to evaluate your typographic choices in web browsers and on any of the myriad of devices available today. Based on the <a href="http://webfontspecimen.com/" target="_blank" title="Web Font Specimen Website">Web Font Specimen</a> by <a href="http://twitter.com/nicewebtype" target="_blank" title="Twitter User: @nicewebtype">@nicewebtype</a> I&rsquo;ve created the <a href="../downloads/art336-font-specimen-evaluation-page.zip" target="_blank" title="Webfont Specimen Evaluation Page Download">Webfont Specimen Evaluation Page</a> for you to use to evaluate your typographic choices at the beginning of the visual design process, not after you hand off the files to your front-end developer.
 
 ## Resources
 - Download the <a href="../downloads/art336-font-specimen-evaluation-page.zip" target="_blank" title="Webfont Specimen Evaluation Page Download">Webfont Specimen Evaluation Page</a>
