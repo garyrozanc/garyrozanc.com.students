@@ -73,14 +73,24 @@ As you can see in the examples listed below, Style Tiles can vary wildly as long
 - Iconography Styles
 - Patterns and Textures
 
-#### Style Tile Grading
+#### Grading
 This assignment will be worth 20. You must make a minimum of 2 style tiles to be able to start a discussion about art direction with your client. [Upload the files to DropBox](https://www.dropbox.com/s/2c86k69703o0rtf/art336-moodboard-deck-templates.zip?dl=0) by the end of class on Monday March 4th.
 
+##### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+    - Construct interactive designs with prototyping software.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
+
+##### Assessment Rubric
 - If you received between **11&ndash;20 points** you successfully created the style tiles in the proper program with all of the contents listed above.
 - If you received between **1&ndash;10 points** you successfully created the style tiles in the proper program with most of the contents listed above.
 - If you received **0 points** you did not create the style tiles in the proper program with the contents listed above.
 
-#### Style Tile Resources
+### Style Tile Resources
 - <a href="http://styletil.es/" target="_blank" title="Style Tiles">Style Tiles</a>
 - <a href="http://alistapart.com/article/style-tiles-and-how-they-work" target="_blank" title="Style Tiles and How They Work · An A List Apart Article">Style Tiles and How They Work</a>
 - <a href="https://vimeo.com/115992327" target="_blank" title="Faster Design Decisions with Style Tiles by Samantha Warren - An Event Apart Video on Vimeo">Faster Design Decisions with Style Tiles by Samantha Warren</a> _50 min_

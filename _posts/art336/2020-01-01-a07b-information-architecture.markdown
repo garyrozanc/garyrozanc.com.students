@@ -27,6 +27,16 @@ The other purpose for determining User Flow is create a Site Map. The site map i
 ![Userflow Examples](../img/art336-user-flow-05.png)
 
 ### Grading
+
+#### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
+
+#### Assessment Rubric
 - If you received **8&ndash;10 points** you correctly identified the major pages and flow of the tasks in the allotted time.
 - If you received **4&ndash;7 points** your mostly identified the major pages and flow of the tasks in the allotted time.
 - If you received **0&ndash;3 points** you only identified a few of the major pages and flow of the tasks in the allotted time.
@@ -54,8 +64,15 @@ However, wireframes tend to become visualizations not organizations if you don&#
 Once you gathered the necessary content, your next job will be to group and organize that content into sections and pages with wireframes. You will need to create the necessary number of wireframes by the end of class to house all of the content that you have gathered.
 
 ### Grading
-This assignment will be worth 10 points.
 
+#### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+    - Construct interactive designs with prototyping software.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
+
+#### Assessment Rubric
 - If you received between **8&ndash;10 points** you successfully created wireframes that demonstrated where all the content would go across the five different pages that was easily understandable.
 - If you received between **4&ndash;7 points** you successfully created wireframes that demonstrated where some of the content would go across most of the five different pages that was easily understandable.
 - If you received between **0&ndash;3 points** you unsuccessfully created wireframes that did not demonstrate where all the content would go across the five different pages that was easily understandable.

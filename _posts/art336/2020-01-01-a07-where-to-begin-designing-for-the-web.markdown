@@ -5,10 +5,7 @@ categories: art336
 title: "A07: Where to Begin Designing for the Web?"
 date: 2019-02-15 09:00:00
 due-date: 2019-03-04
-time: "5 Class Periods"
-points: 50
-upload-files: 
-assets: 
+time: "5 Class Periods" 
 ---
 
 It takes a team to design, develop and launch a successful website. Very few people have all the varying skillsets to do everything necessary to create a website from content strategy through back-end development. However, no matter what part of the website you are working on, you need to know about the others. Developers and User Experience Designers need to know about visual design, and how what they do will impact the design. This is also true for graphic designers. Designers need to know about content strategy, back-end/front-end development, user experience, and information architecture. Without knowledge of how all these professions come together to create an app or website, designers can&rsquo;t work as effectively as those who do.

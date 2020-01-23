@@ -64,8 +64,15 @@ Your personas need to be saved as PDFs. Please note you will be sharing your per
 - <a href="http://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/" target="_blank" title="A Closer Look At Personas: What They Are And How They Work (Part 2)">A Closer Look At Personas: What They Are And How They Work (Part 2)</a>
 
 ### Grading
-This assignment will be worth 10 points. It will be due at the end of class on March 4th. Please [upload a pdf of your persona to DropBox](https://www.dropbox.com/request/rS0qLgh6nk6oDQRdVkNW).
+#### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
 
+#### Assessment Rubric
 - If you received between **8–10 points** you successfully created and presented a thoughtful persona that gave insight into the problems the persona faces from day to day.
 - If you received between **3–7 points** you successfully created and presented a persona that gave some insight into the problems the persona faces from day to day.
 - If you received between **0–2 points** you did not successfully create or present a thoughtful persona that gave insight into the problems the persona faces from day to day.
@@ -91,6 +98,16 @@ Below are the <a href="http://www.nngroup.com/articles/ten-usability-heuristics/
 10. **Help and documentation:** Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
 
 ### Grading
+
+#### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
+
+#### Assessment Rubric
 This assignment is temporarily on hold.
 <del>
 - If you received between **8–10 points** you successfully conducted a Heuristic Evaluation that thoughtfully considered each of the 10 prompts while using the service, and you created thorough visual documentation of your use of the service before (home) and during (at the conference) the experience.

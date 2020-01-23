@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A02: Atomic Design & Design Systems"
 date: 2019-01-30 09:00:00
-due-date: 2019-01-30
+due-date: 2019-02-03
 time: "1 hour"
 points: 10
 upload-files: https://www.dropbox.com/request/yUUsUtYMKltm3lqnWXya
@@ -26,15 +26,20 @@ For today&rsquo;s class, using the supplied <a href="../downloads/art336-tracing
 - <a href="https://www.sketchapp.com/" target="_blank" title="Sketch - Professional Digital Design for Mac">Sketch</a> 
 
 ## Grading
-
 This assignment will be worth 10 points and is due by the end of class. Name the files exactly as follows (all lowercase with hyphens and no blank spaces) **atomic-design-tracing-firstname-lastname-(01,02).ai**, and upload the files via the DropBox link by the end of class.
 
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+
+### Assessment Rubric
 - If you received **6&ndash;10 points** you correctly identified and traced all of the atoms, molecules, organisms in the alotted time.
 - If you received **3&ndash;5 points** you correctly or incorrectly identified and traced most of the atoms, molecules, organisms in the allotted time.
 - If you received **0&ndash;2 points** you hardly traced any of the atoms, molecules, organisms in the allotted time.
 
 ## Resources
-
 - <a href="../downloads/art336-tracing-atomic-design.zip" target="_blank" title="Template Illustrator Files">Template Illustrator Files</a>
 - <a href="http://bradfrost.com/blog/post/atomic-web-design/" target="_blank" title="Atomic Design">Atomic Design</a>
 - <a href="http://demo.patternlab.io/" target="_blank" title="Pattern Lab">Pattern Lab</a>

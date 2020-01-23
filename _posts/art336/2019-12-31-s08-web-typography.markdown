@@ -128,9 +128,14 @@ In the following screencasts you will learn to use CSS selectors to target basic
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/pjF5T8g6iFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Grading
-This assignment will be worth 40 points.
+## Grading
 
+### Learning Objectives Applied
+- Understanding
+  - Demonstrate HTML5 and its contextual, semantic purpose, and classify the markup content.
+  - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
+
+### Assessment Rubric
 - Rubric coming soon…
 - If you received **27&ndash;40 points** you successfully marked up the text with the proper HTML tags, and successfully changed the typographic hierarchy of the page with CSS.
 - If you received between **1&ndash;26 points** you did not properly mark up the majority of the text with the proper HTML tags and did not make all the necessary changes to the typographic hierarchy of the page with CSS.

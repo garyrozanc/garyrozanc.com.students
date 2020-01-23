@@ -59,8 +59,16 @@ The following break down of how ready people are to change was researched and wr
 
 ### Grading
 
-This assignment will be worth 12 points. You can email me a link, a document, or hand them in on paper.
+#### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+    - Construct interactive designs with prototyping software.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
 
+#### Assessment Rubric
 - If you received between **8&ndash;12 points** you came up with quantitive answers to the research question.
 - If you received between **4&ndash;7 points** you came up with qualitative answers to the research question.
 - If you received between **0&ndash;3 points** you came up with few or no answers at all to the research question.

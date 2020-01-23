@@ -6,8 +6,6 @@ title: "A06: Initial Client Meeting - Project Scope"
 date: 2019-02-11 09:00:00
 due-date: 2019-02-13
 time: "45 minutes &times; 2"
-points: 0
-upload-files: 
 assets: 
 ---
 

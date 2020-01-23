@@ -10,7 +10,7 @@ date:   2019-01-27 09:00:00
 Introduction to Macintosh-based computing using software programs developed for screen-based communication including discussion of the conceptual and technical issues involved in the design and production of interactive documents and environments. Discussion will focus on authoring, user interface, navigation, content development, user experience and visual application. 
 
 ## Prerequisite/Corequisite
-You must have completed ART 213 (with a grade of “C” or better), ART 331 (with a grade of “B” or better), ART 332 and ART 333 with a grade of “C” or better, and complete the Visual Arts Milestone (Portfolio Review Process) before taking this class.
+You must have completed ART 213 (with a grade of &ldquo;C&rdquo; or better), ART 331 (with a grade of &ldquo;B&rdquo; or better), ART 332 and ART 333 with a grade of &ldquo;C&rdquo; or better, and complete the Visual Arts Milestone (Portfolio Review Process) before taking this class.
 
 ## Learning Objectives
 - Understanding
@@ -18,9 +18,9 @@ You must have completed ART 213 (with a grade of “C” or better), ART 331 (wi
     - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
 - Applying
     - Make use of an interactive design process.
-    - Construct interactive designs with prototyping software.
+    - Construct interactive designs with prototyping software and HTML & CSS.
 - Analyzing
-    - Assess interactive prototypes for responsive web design principles.
+    - Assess interactive prototypes and webpages for responsive web design principles.
 - Evaluating
     - Explain and defend design choices through formal presentations.
     
@@ -80,7 +80,7 @@ You will need the following software and supplies.
 ## Policy on Classroom Expectations
 
 ### Communications
-One learning objective of this course, “Make use of an interactive design process,” goes beyond creating visuals. The interactive design process involves working in multidisciplinary teams. Those multidisciplinary teams consisting of content strategists, designers, developers, user experience designers, etc. work in concert and communicate constantly. Currently, [Slack](https://slack.com/) is the tool most commonly used for teams to collaborate. Therefore, we are going to use Slack for all class communications. If you are having trouble using Slack, setup a time to meet with me one on one. It&rsquo;s pretty straightforward, so it won&rsquo;t be much of a learning curve.
+One learning objective of this course, &ldquo;Make use of an interactive design process,&rdquo; goes beyond creating visuals. The interactive design process involves working in multidisciplinary teams. Those multidisciplinary teams consisting of content strategists, designers, developers, user experience designers, etc. work in concert and communicate constantly. Currently, [Slack](https://slack.com/) is the tool most commonly used for teams to collaborate. Therefore, we are going to use Slack for all class communications. If you are having trouble using Slack, setup a time to meet with me one on one. It&rsquo;s pretty straightforward, so it won&rsquo;t be much of a learning curve.
 
 You will need to make sure that you can see each of the following channels: _#announcements_, _#articles_, _#assignments_, _#discussions-questions_. If you don&rsquo;t see one of these channels direct message me and I will add you.
 
@@ -97,11 +97,11 @@ In addition to communications through Slack, I maintain weekly office hours on M
 Finally, read the assignment descriptions—and this syllabus—carefully before asking questions. 99.9% of your questions have already been answered, including your grades, my office hours and contact info! If you email me a question that is already listed I&rsquo;ll remind you to look it up.
 
 ### Attendance
-You get two personal days to use for illness, campus sanctioned activities, personal reasons, etc. No documentation is necessary, these are your personal days to utilize as you deem necessary. On subsequent absences, your final semester grade is lowered by 10% (one letter grade) for each absence. For example, if you have a “B” and missed four classes you will receive a final grade of a “D”. Absences are automatically factored into your final grade in the class grade tracker. 
+You get two personal days to use for illness, campus sanctioned activities, personal reasons, etc. No documentation is necessary, these are your personal days to utilize as you deem necessary. On subsequent absences, your final semester grade is lowered by 10% (one letter grade) for each absence. For example, if you have a &ldquo;B&rdquo; and missed four classes you will receive a final grade of a &ldquo;D&rdquo;. Absences are automatically factored into your final grade in the class grade tracker. 
 
 Attendance will be taken within the first 10 minutes of class. Students who show up after attendance is taken are already marked absent. Being late disrupts the flow of class for the students who are on time if I have to stop everything to update your attendance from absent to late. To avoid disrupting the class to change your _Absent_ to a _Late_ you will need to use the class blog to submit a late notification. Failure to do this in a timely manner upon arrival to class will result in your late arrival remaining an absence. Lates will be recorded in twenty minute increments. For every 110 minutes you are late, you will receive an absence. Unlike your absences in the class dashboard, lates will not be automatically tallied into your final grade, so I will be doing that manually at the end of the semester.
 
-A final course grade of _Incomplete_ will only be assigned to students who currently have a passing grade of a “B” or higher who are unable to complete the course due to a serious illness or personal tragedy that is well documented and out of their control.
+A final course grade of _Incomplete_ will only be assigned to students who currently have a passing grade of a &ldquo;B&rdquo; or higher who are unable to complete the course due to a serious illness or personal tragedy that is well documented and out of their control.
 
 **Unless UMBC officially closes, there are no excused absences for weather.**
 
@@ -130,7 +130,7 @@ For the final, you will give exactly an 8 minute (timed) presentation to the cla
 ### Grading
 Over the course of the semester you will earn points by completing in class assignments and screencasts for homework. Because every in class assignment and screencast is different, each will have its own grading rubric describing how I will be assessing the work. Be sure to carefully review each assignment or screencast blog post and its grading rubric to ensure you have successfully completed the entire assignment. Assignments and screencasts will range anywhere from 5 to 70 points depending on complexity with clearly identified point values on the specific assignment&rsquo;s description page.
 
-The in class assignments are worth 54% of the of the final semester grade. The screencasts are worth 36% of the final semester grade. This means that you have to complete the in class assignments (270 points) and screencasts (180 points) to successfully pass the course. Failure to keep up with either will result in a low or failing grade! As a reminder, since ART 336 is a requirement for the Graphic Design major, you will need to earn a letter grade of “C” or higher to have it count towards the major. Anything below a “C” will result in you needing to retake the course. It is also important for you to remember that you can only attempt a course three times. If you do not pass, or you withdraw from a course three times, you will not be able to take future courses in the major. When you attempt to retake a course for the second or third time, you will need to get a waiver for the registrar&rsquo;s office which has very specific deadlines!  
+The in class assignments are worth 54% of the of the final semester grade. The screencasts are worth 36% of the final semester grade. This means that you have to complete the in class assignments (270 points) and screencasts (180 points) to successfully pass the course. Failure to keep up with either will result in a low or failing grade! As a reminder, since ART 336 is a requirement for the Graphic Design major, you will need to earn a letter grade of &ldquo;C&rdquo; or higher to have it count towards the major. Anything below a &ldquo;C&rdquo; will result in you needing to retake the course. It is also important for you to remember that you can only attempt a course three times. If you do not pass, or you withdraw from a course three times, you will not be able to take future courses in the major. When you attempt to retake a course for the second or third time, you will need to get a waiver for the registrar&rsquo;s office which has very specific deadlines!  
 
 #### Late Work, Incompletes, and Make-Up
 Professionalism will be stressed. Treat this class as you would a job. Late arrival to a client meeting or missed deadlines will cost you a job and your ex-employer a client. Therefore, all assignments must be completed on time, and are due at the beginning of class. 
@@ -189,7 +189,7 @@ If you need to speak with someone in confidence about an incident, UMBC has the 
 Other on-campus supports and resources:
 - The Women&rsquo;s Center, 410-455-2714
 - Title IX Coordinator, 410-455-1606
-- Additional on and off campus supports and resources can be found at: http://humanrelations.umbc.edu/sexual-misconduct/gender-equitytitle-ix/.
+- Additional on and off campus supports and resources can be found at: [http://humanrelations.umbc.edu/sexual-misconduct/gender-equitytitle-ix/](http://humanrelations.umbc.edu/sexual-misconduct/gender-equitytitle-ix/).
 
 Finally, off-campus supports and resources:
 
@@ -239,16 +239,13 @@ Finally, off-campus supports and resources:
 - S09: Working With Images
 
 ### March 15th–March 22nd
-
 - Spring break. No classes.
 
 ### Week 8 (03.23)
-
 - A08: Element Collage and using the S07: Webfont Specimen Evaluation Page
 - S10: Layout & Performance Evaluation Template
 
 ### Week 9 (03.30)
-
 - A09: Design Systems
 
 
@@ -258,27 +255,22 @@ Finally, off-campus supports and resources:
   - S08: Web Typography
   - S10: Layout & Performance Evaluation Template
 - A10: Website Mockups - Introduction
-- Monday, April 6th is the last day to withdraw from individual courses with a “W”.
+- Monday, April 6th is the last day to withdraw from individual courses with a &ldquo;W&rdquo;.
 
 ### Week 11 (04.13)
-
 - A10: Website Mockups - Animations
 
 ### Week 12 (04.20)
-
 - A10: Website Mockups - In progress critique
 
 ### Week 13 (04.27)
-
 - A10: Website Mockups - Production Days
 
 ### Week 14 (05.04)
-
 - Monday, May 4th is the final critique, part one.
 - Wednesday, May 6th is the final critique, part one.
 
 ### Week 15 (05.11)
-
 - A11: Client Presentation.
 - Wednesday, May 13th, no class, reading day.
 

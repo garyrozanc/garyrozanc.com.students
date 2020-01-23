@@ -69,9 +69,14 @@ In part 01 you will basically <a href="../downloads/art336-working-with-images-a
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/Y4_TTo8Be_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Grading
-This assignment will be worth 40 points.
+## Grading
 
+### Learning Objectives Applied
+- Understanding
+  - Demonstrate HTML5 and its contextual, semantic purpose, and classify the markup content.
+  - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
+
+### Assessment Rubric
 - If you received **27&ndash;40 points** you successfully…
     - Used the <code>&lt;img&gt;</code> to include images optimized in Photoshop in your index.html document.
     - Created a section with a resizable background image that fills the entire screen.

@@ -71,6 +71,12 @@ In this screencast, you will add the 7 Webfont Specimen Evaluation Pages to your
 
 ## Grading
 
+### Learning Objectives Applied
+- Understanding
+  - Demonstrate HTML5 and its contextual, semantic purpose, and classify the markup content.
+  - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
+
+### Assessment Rubric
 - If you received between **17&ndash;25 points** you successfully loaded the self hosted fonts, Google Fonts, Adobe Fonts, updated your assignment index.html page, and uploaded the files to the class web server.
 - If you received between **8&ndash;16 points** you successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either updated your assignment index.html page, or uploaded the files to the class web server.
 - If you received between **0&ndash;7 points** you did not successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either did not updated your assignment index.html page, or uploaded the files to the class web server.

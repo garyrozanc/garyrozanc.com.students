@@ -34,14 +34,21 @@ For the rest of the class you are required to pick two of the four applications 
 3. Paragraph copy that matches the context of the headline and image
 4. Button labeled “Read More”
 
-**Bonus Points:** You will receive 10 extra points if you demonstrate via screen capture the use of [“Repeat Grid”](https://youtu.be/qGBK3edbxL8) with your article excerpt. You will receive an additional 10 points if your repeat grid is automatically pulling in images and text! You can turn this in on or before 02.17.19.
+**Bonus Points:** You will receive 10 extra points if you demonstrate via screen capture the use of [“Repeat Grid”](https://youtu.be/qGBK3edbxL8) with your article excerpt. You will receive an additional 10 points if your repeat grid is automatically pulling in images and text!
 
 **Tip:** Repeat Grid is in more than one program! Unsplash integrates with Sketch and Studio. Font Awesome and the Noun Project—_I think!_—integrate with some of these tools too.
 
 ## Grading
-
 This assignment will be worth 10 points and is due by the end of class. Name the files exactly as follows (all lowercase with hyphens and no blank spaces) **interface-design-tools-firstname-lastname.(sketch,studio,xd)**, and upload the two files via the DropBox link by the end of class.
 
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+    - Construct interactive designs with prototyping software.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+
+### Assessment Rubric
 - If you received **6&ndash;10 points** you demonstrated the use of assets, components, or symbols in two interface design program.
 - If you received **1&ndash;5 points** you demonstrated the use of assets, components, or symbols in one of interface design program.
 - If you received **0 points** you did not turn in files that demonstrate the use of assets, components, or symbols.

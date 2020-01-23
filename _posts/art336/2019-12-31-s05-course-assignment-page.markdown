@@ -18,9 +18,14 @@ Now that you have created an HTML/CSS Boilerplate, it&rsquo;s time to put it to 
 </div>
 
 ## Grading
-
 This assignment will be worth 5 points. Create a duplicate folder and files and name the folder exactly as follows (all lowercase with hyphens and no blank spaces) **html-assignment-page-firstname-lastname**, and upload the files via the DropBox link. You can compress/zip the folder if that is easier for you.
 
+### Learning Objectives Applied
+- Understanding
+  - Demonstrate HTML5 and its contextual, semantic purpose, and classify the markup content.
+  - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
+
+### Assessment Rubric
 - If you received between **7&ndash;10 points** you successfully used the Boilerplate starting files to create an index.html assignment page.
 - If you received between **1&ndash;6 points** you did not correctly create an index.html assignment page.
 - If you received **0 points** you did not complete the assignment.

@@ -47,9 +47,15 @@ Sorry for the brevity, but you will need <a href="../downloads/art336-layout-eva
 
 
 ## Grading
-This assignment will be worth 50 points.
 
-- Rubric coming soon…
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+    - Construct interactive designs with prototyping software.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+
+### Assessment Rubric
 - If you received **34&ndash;50 points** you successfully…
 - If you received **1&ndash;33 points** you did not successfully…
 - If you received between **0 points** you did not complete the assignment.

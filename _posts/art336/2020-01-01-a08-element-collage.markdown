@@ -40,8 +40,17 @@ To help you visualize what an Element Collage is, I&rsquo;ve found a few example
 - <a href="https://airbnb.design/building-a-visual-language/" title="Building a Visual Language – Airbnb Design" target="_blank">Building a Visual Language – Airbnb Design</a>
 
 ## Grading
-Upload your Element Collages via <a href="https://www.dropbox.com/request/Q6XORtJRwOBrEW5nKTa8" target="_blank" title="Upload exercise files to Dropbox">this Dropbox link</a>! 
 
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+    - Construct interactive designs with prototyping software.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
+
+### Assessment Rubric
 - If you received between **40&ndash;60 points** you followed directions, created lots and lots of different elements, and visually explored a lot of different options for each individual element.
 - If you received between **20&ndash;39 points** you mostly followed directions, created some different elements, and visually explored some different options for each individual element.
 - If you received between **0&ndash;19 points** you did not follow directions, create lots of different elements, or visually explored a lot of different options for each individual element.

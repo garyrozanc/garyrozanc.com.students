@@ -125,22 +125,18 @@ It&rsquo;s best to think of the <a href="http://humanstxt.org/Standard.html" tar
 
 From the context of a portfolio website, the <a href="http://www.robotstxt.org/robotstxt.html" target="_blank" title="Extra robots.txt information">robots.txt</a> file let&rsquo;s things like search engines know if they should display the contents of the website in search results. Now, if you want your work private, don&rsquo;t put it on the web because this file doesn&rsquo;t hide content. The most it does is suggest whether to display the contents. It&rsquo;s up to search engines like Google to decide if they want to honor the request. For the sake of this course, I&rsquo;ve setup the robots.txt file to not index your sites contents in search engines. It&rsquo;s up to you to decide if you want to promote the searchability of your work.
 
-## Learning Objectives
-
-- Understanding
-  - Demonstrate HTML5 and its contextual, semantic purpose, and classify the markup content.
-  - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
-- Applying
-  - Make use of an interactive design process.
-  - Construct interactive designs with prototyping software.
-- Analyzing
-  - Assess interactive prototypes for responsive web design principles.
-- Evaluating
-  - Explain and defend design choices through formal presentations.
+##### site.webmanifest
+The [site.webmanifest](https://web.dev/add-manifest/) is a simple JSON file that tells the browser about your web application and how it should behave when &rdquo;installed&ldquo; on the user&rsquo;s mobile device or desktop. A typical manifest file includes information about the app name, icons it should use, and the URL that should be opened when the app is launched. Manifest files are supported in Chrome, Edge, Firefox, UC Browser, Opera and the Samsung browser, and Safari is currently working on adding support.
 
 ## Grading
 This assignment will be worth 5 points. Create a duplicate folder and files and name the folder exactly as follows (all lowercase with hyphens and no blank spaces) **html-css-boilerplate-firstname-lastname**, and upload the files via the DropBox link. You can compress/zip the folder if that is easier for you.
 
+### Learning Objectives Applied
+- Understanding
+  - Demonstrate HTML5 and its contextual, semantic purpose, and classify the markup content.
+  - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
+  
+### Assessment Rubric  
 - If you received between **7&ndash;10 points** you successfully downloaded the Boilerplate starting files and updated the index.html.
 - If you received between **1&ndash;6 points** you did not properly updated the index.html.
 - If you received **0 points** you did not complete the assignment.

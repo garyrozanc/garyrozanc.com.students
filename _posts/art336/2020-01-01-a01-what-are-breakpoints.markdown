@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A01: What are Breakpoints"
 date: 2019-01-30 09:00:00
-due-date: 2020-01-28
+due-date: 2020-01-30
 time: "60 minutes"
 points: 5
 upload-files: https://www.dropbox.com/request/rYF4veMfeNASSdM7RTkF
@@ -41,6 +41,14 @@ Now that you know what breakpoints are, I want you to review several websites an
 Don&rsquo;t over think this. As I mentioned there are no perfect examples. Simply visit a website and resize the browser window and look for an element that changes at least three or more times. The changes may be slight, so don&rsquo;t worry if you can&rsquo;t find extreme examples like I have shown you.
 
 ## Grading
+
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+
+### Assessment Rubric
 This assignment will be worth 5 points and is due at the end of class. Name the files exactly as follows (all lowercase with hyphens and no blank spaces) **what-are-breakpoints-firstname-lastname-0(1-3).(jpg, png,mov,mp4)**, and upload the file via the DropBox link by the end of class.
 - **4–5:** You demonstrated 3 breakpoint changes.
 - **1–3:** You demonstrated 1 or 2 breakpoint changes.

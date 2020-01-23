@@ -18,9 +18,17 @@ However, not every project is a simple redesign with existing content. Startups 
 ## Professor Marmor
 Since Professor Marmor doesn&rsquo;t have a site for us to conduct and inventory, we need to do some educated guessing to determine the site&rsquo;s content. To do this educated guessing I suggest starting with the [Information Architecture](https://gary.is/art336/a07b-information-architecture.html). By starting there we will at least know what pages the site will have and then you can review the [materials that were already provided](https://www.dropbox.com/s/hb1m3sh9h3bw0p3/art336_marmor_389.zip?dl=0) and your notes from the client discovery meeting and form a list of existing and missing content.
 
-### Grading
-This assignment is worth 10 points. You can either send me a link to a Google Doc, or [upload a PDF file to Dropbox](https://www.dropbox.com/request/GvTToyRejnw4w4AyPeFx) by the end of the class on March 4th.
+## Grading
 
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
+
+### Assessment Rubric
 - If you received **6&ndash;10 points** you identified missing content to request from the client, and compiled the content you currently have into a workable document.
 - If you received **1&ndash;5 points** you suggested some easy to identify content to request from the client, but did not completely compiled the content you currently have into a workable document.
 - If you received **0 points** you did not complete the in-class assignment.  

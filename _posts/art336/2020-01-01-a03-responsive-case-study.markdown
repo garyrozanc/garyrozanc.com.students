@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A03: Responsive Case Study"
 date: 2019-02-04 09:00:00
-due-date: 2019-02-04
+due-date: 2019-02-05
 time: "1 hour and 40 minutes"
 points: 10
 upload-files: 
@@ -32,9 +32,17 @@ Your assignment will be to work with your group over the next hour and ten minut
 7. <a href="http://readwrite.com/2011/12/25/redux_how_the_boston_globe_pulled_off_html5_responsive_d" target="_blank" title="How the Boston Globe Pulled Off HTML5 Responsive Design">Boston Globe</a>
 
 ## Grading
-
 This assignment will be worth 10 points and is due at the end of class. Email me a link to a Google Doc or a Word doc with the names of your group&rsquo;s members, the website you studied and a couple of bullet points that you discuss during the class report for each category: Goals, (Re)Design, Success, and Working Methods before you leave class.
 
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.    
+
+### Assessment Rubric
 - **6–10:** The presentation includes details about each of the three goals. The group is well prepared and familiar with their assigned website and the class gets insight from the presentation.
 - **3–5:** The presentation includes the required parts, but could have used more detail and research in order to back up their findings. The class learns a few things, but not anything they couldn&rsquo;t have learned from clicking on the initial links below.
 - **0–2:** The presentation is missing one or more of the required parts, and the group is not familiar with their website they were assigned. The presentation does not give the class info on the process or inform them of anything new.

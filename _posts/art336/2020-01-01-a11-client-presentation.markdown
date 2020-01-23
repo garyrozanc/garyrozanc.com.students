@@ -22,6 +22,15 @@ As you saw via email, you will have EXACTLY 8 minutes to present! The presentati
 ## Grading
 This presentation will be worth 50 points and will be due at the beginning of class on 05.15.18. Remember this along with your <a href="a11-building-prototypes.html" target="_blank" title="Clickable Prototype">Clickable Prototype</a> is your final exam! Attendance is mandatory per the course syllabus.
 
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Analyzing
+    - Assess interactive prototypes for responsive web design principles.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
+
+### Assessment Rubric
 - If you received between **34&ndash;50 points** your presentation focused on telling the client the importance of your design decisions and how those decisions will solve the client&#8217;s problems.
 - If you received between **17&ndash;33 points** your presentation was a mix of describing what the website looked like and why you made the design decisions, but were lacking description on how the designs help solve the problem.
 - If you received between **0&ndash;16 points** you either didn&#8217;t do your presentation, or it was a description of what the website looked like and not how it could help the client.
