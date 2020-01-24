@@ -2,7 +2,7 @@
 layout: post
 css: assignments
 categories: art336
-title: "A10: Static Website Mockups & Clickable Prototypes"
+title: "A10: Website Mockups"
 date: 2019-04-23 09:00:00
 due-date: 2019-05-08
 time: "The rest of the semester"

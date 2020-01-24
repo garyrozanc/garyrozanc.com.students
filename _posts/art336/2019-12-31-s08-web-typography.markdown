@@ -7,8 +7,7 @@ date: 2019-01-29 09:00:00
 due-date: 2019-02-25
 time: "6 hours"
 points: 40
-upload-files:
-assets: https://www.dropbox.com/s/he358faihpb1xdx/art336-typographic-hierarchy-page-template.zip?dl=0
+assets: https://garyrozanc.com/students/downloads/art336-typographic-hierarchy-page.zip
 ---
 
 There are many think pieces out there making the claim that the web is primarily composed of 95% typography<sup><a href="#one" target="_blank" title="Resource Article #1" class="scroll">1</a>,<a href="#two" target="_blank" title="Resource Article #2" class="scroll">2</a></sup>. I&rsquo;m not going to argue the science and accuracy of these claims, I bring it up because even if you don&rsquo;t believe the stats, you can&rsquo;t argue that there is a lot of reading done on screen based devices and it&rsquo;s the graphic designer&rsquo;s job to make sure all the content is presented in the most legible way possible.
@@ -20,7 +19,7 @@ Unfortunately, the ability to use HTML and CSS to control your typographic choic
 While web typography needs both HTML and CSS to be adjusted, for learning purposes I think it&rsquo;s best to split them into separate categories that are commonly referred to as: Structure and Presentation. 
 
 ## HTML
-HTML is considered the “Structure” layer. Using HTML tags, you define specific contents of a web page so search engines and browsers know what to do with the information. For example, the <code>&lt;artcile&gt;</code> tag tells a search engine like Google that the content marked up is an article and a <code>&lt;h1&gt;</code> tag within an <code>&lt;artcile&gt;</code> tag tells the search engine the name of the article. With the advent of HTML5<sup><a href="#three" target="_blank" title="Resource Article #3" class="scroll">3</a>,<a href="#four" target="_blank" title="Resource Book #4" class="scroll">4</a></sup> there is a bevy of tags available to make certain that your web page&rsquo;s content is found in a relevant search!
+HTML is considered the “Structure” layer. Using HTML tags, you define specific contents of a web page so search engines and browsers know what to do with the information. For example, the <code>&lt;artcile&gt;</code> tag tells a search engine like Google that the content marked up is an article and a <code>&lt;h1&gt;</code> tag within an <code>&lt;artcile&gt;</code> tag tells the search engine the name of the article. With the advent of HTML5<sup><a href="#three" target="_blank" title="Resource Article #3">3</a>,<a href="#four" target="_blank" title="Resource Book #4">4</a></sup> there is a bevy of tags available to make certain that your web page&rsquo;s content is found in a relevant search!
 
 Where HTML falls short is how it typographically styles the marked up content. If you were to leave the default styling of a longer headline marked up with a <code>&lt;h3&gt;</code> tag, it could easily be mistaken for a pull quote. However, before you learn how to use CSS to change the default “Presentation”, you need to know the common HTML tags that affect the visual hierarchy of typography as well as the tag&rsquo;s contextual function in search results. This and more will be covered in-depth in the following screencasts on HTML.
 

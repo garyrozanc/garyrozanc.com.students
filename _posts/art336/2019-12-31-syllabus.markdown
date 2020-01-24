@@ -24,7 +24,7 @@ You must have completed ART 213 (with a grade of &ldquo;C&rdquo; or better), ART
 - Evaluating
     - Explain and defend design choices through formal presentations.
     
-## Required/Suggested Texts
+## Required & Suggested Texts
 There are several books available, but not required, that will expand upon what you learn during the course of the semester. 
 
 Many, if not all of the <a href="https://abookapart.com/" target="_blank" title="A Book Apart">A Book Apart</a> collection is available in the library so check them out.
@@ -65,7 +65,7 @@ Finally, there are quite a few industry leaders you should follow on twitter.
 - <a href="https://twitter.com/lukew" title="Luke Wroblewski" target="_blank">Luke Wroblewski</a>
 - <a href="https://twitter.com/zeldman/" title="Jeffrey Zeldman" target="_blank">Jeffrey Zeldman</a>
 
-## Supplies/Materials
+## Supplies & Materials
 You will need the following software and supplies.
 
 - MAC laptop computer and a student subscription to <a href="http://www.adobe.com/creativecloud/buy/students.html" target="_blank" title="Adobe Creative Cloud">Adobe Creative Cloud</a>.
@@ -132,7 +132,7 @@ Over the course of the semester you will earn points by completing in class assi
 
 The in class assignments are worth 54% of the of the final semester grade. The screencasts are worth 36% of the final semester grade. This means that you have to complete the in class assignments (270 points) and screencasts (180 points) to successfully pass the course. Failure to keep up with either will result in a low or failing grade! As a reminder, since ART 336 is a requirement for the Graphic Design major, you will need to earn a letter grade of &ldquo;C&rdquo; or higher to have it count towards the major. Anything below a &ldquo;C&rdquo; will result in you needing to retake the course. It is also important for you to remember that you can only attempt a course three times. If you do not pass, or you withdraw from a course three times, you will not be able to take future courses in the major. When you attempt to retake a course for the second or third time, you will need to get a waiver for the registrar&rsquo;s office which has very specific deadlines!  
 
-#### Late Work, Incompletes, and Make-Up
+#### Late Work, Incompletes, & Make-Up
 Professionalism will be stressed. Treat this class as you would a job. Late arrival to a client meeting or missed deadlines will cost you a job and your ex-employer a client. Therefore, all assignments must be completed on time, and are due at the beginning of class. 
 
 An assignment not ready for the start of class will be considered late. Assignments lose 10% each **day** _not class period_ they are late. Assignments over 7 days late will be given a **0**, no exceptions. Turn in your Assignments even if you aren&rsquo;t finished, it&rsquo;s better to turn in **something**. Getting partial points is better than getting a **0**.
@@ -166,7 +166,7 @@ There is a very small place in the industry for the use of stock photography, im
 
 In this class, this means that all imagery used during the semester must be your own or supplied by me. If I suspect that you have copied the work of others I will ask to see your original sketches and digital files. If you find work that is listed as creative commons, technically you are free to use it if you cite the original author, but again, you are designers and you are the content generators.
 
-## Access and Accommodations
+## Access & Accommodations
 UMBC is committed to eliminating discriminatory obstacles that disadvantage students based on disability. <a href="http://humanrelations.umbc.edu/disabilitysec-504/student-support/" target="_blank" title="Student Support / Academic Accommodation">Student Support / Academic Accommodation</a> is the UMBC department designated to:
 - Receive and maintain confidential files of disability-related documentation,
 - Certify eligibility for services, 
@@ -174,7 +174,7 @@ UMBC is committed to eliminating discriminatory obstacles that disadvantage stud
 - Develop with each student plans for the provision of such accommodations, and serve as a liaison between faculty members and students regarding disability-related issues. 
 - If you have a disability and want to request accommodations, contact <a href="http://sds.umbc.edu/" target="_blank" title="Student Disability Services">Student Disability Services</a> in the Math/Psych Bldg., Rm 212 or at 410-455-2459. SDS will require you to provide appropriate documentation of disability.
 
-## Disclosures of Sexual Misconduct and Child Abuse or Neglect
+## Disclosures of Sexual Misconduct & Child Abuse or Neglect
 As an instructor, I am considered a Responsible Employee, per UMBC&rsquo;s Policy on <a href="located at http://humanrelations.umbc.edu/sexual-misconduct/umbc-resource-page-for-sexual-misconduct-and-other-related-misconduct/" target="blank" title="Prohibited Sexual Misconduct, Interpersonal Violence, and Other Related Misconduct">Prohibited Sexual Misconduct, Interpersonal Violence, and Other Related Misconduct</a>. While my goal is for you to be able to share information related to your life experiences through discussion and written work, I want to be transparent that as a Responsible Employee I am required to report disclosures of sexual assault, domestic violence, relationship violence, stalking, and/or gender-based harassment to the University&rsquo;s Title IX Coordinator.
 
 As an instructor, I also have a mandatory obligation to report disclosures of or suspected instances of child abuse or neglect <a href="www.usmh.usmd.edu/regents/bylaws/SectionVI/VI150.pdf">(www.usmh.usmd.edu/regents/bylaws/SectionVI/VI150.pdf)</a>.
@@ -206,11 +206,10 @@ Finally, off-campus supports and resources:
 - A01: What are Breakpoints
 - S01: Domain Names
 - S02: Web Hosting
-- S03: Using a FTP Client (S06)
-- S04: Web Tools (S03)
-- S05: HTML & CSS Boilerplate (S04)
-- S06: Course Assignment Page (S05)
-- <del>S06: Using a FTP Client</del>
+- S03: Web Tools
+- S04: HTML & CSS Boilerplate
+- S05: Course Assignment Page
+- S06: Using a FTP Client
 
 ### Week 2 (02.03)
 - A02: Atomic Design & Design Systems
@@ -222,7 +221,7 @@ Finally, off-campus supports and resources:
 - S07: Webfont Specimen Evaluation Page
 
 ### Week 4 (02.17)
-- A06: Client Meeting - Inital Project Scope
+- A06: Client Meeting - Initial Project Scope
 - A07: Where to Begin Designing for the Web?
 - A07 - A: Content Inventory
 - S08: Web Typography
@@ -247,7 +246,6 @@ Finally, off-campus supports and resources:
 
 ### Week 9 (03.30)
 - A09: Design Systems
-
 
 ### Week 10 (04.06)
 - Putting it All Together 

@@ -4,11 +4,10 @@ css: assignments
 categories: art336
 title: "A05: Just Enough Research"
 date: 2019-02-11 09:00:00
-due-date: 2019-02-11
+due-date: 2020-02-12
 time: "1 hour and 30 minutes"
 points: 10
-upload-files:
-assets: https://www.dropbox.com/s/hb1m3sh9h3bw0p3/art336_marmor_389.zip?dl=0
+upload-files: https://www.dropbox.com/request/G376g2VpJcR4RXagYYtg
 ---
 
 Before you begin to put pencil to paper for a design, you need to know more than what the client asked you to design. I&rsquo;m going to use a real world example that I&rsquo;m still looking for the actual source (I read it in a book), but I also heard the story first hand from the actual designer. Early on, VH1&rsquo;s viewership was dropping. To combat this, VH1 was looking for a visual rebrand to help increase viewers and reached out to several design firms. One firm, [AdamsMorioka](http://adamsmorioka.com/), countered with “We could give you a new identity, but we can&rsquo;t guarantee that will increase viewership.” Instead of doing a rebrand, AdamsMorioka came back with the suggestion of coming up with new programming that attracted the audience VH1 wanted to target. Then, this new programming would feed into a new visual identity.
@@ -25,15 +24,20 @@ Your task for the rest of the class will be to look over each of the projects an
 - **Client 02:** A design system for [Michael Jovel&rsquo;s Bmoresponsive](http://bmoresponsive.com/) 
 
 ## Grading
+Save your notes as a pdf or scan/photograph your hand written notes and upload them.
 
-This assignment will be worth 10 points. Put your notes into a Google Doc and share the doc with me.
+### Learning Objectives Applied
+- Applying
+    - Make use of an interactive design process.
+- Evaluating
+    - Explain and defend design choices through formal presentations.
 
-- If you received between **6&ndash;10 points** you came up with several questions and obervations for an engaged discussion during the client meeting.
-- If you received between **1&ndash;5 points** you came up with a minimal amount questions and obervations and are ill-prepared for the intial discussion with the client.
+### Assessment Rubric
+- If you received between **6&ndash;10 points** you came up with several questions and observations for an engaged discussion during the client meeting.
+- If you received between **1&ndash;5 points** you came up with a minimal amount questions and observations and are ill-prepared for the initial discussion with the client.
 - If you received between **0 points** you did not complete the assignment.
 
 ## Resources
-
 - <a href="http://alistapart.com/article/discovery-on-a-budget-part-i" target="_blank" title="Discovery on a Budget: Part I">Discovery on a Budget: Part I</a> by Meg Dickey-Kurdziolek
 - <a href="https://abookapart.com/products/just-enough-research" title="A Book Apart, Just Enough Research" target="_blank">Just Enough Research</a> by Erika Hall
 - <a href="https://vimeo.com/129039134" title="Just Enough Research Presentation by Erika Hall" target="_blank">Just Enough Research</a> a Presentation by Erika Hall

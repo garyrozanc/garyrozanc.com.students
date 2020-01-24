@@ -4,11 +4,10 @@ css: assignments
 categories: art336
 title: "S07: Webfont Specimen Evaluation Page"
 date: 2019-01-29 09:00:00
-due-date: 2019-02-11
+due-date: 2020-02-10
 time: "2 hour, 30 minutes"
 points: 30
-upload-files:
-assets: https://www.dropbox.com/s/nbg3zyzillvzsbf/art336-font-specimen-evaluation-page.zip?dl=0
+assets: https://garyrozanc.com/students/downloads/art336-font-specimen-evaluation-page.zip
 ---
 
 Tools like Adobe Xd, InVision, and Sketch give you the ability to create clickable prototypes and make it easy to send a non-responsive version of your visual design to view on a smartphone or tablet device. However, relying on these prototypes for accurate evaluation is problematic. For example, in **Figure 1**, the screenshot on the left is a visual design created in Sketch specifically sized for the iPhone 7 Plus, viewed using the Sketch Mirror app on an iPhone 7 Plus. The screenshot on the right is a visual design created specifically for the iPhone 4s, viewed on an iPhone 7 Plus. While not ideal, you can still estimate what your smaller sized designs will look like on a slightly larger screen, the same isn&rsquo;t true in reverse.

@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A03: Responsive Case Study"
 date: 2019-02-04 09:00:00
-due-date: 2019-02-05
+due-date: 2020-02-05
 time: "1 hour and 40 minutes"
 points: 10
 upload-files: 

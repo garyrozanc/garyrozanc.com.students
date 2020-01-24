@@ -4,11 +4,10 @@ css: assignments
 categories: art336
 title: "S04: HTML & CSS Boilerplate"
 date: 2019-01-27 09:00:00
-due-date: 2019-02-04
+due-date: 2020-01-27
 time: "30 minutes"
 points: 10
-upload-files: https://www.dropbox.com/request/4MdpgiLP18ZqKgTZZILD
-assets: https://www.dropbox.com/s/pfxrswhi80z1eu6/art336-boilerplate.zip?dl=0
+assets: https://garyrozanc.com/students/downloads/art336-boilerplate.zip
 ---
 
 Now that you have your domain name pointing to the class web server, and you have setup your domain and subdomain so they appear in the server&rsquo;s directory, it&rsquo;s time to create your own web pages. However, before you start creating your own web pages, it&rsquo;s important to understand what exactly the web browser is looking for when you type in a domain name, also known as a Uniform Resource Locator, or URL.
