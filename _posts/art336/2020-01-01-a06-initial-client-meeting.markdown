@@ -6,7 +6,6 @@ title: "A06: Initial Client Meeting - Project Scope"
 date: 2019-02-11 09:00:00
 due-date: 2019-02-13
 time: "45 minutes &times; 2"
-assets: 
 ---
 
 Again, you do not have the job yet! Right now, you are meeting with the potential client to determine the scope of the project. This includes determining deliverables, schedule, expectations and more. However, at this stage, you are not trying to design anything. You have zero knowledge of the design piece, the end user of the design piece, or the end goal of the client. So, at this first meeting you should be asking questions such as:
@@ -24,4 +23,6 @@ Questions you shouldn&rsquo;t be asking are:
 - What other [blank] do you like the look of?
 
 Basically, do not ask anything about the visual design unless prompted by the client! There will be plenty of time to discuss design once you have landed the job and started some research. The initial client discovery meeting is a crucial step in the design process. This is why the [AIGA is vehemently against spec work](https://www.aiga.org/position-spec-work). When you jump into a design project without doing the proper research, you will design an ineffectual piece. So always research _before_ you design!
+
+
 

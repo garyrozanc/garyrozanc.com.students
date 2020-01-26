@@ -4,11 +4,10 @@ css: assignments
 categories: art336
 title: "A04: Interface Design & Prototyping Tools"
 date: 2019-02-06 09:00:00
-due-date: 2019-02-06
+due-date: 2020-02-10
 time: "1 hour and 20 minutes"
 points: 10
-upload-files: https://www.dropbox.com/request/Zs4wFUsMSG3WBNdeQfwY
-assets: 
+upload-files: https://www.dropbox.com/request/LY2l1cTdp5ljTZ2wwQlF
 ---
 
 Software does not make the designer. If this were the case everyone would be a graphic designer. As James Victore said, “Give me a piece of black paper and a pair of scissors and I&rsquo;ll kick your ass.” Good graphic design fundamentals that transcend software are what truly make the designer. However, software can make you faster, _if you pick the right tool for the job and you learn to use it efficiently_. For example, you would not use InDesign or Photoshop to create a vector illustration nor use InDesign or Illustrator to edit photos. However I see emerging designers using the wrong tools all the time.

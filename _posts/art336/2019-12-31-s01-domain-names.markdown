@@ -4,9 +4,8 @@ css: assignments
 categories: art336
 title: "S01: Domain Names"
 date: 2019-01-27 09:00:00
-due-date: 2019-02-04
-time: "30 minutes"
-upload-files: https://www.dropbox.com/request/tsz5AMbvwfqQEoH8yGPm 
+due-date: 2020-01-27
+time: "30 minutes" 
 ---
 
 To help understand the web as a design medium, you will first need to get content on the web so it&rsquo;s viewable on different devices and browsers. To get started, you will need two interrelated services: a place to store—host—your content online and a physical address so others can easily find the location of the hosted content you will be creating. In this exercise I will be discussing the physical address of the hosted files, the hosting of files will be covered in the _02_ Web Hosting exercise.
