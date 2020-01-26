@@ -3,8 +3,8 @@ layout: post
 css: assignments
 categories: art336
 title: "S01: Domain Names"
-date: 2019-01-27 09:00:00
-due-date: 2020-01-27
+date: 2019-01-27
+due-date: 2020-02-11
 time: "30 minutes" 
 ---
 

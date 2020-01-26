@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "S04: HTML & CSS Boilerplate"
 date: 2019-01-27 09:00:00
-due-date: 2020-01-27
+due-date: 2020-02-11
 time: "30 minutes"
 points: 10
 assets: https://garyrozanc.com/students/downloads/art336-boilerplate.zip
