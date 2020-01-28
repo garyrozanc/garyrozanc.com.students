@@ -7,8 +7,8 @@ date: 2019-01-30 09:00:00
 due-date: 2020-02-03
 time: "1 hour"
 points: 10
-upload-files: https://www.dropbox.com/request/yUUsUtYMKltm3lqnWXya
-assets: https://www.dropbox.com/s/pdc9bawrcny6q8s/art336-tracing-atomic-design.zip?dl=0
+upload-files: https://www.dropbox.com/request/XLs402coHDmt8AevoEhi
+assets: https://garyrozanc.com/students/downloads/art336-tracing-atomic-design.zip
 ---
 
 [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) is a methodology developed by [Brad Frost](https://twitter.com/brad_frost) to help designers and developers focus on content types not fixed device sizes (think phone, tablet, laptop, etc.). Another benefit of the Atomic Design methodology is it naturally lends itself to the creation of a Design System. Remember, while we haven&rsquo;t discussed design systems yet, a design system will be your final client deliverable, not a website or webpage!

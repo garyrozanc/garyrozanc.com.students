@@ -7,8 +7,7 @@ date: 2019-02-04 09:00:00
 due-date: 2020-02-05
 time: "1 hour and 40 minutes"
 points: 10
-upload-files: 
-assets: 
+upload-files: https://www.dropbox.com/request/epzVYiP2jgscYVgeVGfN 
 ---
 
 On May 25th 2010 Ethan Marcotte wrote the seminal article <a href="http://alistapart.com/article/responsive-web-design" target="_blank" title="Responsive Web Design: Ethan Marcotte">Responsive Web Design</a>, the basis for the modern web. In the article Ethan discusses how fluid grids, flexible images, and media queries let websites respond to a user&rsquo;s device and deliver an appropriately sized layout.

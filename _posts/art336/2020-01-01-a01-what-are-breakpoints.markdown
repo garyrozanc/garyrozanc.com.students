@@ -7,7 +7,7 @@ date: 2019-01-30 09:00:00
 due-date: 2020-01-30
 time: "60 minutes"
 points: 5
-upload-files: https://www.dropbox.com/request/rYF4veMfeNASSdM7RTkF
+upload-files: https://www.dropbox.com/request/mQRvim7GaC5OAqDsnRCa
 assets: 
 ---
 
@@ -37,7 +37,11 @@ Another content type easy to identify breakpoints for are images. When you crop 
 **Side Note:** if you don&rsquo;t make these design decisions, the developer will. Unless you trust your developer to make these important design decision, you better start leaving them instructions on how to handle the images!
 
 ## Your Task for the Day
+<<<<<<< HEAD
 Now that you know what breakpoints are, I want you to review several websites and identify **one element** within **one website** that has **three or more breakpoints**. You must demonstrate the element&rsquo;s breakpoints by recording the change using QuickTime to create a .mov file or create a screenshot of each breakpoint. You will upload either one QuickTime movie or 3 screenshots via the DropBox link by the end of class that demonstrate the changing breakpoint. You can not use the websites listed above.
+=======
+Now that you know what breakpoints are, I want you to review several websites and identify **one element** within **two websites** that has **three or more breakpoints**. You must demonstrate the element&rsquo;s breakpoints by recording the change using QuickTime to create a .mov file or create a screenshot of each breakpoint. You will upload either two QuickTime movies or six screenshots via the DropBox link by the end of class that demonstrate the changing breakpoint. You can not use the websites listed above or below.
+>>>>>>> 47eb99857de3d9095e1cd2ed222ed0f443e9c0db
 
 ### Tip
 Don&rsquo;t over think this. As I mentioned there are no perfect examples. Simply visit a website and resize the browser window and look for an element that changes at least three or more times. The changes may be slight, so don&rsquo;t worry if you can&rsquo;t find extreme examples like I have shown you.
@@ -51,10 +55,17 @@ Don&rsquo;t over think this. As I mentioned there are no perfect examples. Simpl
     - Assess interactive prototypes for responsive web design principles.
 
 ### Assessment Rubric
+<<<<<<< HEAD
 This assignment will be worth 5 points and is due at the end of class. Name the files exactly as follows (all lowercase with hyphens and no blank spaces) **what-are-breakpoints-firstname-lastname-0(1-3).(jpg, png,mov,mp4)**, and upload the file via the DropBox link by the end of class.
 - **4–5:** You demonstrated 3 breakpoint changes for two different websites.
 - **1–3:** You demonstrated 1 or 2 breakpoint changes for two different websites.
 - **0:** You did&rsquo;t turn in the assignment or only did one website.
+=======
+This assignment will be worth 5 points and is due at the end of class. Name the files exactly as follows (all lowercase with hyphens and no blank spaces) **what-are-breakpoints-firstname-lastname-01-(1-3).(jpg, png,mov,mp4)**, and **what-are-breakpoints-firstname-lastname-02-(1-3).(jpg, png,mov,mp4)**, then upload the files via the DropBox link by the end of class.
+- **4–5:** You demonstrated 3 breakpoint changes.
+- **1–3:** You demonstrated 1 or 2 breakpoint changes.
+- **0:** You did&rsquo;t turn in the assignment.
+>>>>>>> 47eb99857de3d9095e1cd2ed222ed0f443e9c0db
 
 ## Examples of Responsive Web Design
 - <a href="https://lynnandtonic.com/" target="_blank" title="Lynn Fisher">Lynn Fisher</a>
