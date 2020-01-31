@@ -8,7 +8,7 @@ due-date: 2019-04-29
 time: "Class & Home Work"
 points: 60
 upload-files: https://www.dropbox.com/request/Q6XORtJRwOBrEW5nKTa8
-assets: https://www.dropbox.com/s/ipu6pmg48y99mtr/art336_client_supplied_content.zip?dl=0
+assets: 
 ---
 
 ## Coming Soon
@@ -35,3 +35,4 @@ assets: https://www.dropbox.com/s/ipu6pmg48y99mtr/art336_client_supplied_content
 - If you received between **0&ndash;19 points** you did not ...
 
 ## Resources
+[Getting Started with Design Systems](https://xd.adobe.com/ideas/principles/design-systems/introduction-to-design-systems/)

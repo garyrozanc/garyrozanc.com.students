@@ -128,7 +128,7 @@ From the context of a portfolio website, the <a href="http://www.robotstxt.org/r
 The [site.webmanifest](https://web.dev/add-manifest/) is a simple JSON file that tells the browser about your web application and how it should behave when &rdquo;installed&ldquo; on the user&rsquo;s mobile device or desktop. A typical manifest file includes information about the app name, icons it should use, and the URL that should be opened when the app is launched. Manifest files are supported in Chrome, Edge, Firefox, UC Browser, Opera and the Samsung browser, and Safari is currently working on adding support.
 
 ## Grading
-This assignment will be worth 5 points. Create a duplicate folder and files and name the folder exactly as follows (all lowercase with hyphens and no blank spaces) **html-css-boilerplate-firstname-lastname**, and upload the files via the DropBox link. You can compress/zip the folder if that is easier for you.
+This assignment will be worth 5 points. You will upload the files to the class hosting account in Screencast 06.
 
 ### Learning Objectives Applied
 - Understanding
