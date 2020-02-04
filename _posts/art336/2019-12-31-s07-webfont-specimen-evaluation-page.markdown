@@ -62,7 +62,7 @@ In this screencast, you will learn how to use Google Fonts to load and evaluate 
 ### Part Five - Adobe Fonts
 In this screencast, you will learn how to use Adobe Fonts (formerly Typekit) to load and evaluate webfonts. You will need to create two Webfont Specimen Evaluation pages using two different fonts from Adobe Fonts.
 <div class="video-wrapper">
-	<iframe width="1280" height="720" src="https://www.youtube.com/embed/jImwM7LquVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="1280" height="720" src="https://youtu.be/WskCnGZ3RLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Part Six - Uploading
