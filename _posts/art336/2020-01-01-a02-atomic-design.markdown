@@ -11,7 +11,11 @@ upload-files: https://www.dropbox.com/request/XLs402coHDmt8AevoEhi
 assets: https://garyrozanc.com/students/downloads/art336-tracing-atomic-design.zip
 ---
 
-[Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) is a methodology developed by [Brad Frost](https://twitter.com/brad_frost) to help designers and developers focus on content types not fixed device sizes (think phone, tablet, laptop, etc.). Another benefit of the Atomic Design methodology is it naturally lends itself to the creation of a Design System. Remember, while we haven&rsquo;t discussed design systems yet, a design system will be your final client deliverable, not a website or webpage!
+[Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) is a methodology developed by [Brad Frost](https://twitter.com/brad_frost) to help designers and developers focus on content types not fixed device sizes (think phone, tablet, laptop, etc.).
+ 
+![Lots and lots of devices](../img/art336-devices.jpg)
+
+Another benefit of the Atomic Design methodology is it naturally lends itself to the creation of a Design System. Remember, while we haven&rsquo;t discussed design systems yet, a design system will be your final client deliverable, not a website or webpage!
 
 So what is Atomic Design? In a crazy over simplification a group of atoms (buttons, headlines, single form input, etc.) combine to form molecules (form, card, navigation, carousel, etc.). Those molecules combine to form organisms (site header and footer, menus, featured sections, etc.). Finally, organisms combine to form webpages. For an in-depth explanation of Atomic Design read [Brad&rsquo;s article](http://bradfrost.com/blog/post/atomic-web-design/) or check out his [Atomic Design](http://atomicdesign.bradfrost.com/) book. It is also important to note that atomic design, design systems, pattern libraries, ui libraries, etc. for the purpose of this course are the same thing. They are simply terms used to describe a collection of elements that compose a webpage. Once you get into the industry, these terms will take on more specific and discernible meanings.
 

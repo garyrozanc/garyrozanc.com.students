@@ -41,6 +41,7 @@ In the past, I&rsquo;ve left it up to students to figure out how to do the regis
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/LD8eGrQFe3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://garyrozanc.com/students/downloads/art336-S01-Domain-Names-Part-01-of-02.mp4)
 
 ## Pointing the Domain Name to an IP Address
 As I alluded to in the second sentence of this exercise, a domain name is part of interrelated process that allows people to see your files via the internet. Since the domain name is only one service in an interrelated process, unfortunately what you are about to do won&rsquo;t yield any visible results until you complete the next exercise: _02 Web Hosting_. 
@@ -50,3 +51,4 @@ However, even though you won&rsquo;t see the results until the next exercise, it
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/8F50PRB3vgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://garyrozanc.com/students/downloads/art336-S01-Domain-Names-Part-02-of-02.mp4)
