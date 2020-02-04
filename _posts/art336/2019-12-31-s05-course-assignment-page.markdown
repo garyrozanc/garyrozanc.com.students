@@ -19,7 +19,7 @@ Now that you have created an HTML/CSS Boilerplate, it&rsquo;s time to put it to 
 [Download the Video File](https://garyrozanc.com/students/downloads/art336-S05-Course-Assignment-Page-Part-01-of-01.mp4)
 
 ## Grading
-This assignment will be worth 5 points. Create a duplicate folder and files and name the folder exactly as follows (all lowercase with hyphens and no blank spaces) **html-assignment-page-firstname-lastname**, and upload the files via the DropBox link. You can compress/zip the folder if that is easier for you.
+This assignment will be worth 5 points. You will upload the files to the class hosting account in Screencast 06.
 
 ### Learning Objectives Applied
 - Understanding
