@@ -4,8 +4,8 @@ css: assignments
 categories: art336
 title: "S07: Webfont Specimen Evaluation Page"
 date: 2019-01-29 09:00:00
-due-date: 2020-02-10
-time: "2 hour, 30 minutes"
+due-date: 2020-02-17
+time: "3 hours"
 points: 30
 assets: https://garyrozanc.com/students/downloads/art336-font-specimen-evaluation-page.zip
 ---
@@ -41,11 +41,14 @@ In this screencast, you will go over the contents of the Webfont Specimen Evalua
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/l4rJ9HfS7ZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Part Two & Three - @font-face
+### Part Two - @font-face
 In this screencast, you will learn how to use the CSS <code>@font-face</code> property to load and evaluate webfonts. You will need to create two Webfont Specimen Evaluation pages using two different fonts using @font-face.
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/tU6APfc5E1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Part Three - @font-face
+In this screencast, you will learn how to use the CSS <code>@font-face</code> property to load and evaluate webfonts. You will need to create two Webfont Specimen Evaluation pages using two different fonts using @font-face.
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/xuXzDaVu6dE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -76,6 +79,6 @@ In this screencast, you will add the 7 Webfont Specimen Evaluation Pages to your
   - Demonstrate CSS&rsquo;s use for content presentation by illustrating its effects on typography, imagery, and layout.
 
 ### Assessment Rubric
-- If you received between **17&ndash;25 points** you successfully loaded the self hosted fonts, Google Fonts, Adobe Fonts, updated your assignment index.html page, and uploaded the files to the class web server.
-- If you received between **8&ndash;16 points** you successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either updated your assignment index.html page, or uploaded the files to the class web server.
-- If you received between **0&ndash;7 points** you did not successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either did not updated your assignment index.html page, or uploaded the files to the class web server.
+- If you received between **20&ndash;30 points** you successfully loaded the self hosted fonts, Google Fonts, Adobe Fonts, updated your assignment index.html page, and uploaded the files to the class web server.
+- If you received between **09&ndash;19 points** you successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either updated your assignment index.html page, or uploaded the files to the class web server.
+- If you received between **0&ndash;08 points** you did not successfully loaded either the self hosted fonts, Google Fonts, and or Adobe Fonts, and either did not updated your assignment index.html page, or uploaded the files to the class web server.

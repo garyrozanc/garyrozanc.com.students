@@ -7,8 +7,8 @@ date: 2019-02-19 09:00:00
 due-date: 2019-03-04
 time: "2 Class Periods"
 points: 30
-upload-files: https://www.dropbox.com/request/3ndxuFyZr58pThVoPane
-assets: https://www.dropbox.com/s/2c86k69703o0rtf/art336-moodboard-deck-templates.zip?dl=0
+upload-files: https://www.dropbox.com/request/5QSpq3EtzGYgpil9HNAv
+assets: https://garyrozanc.com/students/downloads/art336-mood-deck-templates.zip
 ---
 
 Full disclosure, I&rsquo;m getting a lot of [this material from Dan Mall](https://alistapart.com/article/art-direction-and-design). I suggest that you read his article as I&rsquo;m only giving you the highlights. Now on to the topic at hand. With print design, generally you are designing a single page that is a fixed size. Even books have a limited number of page variations, and they are all the same size. Websites have multiple pages, at multiple sizes, with widely varying content. This gives the designer a lot to design versus a poster or business card. Since there is a lot to design for a website, you want to be efficient as possible. Spending a lot of time on revisions to the visual design will drive up costs (that may not be billable), slow down font-end development, and put the project behind.
@@ -47,20 +47,20 @@ Finally, if Art Direction is the feel (a major oversimplification), what is desi
 
 ![Examples of Graphic Design](../img/art336-art-drection-birthday-02.jpg)
 
-Luckily there are multiple ways to get on the same page as your client long before you begin to design. My two favorite methods are Moodboard Decks, and Style Tiles. Both methods are very effective but are vastly different. As you advance in your career, I think you will begin to intuitively know which is a better method for the project you are working on. For the sake of learning, I&rsquo;m going to ask you to do both.
+Luckily there are multiple ways to get on the same page as your client long before you begin to design. My two favorite methods are Mood Decks, and Style Tiles. Both methods are very effective but are vastly different. As you advance in your career, I think you will begin to intuitively know which is a better method for the project you are working on. For the sake of learning, I&rsquo;m going to ask you to do both.
 
-## Moodboard Deck
-The simplest way to explain what a [moodbaord deck is by looking at one](../downloads/art336-moodboard-deck-templates.zip). Moodboards are a quick way to visualize key words used in the initial client meeting. Simply picking multiple images and videos that represent the keyword and asking the client to pick amongst them will get you on the same page as the client in regards to art direction. Your job will be to pick several of the keywords you heard during our initial client meeting and create one moodboard deck to be shared with the client. You can use the template I supplied or create your own.
+## Mood Deck
+The simplest way to explain what a [mood deck is by looking at one](https://garyrozanc.com/students/downloads/art336-mood-deck-templates.zip). Mood Decks are a quick way to visualize key words used in the initial client meeting. Simply picking multiple images and videos that represent the keyword and asking the client to pick amongst them will get you on the same page as the client in regards to art direction. Your job will be to pick several of the keywords you heard during our initial client meeting and create one mood deck to be shared with the client. You can use the template I supplied or create your own.
 
-### Moodboard Deck Grading
-This assignment will be worth 10. You only need to make one mooboard deck, though it must have multiple adjectives that you are trying to determine the art direction with your client. [Upload the files to DropBox](https://www.dropbox.com/s/2c86k69703o0rtf/art336-moodboard-deck-templates.zip?dl=0) by the end of class on Monday March 4th.
+### Mood Deck Grading
+This assignment will be worth 10. You only need to make one mood deck, though it must have multiple adjectives that you are trying to determine the art direction with your client. Upload the files to DropBox.
 
-- If you received between **5&ndash;10 points** you successfully created a comprehensive Moodboard Deck that explores all the keywords from the client meeting.
-- If you received between **1&ndash;4 points** created a Moodboard Deck that explores only a few of the keywords from the client meeting..
-- If you received **0 points** you did not create a Moodboard Deck.
+- If you received between **5&ndash;10 points** you successfully created a comprehensive mood deck that explores all the keywords from the client meeting.
+- If you received between **1&ndash;4 points** created a mood deck that explores only a few of the keywords from the client meeting.
+- If you received **0 points** you did not create a mood deck.
 
 ## Style Tiles
-Style Tiles are also a valuable tool to help hone in on the art direction. Just like with the moodboards, you are taking keywords from the client meeting and designing tiles to flush out the art direction. Style tiles do take a bit more time as you are creating from scratch and are actually doing some very initial design. Style tiles have an advantage over moodboards since the client will see both art direction and design. This makes the style tiles more accurate than moodboards, though a bit more time consuming.
+Style Tiles are also a valuable tool to help hone in on the art direction. Just like with the mood deck, you are taking keywords from the client meeting and designing tiles to flush out the art direction. Style tiles do take a bit more time as you are creating from scratch and are actually doing some very initial design. Style tiles have an advantage over mood deck since the client will see both art direction and design. This makes the style tiles more accurate than mood deck, though a bit more time consuming.
 
 In this assignment you are going to create two or more <a href="http://styletil.es/" target="_blank" title="Style Tiles">Style Tiles</a> for the redesign of your website. You must use either Adobe Xd CC, Bohemian Coding Sketch, Figma, or InVision Studio to create your Style Tiles. You can pick whichever program you want to work with. As I mentioned at the beginning of the semester, Sketch is the industry standard, but Xd is free and sorta familiar. Studio has built in Animation features, so don&rsquo;t forget that (you will be doing animations for this project by the end of the semester)!
 
@@ -74,7 +74,7 @@ As you can see in the examples listed below, Style Tiles can vary wildly as long
 - Patterns and Textures
 
 #### Grading
-This assignment will be worth 20. You must make a minimum of 2 style tiles to be able to start a discussion about art direction with your client. [Upload the files to DropBox](https://www.dropbox.com/s/2c86k69703o0rtf/art336-moodboard-deck-templates.zip?dl=0) by the end of class on Monday March 4th.
+This assignment will be worth 20. You must make a minimum of 2 style tiles to be able to start a discussion about art direction with your client. Upload the files to DropBox.
 
 ##### Learning Objectives Applied
 - Applying

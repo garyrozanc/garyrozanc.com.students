@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "S08: Web Typography"
 date: 2019-01-29 09:00:00
-due-date: 2019-02-25
+due-date: 2020-03-09
 time: "6 hours"
 points: 40
 assets: https://garyrozanc.com/students/downloads/art336-typographic-hierarchy-page.zip
@@ -154,4 +154,3 @@ In the following screencasts you will learn to use CSS selectors to target basic
 2. <a href="https://www.smashingmagazine.com/2012/07/one-more-time-typography-is-the-foundation-of-web-design/" target="_blank" title="One More Time: Typography Is The Foundation Of Web Design" id="two">One More Time: Typography Is The Foundation Of Web Design</a>
 3. <a href="http://html5doctor.com/" target="_blank" title="HTML5 Doctor Website" id="three">HTML5 Doctor</a>
 4. <a href="https://abookapart.com/products/html5-for-web-designers" target="_blank" title="HTML5 for Web Designers" id="four">HTML5 for Web Designers</a> by Rachel Andrew & Jeremy Keith
-
