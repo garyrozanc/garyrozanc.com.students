@@ -12,7 +12,7 @@ upload-files: https://www.dropbox.com/request/epzVYiP2jgscYVgeVGfN
 
 On May 25th 2010 Ethan Marcotte wrote the seminal article <a href="http://alistapart.com/article/responsive-web-design" target="_blank" title="Responsive Web Design: Ethan Marcotte">Responsive Web Design</a>, the basis for the modern web. In the article Ethan discusses how fluid grids, flexible images, and media queries let websites respond to a user&rsquo;s device and deliver an appropriately sized layout.
 
-Your assignment will be to work with your group over the next hour and ten minutes and review one of the responsive websites listed below. After doing some research, your group will put together a 6 minute summary—no slides, just the website—for presentation to the class today that covers the following:
+Your assignment will be to work with your group over the next hour and ten minutes and review one of the responsive websites listed below. After doing some research, your group will put together a 6 minute summary—no slides, just the website—for presentation to the class that covers the following:
 
 - **Goals:** Was this a redesign of an existing site to make it responsive or built from the ground up? Why did the client want to go responsive? Did the design team have to convince the client to go responsive?
 - **(Re)Design:** A lot goes into designing or redesigning a website. What processes were used for team collaboration (and what type of professionals were on the team), what tools were used for building, communication, etc. How was testing done to ensure usability for all users, and accessibility for people with disabilities? 
@@ -31,7 +31,7 @@ Your assignment will be to work with your group over the next hour and ten minut
 7. <a href="http://readwrite.com/2011/12/25/redux_how_the_boston_globe_pulled_off_html5_responsive_d" target="_blank" title="How the Boston Globe Pulled Off HTML5 Responsive Design">Boston Globe</a>
 
 ## Grading
-This assignment will be worth 10 points and is due at the end of class. Email me a link to a Google Doc or a Word doc with the names of your group&rsquo;s members, the website you studied and a couple of bullet points that you discuss during the class report for each category: Goals, (Re)Design, Success, and Working Methods before you leave class.
+This assignment will be worth 10 points and is due at the end of class. Upload a PDF with the names of your group&rsquo;s members, the website you studied, and a couple of bullet points that you discuss during the class report for each category: Goals, (Re)Design, Success, and Working Methods before you leave class.
 
 ### Learning Objectives Applied
 - Applying
