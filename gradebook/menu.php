@@ -57,8 +57,6 @@ permalink: gradebook/menu.php
 					    		echo "<li><a href=\"gradebook.php?id_course=".$id_course_explode[3]."\">".$row['course_title']."</a></li>";
 					    	}
 					    	
-					    	echo "<li><a href=\"advising.php\">Advising Appointments</a></li>";
-					    	
 					}
 				} else {
 					echo "<p>Something went really wrong!</p>";

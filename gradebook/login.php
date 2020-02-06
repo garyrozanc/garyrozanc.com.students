@@ -24,8 +24,6 @@ permalink: gradebook/login.php
 		$_SESSION['name'] = $row['name'];
 		
 		if ($row['advisee'] == "1" && $row['id_course'] === NULL) {
-			include('advising.php');
-		} elseif ($row['id_password'] === NULL && $row['id_course'] != NULL) {
 			include('login-warning.php');
 		} elseif ($row['id_password'] == $_SESSION['id_password']) {
 			header('Location: menu.php');
