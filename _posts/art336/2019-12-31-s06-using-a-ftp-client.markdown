@@ -18,6 +18,6 @@ To utilize the File Transfer Protocol you need a FTP client. There are many FTP 
 To use the FTP client <a href="https://cyberduck.io/?l=en" target="_blank" title="Cyberduck | Libre FTP, SFTP, WebDAV, S3, Backblaze B2 & OpenStack Swift browser for Mac and Windows">Cyberduck</a> to transfer your assignments to the course web server, simply follow the screencast below.
 
 <div class="video-wrapper">
-	<iframe src="https://youtu.be/tYKHLvQBfJ8" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/tYKHLvQBfJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 [Download the Video File](https://garyrozanc.com/students/downloads/art336-S06-Using-a-FTP-Client-Part-01-of-01.mp4)
