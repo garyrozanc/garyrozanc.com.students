@@ -3,8 +3,8 @@ layout: post
 css: assignments
 categories: art336
 title: "A07: Where to Begin Designing for the Web?"
-date: 2019-02-15 09:00:00
-due-date: 2019-03-04
+date: 2019-02-19 09:00:00
+due-date: 2020-03-11
 time: "5 Class Periods" 
 ---
 
