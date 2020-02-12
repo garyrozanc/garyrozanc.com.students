@@ -16,7 +16,7 @@ Now that you have created an HTML/CSS Boilerplate, it&rsquo;s time to put it to 
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/gxh7zQQ72r4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-S05-Course-Assignment-Page-Part-01-of-01.mp4)
+[Download the Video File](https://drive.google.com/open?id=1y53ssIFSZ_1y4fe_nMWcydtAc47IIGZ3)
 
 ## Grading
 This assignment will be worth 5 points. You will upload the files to the class hosting account in Screencast 06.

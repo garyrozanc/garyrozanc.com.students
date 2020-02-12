@@ -40,42 +40,42 @@ In this screencast, you will go over the contents of the Webfont Specimen Evalua
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/l4rJ9HfS7ZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-s07-webfont-specimen-evaluation-page-part-01-of-06.mp4)
+[Download the Video File](https://drive.google.com/open?id=1w3WWMCBorYIV40KEE8bBCLuiKP6T9HC3)
 
 ### Part Two - @font-face
 In this screencast, you will learn how to use the CSS <code>@font-face</code> property to load and evaluate webfonts. You will need to create two Webfont Specimen Evaluation pages using two different fonts using @font-face.
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/tU6APfc5E1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-s07-webfont-specimen-evaluation-page-part-02-of-06.mp4)
+[Download the Video File](https://drive.google.com/open?id=1mIeEGtFNFAiW0DqJn267LHyZ5IA8Q-Nl)
 
 ### Part Three - @font-face
 In this screencast, you will learn how to use the CSS <code>@font-face</code> property to load and evaluate webfonts. You will need to create two Webfont Specimen Evaluation pages using two different fonts using @font-face.
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/xuXzDaVu6dE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-s07-webfont-specimen-evaluation-page-part-03-of-06.mp4)
+[Download the Video File](https://drive.google.com/open?id=1IK4RzvSI15gEBZgIlmMb3fIiJMyxhici)
 
 ### Part Four - Google Fonts
 In this screencast, you will learn how to use Google Fonts to load and evaluate webfonts. You will need to create two Webfont Specimen Evaluation pages using two different fonts from Google Fonts.
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/EGpJVGLBhL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-s07-webfont-specimen-evaluation-page-part-04-of-06.mp4)
+[Download the Video File](https://drive.google.com/open?id=1oORms4AiCvsdpQ_AOHdtnjUMKvNn5hbd)
 
 ### Part Five - Adobe Fonts
 In this screencast, you will learn how to use Adobe Fonts (formerly Typekit) to load and evaluate webfonts. You will need to create two Webfont Specimen Evaluation pages using two different fonts from Adobe Fonts.
 <div class="video-wrapper">
-	<iframe width="1280" height="720" src="https://youtu.be/nFYductfwf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/nFYductfwf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-s07-webfont-specimen-evaluation-page-part-05-of-06.mp4)
+[Download the Video File](https://drive.google.com/open?id=19vDqPKAtD9weXqGo-O5DL4XXbivzVV5W)
 
 ### Part Six - Uploading
 In this screencast, you will add the 7 Webfont Specimen Evaluation Pages to your index.html page and upload the necessary files.
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/Pn88ZQB3gjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-s07-webfont-specimen-evaluation-page-part-06-of-06.mp4)
+[Download the Video File](https://drive.google.com/open?id=14uV3YcBuwZ2AqnLX0uR092rYu-ZEhfZR)
 
 ## Grading
 

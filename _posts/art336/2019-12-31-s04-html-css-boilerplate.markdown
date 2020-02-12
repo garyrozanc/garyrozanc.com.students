@@ -88,7 +88,7 @@ You will need to <a href="../downloads/art336-boilerplate.zip" target="_blank" t
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/QNEsDbBeUf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-S04-HTML-and-CSS-Boilerplate-Part-01-of-01.mp4)
+[Download the Video File](https://drive.google.com/open?id=1_BjaH5DEs7peBNti4AH9fNAybnwd0BAn)
 
 #### Site Icons
 

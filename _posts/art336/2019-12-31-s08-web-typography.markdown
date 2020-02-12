@@ -29,41 +29,49 @@ You will need to download these <a href="../downloads/art336-typographic-hierarc
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/LSyjiLzALBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1vm1Yn-Ae5FzGN5wqW1s71-YgIArGHxIH)
 
 ### Part 02 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/jYyUbkXxqiw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=19aPCOhdG1rmxFO06p-7RrTrPsa7C10MF)
 
 ### Part 03 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/iPtZkLXtXs0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=122RHJbxNYa6BAem_zRlgaq6giOX16PcB)
 
 ### Part 04 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/e6MviBwa9Ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1AC9a46iQ5SPHuuR_-s05DazyTNqemUSt)
 
 ### Part 05 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/x9nBbYCueNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1q26mJFyb8LaQA4hQuDYOzC-B_Wg3YqR6)
 
 ### Part 06 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/L0fFurmhGwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1eb7UVyT_BF1XOdA3fNVrQigU-sMUpwzU)
 
 ### Part 07 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/q_FI2wOXLAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1Ff3TqVKaUwLd_ah5E8AB07v3_MHSb4nf)
 
 ### Part 08 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/ALrak6RhW2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1VC8jV9YGtiytF539E19yOuoFjkZwb6Ow)
 
 ## CSS
 As discussed in the previous screencasts, the default styling of many HTML tags can lead to confusion for the user. Fortunately, visual designers have the ability to adjust the default styling with Cascading Style Sheets (CSS), also referred to as the “Presentation” layer. As a visual designer, you are technically not responsible for turning your mockups and prototypes into working code. There are a lot of nuances to modern front-end development that it would be hard for you to learn it all and master your visual design skills. However, there isn&rsquo;t that much to learn when it comes to typography and CSS so it&rsquo;s worth the effort to lean as much as you can!
@@ -76,56 +84,67 @@ In the following screencasts you will learn to use CSS selectors to target basic
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/yx_n5LBr3Yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1YQdG3tvMG1BWcr-3YGnnwIZXh1rfK24s)
 
 ### Part 10 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/L2uwM7wvboA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1Wp43CKB8QGkS_ocsjiHgYXqjCuxP0VTf)
 
 ### Part 11 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/hr46912BjoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1Xr14hJiXTh2Q0Adfmq1LKsQzGknWXe-v)
 
 ### Part 12 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/rYT3UfPq4zI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1_74DRzH-8rrKH3dWZ4z8AbRzUbtBbrKN)
 
 ### Part 13 of 19
 <div class="video-wrapper">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/ClRrx3hfN5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1ld-exDCSTclPKXcIXvKkE-brJ9y3naJI)
 
 ### Part 14 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/8QsG6yIFjpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1VGwFFdkkzj8QgA1TJFcmqOHR9j678bOr)
 
 ### Part 15 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/mvPrUhcViVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1xt3Rz4oRiJLGup67BXGbKy1zhFrL_TH4)
 
 ### Part 16 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/cEx1gA4vAhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1gYj9rleL42HleDW3bd-4fjxI0l3L64Ox)
 
 ### Part 17 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/Otoof_9Yo0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1qQPnPZWY4_yslLVkpi5FpEe5fNFskPcr)
 
 ### Part 18 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/Vw2y_agD6SA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1G-hsEYtIu8nfAVC86waasK-GNUNEfL1b)
 
 ### Part 19 of 19
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/pjF5T8g6iFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+[Download the Video File](https://drive.google.com/open?id=1Zj9s4y05YjMVN-JcYunIvqBMQTbewRfw)
 
 ## Grading
 

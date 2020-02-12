@@ -20,4 +20,4 @@ To use the FTP client <a href="https://cyberduck.io/?l=en" target="_blank" title
 <div class="video-wrapper">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/tYKHLvQBfJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-S06-Using-a-FTP-Client-Part-01-of-01.mp4)
+[Download the Video File](https://drive.google.com/open?id=1AOvxIQutkLkwg5iimBC1eOHakpZJfN_0)

@@ -26,7 +26,7 @@ If you know how to install software, you don&rsquo;t need to follow along with t
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/74Tr9CZk2VU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-S03-Web-Tools-Part-01-of-03.mp4)
+[Download the Video File](https://drive.google.com/open?id=1ByvvTgnzUnAgM9UGD8DuzoKIrFJU-f5S)
 
 ### Autoprefixer
 In addition to Brackets you will need to install the <a href="https://github.com/mikaeljorhult/brackets-autoprefixer" target="_blank" title="Brackets/Edge Code extension that parses CSS documents and add vendor prefixes automatically.">Autoprefixer</a> plugin. I&rsquo;ll cover how to install the plugin in the screencast below, but before you begin, it&rsquo;s necessary to cover what this plugin does so you understand its importance. New properties are constantly being added to the CSS specification. Anyone can suggest a new property through the W3 organization https://www.w3.org/Style/CSS/current-work.en.html, but not everyone can immediately build support for it into a web browser. The proposed specification goes through a vetting process to make sure it&rsquo;s a sound addition.
@@ -49,7 +49,7 @@ The <a href="https://github.com/patlillis/brackets-show-whitespace-vs" target="_
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/kwYCtZluqgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-S03-Web-Tools-Part-02-of-03.mp4)
+[Download the Video File](https://drive.google.com/open?id=1vYp0b2c-JTROxHn2CP738-c98AN-JZ_y)
 
 ## FTP Client
 Once you have created your HTML and CSS files in your text editor, you will need to upload them to your course web hosting account with a File Transfer Protocol client. Again, there are many options out there. For this course, I will be using <a href="https://cyberduck.io/?l=en" target="_blank" title="CyberDuck">CyberDuck</a> in the screencasts. Unless you are already familiar with using another FTP client I strongly recommend that you also use <a href="https://cyberduck.io/?l=en" target="_blank" title="CyberDuck">CyberDuck</a>. Students tend to have the most issues with this step in the process, and using something other than what I demonstrate will only end up causing you problems.
@@ -61,7 +61,7 @@ You will need to follow along with the screencast to learn how to setup <a href=
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/TmqLDdDoAvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://garyrozanc.com/students/downloads/art336-S03-Web-Tools-Part-03-of-03.mp4)
+[Download the Video File](https://drive.google.com/open?id=1kN5_fNuiAh-NuQDGMB_5_Rs1C24cQZUZ)
 
 ## Interactive Design Software
 You will need access to the <a href="http://www.adobe-students.com/creativecloud/buy/students.html" target="_blank" title="Adobe Creative Cloud">Adobe Creative Cloud</a> for three reasons. The first, you will need Photoshop to edit photos for use on the web. Second, you will also need Illustrator to prepare vector images for the web. Finally, you will need Adobe Fonts (Formerly TypeKit) to use web fonts in the exercises.

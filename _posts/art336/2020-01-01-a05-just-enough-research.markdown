@@ -18,9 +18,8 @@ Instead of blindly following the client&rsquo;s request, AdamsMorioka did some r
 
 There is no consistent way that you will obtain work, wether as a freelancer, working at a firm, or as part of an in-house team. The initial work query could come to you as an email or web contact form, word of mouth, phone call, etc. Regardless of the initial form of contact you will eventually need to meet with the client. That meeting will be your initial “[Discovery Meeting](https://alistapart.com/article/discovery-on-a-budget-part-i)”, but what do you do _before_ that initial meeting with the client? Well, you could sit on your hands and do nothing, or you could do some preresearch. Using the information supplied to you by the client, try to figure out the problem they need solved. Try and find out about their competitors, what they do well, etc. Remember, you won&rsquo;t necessarily have the project yet. Going into that first meeting armed with as much knowledge about the company and the problem as possible will instill confidence and trust between you and the client.
 
-Your task for the rest of the class will be to look over the project and prepare as much as you can for the initial discovery meeting with the client that will take place next class (02.17.20) at 2:30 pm.
+Your task for the rest of the class will be to look over the project and prepare as much as you can for the initial discovery meeting with the client, [devopsdays Baltimore](https://devopsdays.org/events/2020-baltimore/welcome/), that will take place next class (02.17.20) at 2:30 pm.
 
-- A design system for [devopsdays Baltimore](https://devopsdays.org/events/2020-baltimore/welcome/)
 
 ### Grading
 Save your notes as a pdf or scan/photograph your hand written notes and upload them via Dropbox. Name the files exactly as follows (all lowercase with hyphens and no blank spaces) **just-enough-research-presearch-firstname-lastname.(pdf)**, and upload the two files via the Dropbox link by the end of class.
