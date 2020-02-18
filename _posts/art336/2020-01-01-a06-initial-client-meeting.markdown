@@ -6,6 +6,7 @@ title: "A06: Initial Client Meeting - Project Scope"
 date: 2019-02-11 09:00:00
 due-date: 2020-02-17
 time: "45 minutes"
+upload-files: https://www.dropbox.com/request/mCu5JcOHuMArdOqn73l7
 ---
 
 Again, you do not have the job yet! Right now, you are meeting with the potential client to determine the scope of the project. This includes determining deliverables, schedule, expectations and more. However, at this stage, you are not trying to design anything. You have zero knowledge of the design piece, the end user of the design piece, or the end goal of the client. So, at this first meeting you should be asking questions such as:
