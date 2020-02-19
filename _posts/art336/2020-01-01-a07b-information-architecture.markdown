@@ -4,10 +4,10 @@ css: assignments
 categories: art336
 title: "A07 - B: Information Architecture"
 date: 2019-02-16 09:00:00
-due-date: 2019-02-18
+due-date: 2020-02-24
 time: "1 Class Period"
 points: 10
-upload-files: https://www.dropbox.com/request/6hO0poR1aI6osfI9k1EZ
+upload-files: https://www.dropbox.com/request/MQp6lK1fknBPKo5Ip5aE
 assets: 
 ---
 
@@ -37,9 +37,9 @@ The other purpose for determining User Flow is create a Site Map. The site map i
     - Explain and defend design choices through formal presentations.
 
 #### Assessment Rubric
-- If you received **8&ndash;10 points** you correctly identified the major pages and flow of the tasks in the allotted time.
-- If you received **4&ndash;7 points** your mostly identified the major pages and flow of the tasks in the allotted time.
-- If you received **0&ndash;3 points** you only identified a few of the major pages and flow of the tasks in the allotted time.
+- If you received **4&ndash;5 points** you correctly identified the major pages and flow of the tasks in the allotted time.
+- If you received **2&ndash;3 points** your mostly identified the major pages and flow of the tasks in the allotted time.
+- If you received **0&ndash;1 points** you only identified a few of the major pages and flow of the tasks in the allotted time.
 
 ### Resources
 - [UX Flowchart Cards](https://www.uxflowcharts.com/shop/ux-flowchart-cards-deck/)
@@ -73,9 +73,9 @@ Once you gathered the necessary content, your next job will be to group and orga
     - Explain and defend design choices through formal presentations.
 
 #### Assessment Rubric
-- If you received between **8&ndash;10 points** you successfully created wireframes that demonstrated where all the content would go across the five different pages that was easily understandable.
-- If you received between **4&ndash;7 points** you successfully created wireframes that demonstrated where some of the content would go across most of the five different pages that was easily understandable.
-- If you received between **0&ndash;3 points** you unsuccessfully created wireframes that did not demonstrate where all the content would go across the five different pages that was easily understandable.
+- If you received between **4&ndash;5 points** you successfully created wireframes that demonstrated where all the content would go across the five different pages that was easily understandable.
+- If you received between **2&ndash;3 points** you successfully created wireframes that demonstrated where some of the content would go across most of the five different pages that was easily understandable.
+- If you received between **0&ndash;1 points** you unsuccessfully created wireframes that did not demonstrate where all the content would go across the five different pages that was easily understandable.
 
 ### Resources
 - <a href="https://wireframe.cc/" target="_blank" title="Wireframe.cc - minimal wireframing tool">Wireframe.cc - minimal wireframing tool</a>

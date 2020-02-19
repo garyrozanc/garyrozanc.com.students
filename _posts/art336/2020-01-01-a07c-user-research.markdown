@@ -4,10 +4,10 @@ css: assignments
 categories: art336
 title: "A07 - C: User Research"
 date: 2019-02-15 09:00:00
-due-date: 2019-03-04
+due-date: 2020-02-26
 time: "1 Class Period"
 points: 10
-upload-files: https://www.dropbox.com/request/rS0qLgh6nk6oDQRdVkNW
+upload-files: https://www.dropbox.com/request/rpQplT2QaTUAXDXGeFdj
 assets: 
 ---
 
@@ -73,16 +73,16 @@ Your personas need to be saved as PDFs. Please note you will be sharing your per
     - Explain and defend design choices through formal presentations.
 
 #### Assessment Rubric
-- If you received between **8–10 points** you successfully created and presented a thoughtful persona that gave insight into the problems the persona faces from day to day.
-- If you received between **3–7 points** you successfully created and presented a persona that gave some insight into the problems the persona faces from day to day.
-- If you received between **0–2 points** you did not successfully create or present a thoughtful persona that gave insight into the problems the persona faces from day to day.
+- If you received between **4&ndash;5 points** you successfully created and presented a thoughtful persona that gave insight into the problems the persona faces from day to day.
+- If you received between **2&ndash;3 points** you successfully created and presented a persona that gave some insight into the problems the persona faces from day to day.
+- If you received between **0&ndash;1 points** you did not successfully create or present a thoughtful persona that gave insight into the problems the persona faces from day to day.
 
 ## Heuristic Evaluation
 Now that you know the subject of your semester long project, you need to do some real research and use the product or service that you are designing for. To formalize the research you will need to do a <a href="http://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank" title="10 Usability Heuristics for User Interface Design">Heuristic Evaluation</a> while **USING** that product or service in real life context by answering the 10 Usability Heuristics questions listed in the article. Be sure to record your evaluation throughly.
 
 <blockquote>Simply reviewing a “A similar product or service” isn&rsquo;t a viable option for your client or for this project. Don&rsquo;t ask!</blockquote>
 
-Below are the <a href="http://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank" title="10 Usability Heuristics for User Interface Design">10 Usability Heuristics</a> for User Interface Design questions that you will be using to [evaluate the Bmoresponsive website](http://bmoresponsive.com/).
+Below are the <a href="http://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank" title="10 Usability Heuristics for User Interface Design">10 Usability Heuristics</a> for User Interface Design questions that you will be using to evaluate the [devopsdays Baltimore](https://devopsdays.org/events/2020-baltimore/welcome/).
 
 ### 10 Usability Heuristics for User Interface Design
 
@@ -108,9 +108,6 @@ Below are the <a href="http://www.nngroup.com/articles/ten-usability-heuristics/
     - Explain and defend design choices through formal presentations.
 
 #### Assessment Rubric
-This assignment is temporarily on hold.
-<del>
-- If you received between **8–10 points** you successfully conducted a Heuristic Evaluation that thoughtfully considered each of the 10 prompts while using the service, and you created thorough visual documentation of your use of the service before (home) and during (at the conference) the experience.
-- If you received between **3–7 points** you successfully conducted a Heuristic Evaluation that considered most of the 10 prompts while using the service, and you created some visual documentation of your use of the service before (home) and during (at the conference) the experience.
-- If you received between **0–2 points** you did not successfully conducted a Heuristic Evaluation that thoughtfully considered each of the 10 prompts while using the service, or you did not visually document your use of the service before (home) and during (at the conference) the experience.
-</del>
+- If you received between **4&ndash;5 points** you successfully conducted a Heuristic Evaluation that thoughtfully considered each of the 10 prompts while using the service, and you created thorough visual documentation of your use of the service before (home) and during (at the conference) the experience.
+- If you received between **2&ndash;3 points** you successfully conducted a Heuristic Evaluation that considered most of the 10 prompts while using the service, and you created some visual documentation of your use of the service before (home) and during (at the conference) the experience.
+- If you received between **0&ndash;1 points** you did not successfully conducted a Heuristic Evaluation that thoughtfully considered each of the 10 prompts while using the service, or you did not visually document your use of the service before (home) and during (at the conference) the experience.

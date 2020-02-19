@@ -8,6 +8,7 @@ due-date: 2020-02-12
 time: "1 hour 30 minutes"
 points: 10
 upload-files: https://www.dropbox.com/request/G376g2VpJcR4RXagYYtg
+assets:
 ---
 
 Before you begin to put pencil to paper for a design, you need to know more than what the client asked you to design. I&rsquo;m going to use a real world example that I&rsquo;m still looking for the actual source (I read it in a book), but I also heard the story first hand from the actual designer. Early on, VH1&rsquo;s viewership was dropping. To combat this, VH1 was looking for a visual rebrand to help increase viewers and reached out to several design firms. One firm, [AdamsMorioka](http://adamsmorioka.com/), countered with “We could give you a new identity, but we can&rsquo;t guarantee that will increase viewership.” Instead of doing a rebrand, AdamsMorioka came back with the suggestion of coming up with new programming that attracted the audience VH1 wanted to target. Then, this new programming would feed into a new visual identity.

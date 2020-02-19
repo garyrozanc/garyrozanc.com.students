@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A07: Where to Begin Designing for the Web?"
 date: 2019-02-19 09:00:00
-due-date: 2020-03-11
+due-date: 2020-03-04
 time: "5 Class Periods" 
 ---
 
@@ -17,6 +17,13 @@ Now, what makes the first step in the process confusing for me as an instructor&
 To do my best to replicate this, I&rsquo;ve decided to introduce four of these phases/steps in a single class so you know how they are all related. Once introduced, you will have multiple class periods to work on them. The order is not imporatant, since they are happening simultaneously.
 
 - [A07 - A: Content Inventory](a07a-content-inventory.html)
+- A07 - B: Information Architecture
+- A07 - C: User Research
+- A07 - D: Art Direction vs. Graphic Design
+
+<!--
+- [A07 - A: Content Inventory](a07a-content-inventory.html)
 - [A07 - B: Information Architecture](a07b-information-architecture.html)
 - [A07 - C: User Research](a07c-user-research.html)
 - [A07 - D: Art Direction vs. Graphic Design](a07d-art-direction-vs-graphic-design.html)
+-->
