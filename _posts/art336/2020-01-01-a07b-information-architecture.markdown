@@ -52,12 +52,12 @@ The other purpose for determining User Flow is create a Site Map. The site map i
 ## Wireframes
 Wireframes are very different from thumbnails. Yes, they are both visualizations of what a design can look like, but both serve a very different purpose. Wireframes are a visual tool that information architects, content strategists and designers use to organize the flow and hierarchy of content (elements) on a page. The wireframes should be design agnostic, meaning they should not be giving clues as to what the elements on a page look like, rather they should only be showing placement of elements.
 
-<img src="../img/wireframe-sketch-01.jpg" title="Sample Wireframes">
-<img src="../img/wireframe-sketch-02.png" title="Sample Wireframes">
-<img src="../img/wireframe-sketch-03.png" title="Sample Wireframes">
-<img src="../img/wireframe-sketch-04.jpg" title="Sample Wireframes">
-<img src="../img/wireframe-sketch-05.jpg" title="Sample Wireframes">
-<img src="../img/wireframe-sketch-06.png" title="Sample Wireframes">
+<img src="../img/art336-wireframe-sketch-01.jpg" title="Sample Wireframes">
+<img src="../img/art336-wireframe-sketch-02.png" title="Sample Wireframes">
+<img src="../img/art336-wireframe-sketch-03.png" title="Sample Wireframes">
+<img src="../img/art336-wireframe-sketch-04.jpg" title="Sample Wireframes">
+<img src="../img/art336-wireframe-sketch-05.jpg" title="Sample Wireframes">
+<img src="../img/art336-wireframe-sketch-06.png" title="Sample Wireframes">
 
 However, wireframes tend to become visualizations not organizations if you don&#8217;t have any content to organize throughout a page or a site. So, in order for you to create our own wireframes you need to have content. You will be gathering content from sources that we will discuss in class. And just like the real world when you are working with a client you will be given content either from an existing website, from a bunch of Word Docs, PDFs, or who knows what that you will need to review and organize. You can put the content you collect into a Word Doc, Google Docs, etc. for the time being.
 
