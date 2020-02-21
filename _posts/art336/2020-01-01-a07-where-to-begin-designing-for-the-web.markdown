@@ -22,6 +22,50 @@ To do my best to replicate this, I&rsquo;ve decided to introduce four of these p
 - A07 - D: Art Direction vs. Graphic Design
 - A07 - E: Project Scope
 
+## Teams
+### Group 01
+[A07 - A: Content Inventory](a07a-content-inventory.html)
+- Ami
+- Ethan
+- Montse
+- Ryan
+- Ashlee
+- Sean
+
+### Group 02 a.k.a. Pink Kitties
+[A07 - C: User Research - Heuristic Evaluation](a07c-user-research.html)
+- Jen S.
+- Jenny C.
+- Gretchen
+- Hannah
+- Shania
+- Annie
+
+### Group 03
+[A07 - B: Information Architecture - User Flow](a07b-information-architecture.html)
+- Bunmi
+- Greg
+- Biff
+- Jennifer
+- Vicky
+- Jessie
+
+### Group 04
+[A07 - C: User Research - Personas](a07c-user-research.html)
+- Daniel
+- Raquel
+- Liam
+- Mark
+
+### Group 05
+A07 - E: Project Scope
+- Yibei
+- Kyah
+- Kim
+- Matt
+- Aristides
+- Caddain
+
 <!--
 - [A07 - A: Content Inventory](a07a-content-inventory.html)
 - [A07 - B: Information Architecture](a07b-information-architecture.html)

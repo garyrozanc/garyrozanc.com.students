@@ -15,7 +15,7 @@ Full disclosure, I&rsquo;m getting a lot of [this material from Dan Mall](https:
 
 As a graphic designer you want to get on the same page visually as the client early on before you get too far into the visual design process. While showing a client a bunch of different versions of business card isn&rsquo;t necessarily prohibitive, trying to do that with a website is. Fortunately there are multiple ways to get on the same page as your client visually before you begin to design. Since you are in the very beginning stages of the project and don&rsquo;t have content to design yet, take advantage of this time by determining the Art Direction of the website. Determining the art direction before you start designing will save a lot of unnecessary back and forth during the critical design phase.
 
-So, what is “Art Direction,” and how is it different than “Graphic Design?” I like Dan Mall&rsquo;s explanation that everyone is an art director, but not everyone is a designer. For example, there isn&rsquo;t a single person who isn&rsquo;t visually impaired who can not see the distinct visual direction of the following two images.
+So, what is &ldquo;Art Direction,&rdquo; and how is it different than &ldquo;Graphic Design?&rdquo; I like Dan Mall&rsquo;s explanation that everyone is an art director, but not everyone is a designer. For example, there isn&rsquo;t a single person who isn&rsquo;t visually impaired who can not see the distinct visual direction of the following two images.
 
 ![Examples of Art Direction](../img/art336-art-direction-clown-01.jpg)
 
@@ -23,23 +23,23 @@ So, what is “Art Direction,” and how is it different than “Graphic Design?
 
 Clearly the first image of the clown is meant to scare the heck out of you. The second image is clearly meant to be fun. In a nutshell, this is art direction, and it can be figured out before any design is done! If anyone can describe art direction, why do you need to figure it out before you design? Well, while everyone understands art direction, not everyone has the same definition of ambiguous terms. For example, what would you do if your client said they wanted the project&rsquo;s art direction to be funny? Everyone knows what funny is, but everyone has a different interpretation of what funny could look like.
 
-![Examples of “Funny” Art Direction](../img/art336-art-direction-funny-01.jpg)
+![Examples of &ldquo;Funny&rdquo; Art Direction](../img/art336-art-direction-funny-01.jpg)
 
-![Examples of “Funny” Art Direction](../img/art336-art-direction-funny-02.jpeg)
+![Examples of &ldquo;Funny&rdquo; Art Direction](../img/art336-art-direction-funny-02.jpeg)
 
-_Blades of Glory_ and _Napoleon Dynamite_ are both considered very funny movies. However, they have totally different approaches to funny. Let&rsquo;s image that your client asked for funny, and you delivered the Napoleon Dynamite version of funny and they hated it because they were expecting Blades of Glory funny. You just wasted a ton of time making visual mockups to determine that you wren&rsquo;t on the same page as your client.
+_Blades of Glory_ and _Napoleon Dynamite_ are both considered very funny movies. However, they have totally different approaches to funny. Let&rsquo;s image that your client asked for funny, and you delivered the _Napoleon Dynamite_ version of funny and they hated it because they were expecting _Blades of Glory_ funny. You just wasted a ton of time making visual mockups to determine that you were not on the same page as your client.
 
-Another example, and the one I most often hear clients say, is they want something “clean”. As graphic designer who is fascinated with the history of design, I guarantee that my interpretation of the term clean is vastly different from my client. Personally, when I hear the term “clean” I think of a basic white space with very little decoration or furniture.
+Another example, and the one I most often hear clients say, is they want something &ldquo;clean&rdquo;. As graphic designer who is fascinated with the history of design, I guarantee that my interpretation of the term clean is vastly different from my client. Personally, when I hear the term &ldquo;clean&rdquo; I think of a basic white space with very little decoration or furniture.
 
-![Examples of “Clean” Art Direction](../img/art336-art-direction-clean-01.jpg)
+![Examples of &ldquo;Clean&rdquo; Art Direction](../img/art336-art-direction-clean-01.jpg)
 
-Now, if I were to follow the client&rsquo;s preferred art direction of “clean”, but with my visual interpretation they could hate it, especially if they were expecting one of these versions of “clean”. 
+Now, if I were to follow the client&rsquo;s preferred art direction of &ldquo;clean&rdquo;, but with my visual interpretation they could hate it, especially if they were expecting one of these versions of &ldquo;clean&rdquo;. 
 
-![Examples of “Clean” Art Direction](../img/art336-art-direction-clean-02.jpg)
+![Examples of &ldquo;Clean&rdquo; Art Direction](../img/art336-art-direction-clean-02.jpg)
 
-![Examples of “Clean” Art Direction](../img/art336-art-direction-clean-03.jpg)
+![Examples of &ldquo;Clean&rdquo; Art Direction](../img/art336-art-direction-clean-03.jpg)
 
-![Examples of “Clean” Art Direction](../img/art336-art-direction-clean-04.jpg)
+![Examples of &ldquo;Clean&rdquo; Art Direction](../img/art336-art-direction-clean-04.jpg)
 
 Finally, if Art Direction is the feel (a major oversimplification), what is design? We will talk about  design as the semester goes along, but for now I leave you with this example. One of these images nails the art direction, but miserably fails at design. The other image arguably nails the design, but massively fails at the art direction. I will let you guess as to which one is which.
 
