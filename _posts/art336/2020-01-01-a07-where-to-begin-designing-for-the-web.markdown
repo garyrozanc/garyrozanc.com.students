@@ -20,7 +20,7 @@ To do my best to replicate this, I&rsquo;ve decided to introduce four of these p
 - [A07 - B: Information Architecture](a07b-information-architecture.html)
 - [A07 - C: User Research](a07c-user-research.html)
 - A07 - D: Art Direction vs. Graphic Design
-- A07 - E: Project Scope
+- [A07 - E: Project Scope](https://garyrozanc.com/students/art336/a07e-project-scope.html)
 
 ## Teams
 ### Group 01
