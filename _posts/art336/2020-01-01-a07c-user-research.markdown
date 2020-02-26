@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A07 - C: User Research"
 date: 2019-02-15 09:00:00
-due-date: 2020-02-26
+due-date: 2020-02-27
 time: "1 Class Period"
 points: 10
 upload-files: https://www.dropbox.com/request/rpQplT2QaTUAXDXGeFdj
