@@ -485,6 +485,14 @@
 		"oAP": "/_posts/art336/2020-01-01-a07d-art-direction-vs-graphic-design.markdown",
 		"oF": 0
 		},
+	"/_posts/art336/2020-01-01-a07e-project-scope.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/art336/2020-01-01-a07e-project-scope.markdown",
+		"oF": 0
+		},
 	"/_posts/art336/2020-01-01-a08-element-collage.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -501,12 +509,12 @@
 		"oAP": "/_posts/art336/2020-01-01-a09-design-systems.markdown",
 		"oF": 0
 		},
-	"/_posts/art336/2020-01-01-a10-static-mockups-and-prototypes.markdown": {
+	"/_posts/art336/2020-01-01-a10-websites-mockups.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_posts/art336/2020-01-01-a10-static-mockups-and-prototypes.markdown",
+		"oAP": "/_posts/art336/2020-01-01-a10-websites-mockups.markdown",
 		"oF": 0
 		},
 	"/_posts/art336/2020-01-01-a11-client-presentation.markdown": {
@@ -717,6 +725,14 @@
 		"oAP": "/_site/art336/a07d-art-direction-vs-graphic-design.html",
 		"oF": 0
 		},
+	"/_site/art336/a07e-project-scope.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/art336/a07e-project-scope.html",
+		"oF": 0
+		},
 	"/_site/art336/a08-element-collage.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -733,12 +749,12 @@
 		"oAP": "/_site/art336/a09-design-systems.html",
 		"oF": 0
 		},
-	"/_site/art336/a10-static-mockups-and-prototypes.html": {
+	"/_site/art336/a10-websites-mockups.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_site/art336/a10-static-mockups-and-prototypes.html",
+		"oAP": "/_site/art336/a10-websites-mockups.html",
 		"oF": 0
 		},
 	"/_site/art336/a11-client-presentation.html": {
