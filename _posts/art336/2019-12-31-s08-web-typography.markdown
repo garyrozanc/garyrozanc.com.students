@@ -23,7 +23,7 @@ HTML is considered the “Structure” layer. Using HTML tags, you define specif
 
 Where HTML falls short is how it typographically styles the marked up content. If you were to leave the default styling of a longer headline marked up with a <code>&lt;h3&gt;</code> tag, it could easily be mistaken for a pull quote. However, before you learn how to use CSS to change the default “Presentation”, you need to know the common HTML tags that affect the visual hierarchy of typography as well as the tag&rsquo;s contextual function in search results. This and more will be covered in-depth in the following screencasts on HTML.
 
-You will need to download these <a href="../downloads/art336-typographic-hierarchy-page-template.zip" target="_blank" title="Template">starter template files</a>!
+You will need to download these <a href="https://garyrozanc.com/students/downloads/art336-typographic-hierarchy-page.zip" target="_blank" title="Template">starter template files</a>!
 
 ### Part 01 of 19
 <div class="video-wrapper">
@@ -165,7 +165,7 @@ In the following screencasts you will learn to use CSS selectors to target basic
 - <a href="https://css-tricks.com/snippets/css/system-font-stack/" target="_blank" title="System Font Stack | CSS-Tricks">System Font Stack | CSS-Tricks</a>
 - <a href="https://www.cssfontstack.com/" target="_blank" title="CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code.">CSS Font Stack: Web Safe and Web Font Family with HTML and CSS code.</a>
 - <a href="https://abookapart.com/products/css3-for-web-designers" title="A Book Apart, CSS3 for Web Designers" target="_blank">CSS3 for Web Designers</a> by Dan Cederholm
-- <a href="../downloads/art336-typographic-hierarchy-page-template.zip" target="_blank" title="Template">Template Files</a>
+- <a href="https://garyrozanc.com/students/downloads/art336-typographic-hierarchy-page.zip" target="_blank" title="Template">Template Files</a>
 - <a href="https://www.webpagetest.org/" target="_blank" title="WebPagetest - Website Performance and Optimization Test">WebPagetest - Website Performance and Optimization Test</a>
 
 ## Footnotes
