@@ -21,7 +21,16 @@ So, what is &ldquo;Art Direction,&rdquo; and how is it different than &ldquo;Gra
 
 ![Examples of Art Direction](../img/art336-art-direction-clown-02.jpg)
 
-Clearly the first image of the clown is meant to scare the heck out of you. The second image is clearly meant to be fun. In a nutshell, this is art direction, and it can be figured out before any design is done! If anyone can describe art direction, why do you need to figure it out before you design? Well, while everyone understands art direction, not everyone has the same definition of ambiguous terms. For example, what would you do if your client said they wanted the project&rsquo;s art direction to be funny? Everyone knows what funny is, but everyone has a different interpretation of what funny could look like.
+Clearly the first image of the clown is meant to scare the heck out of you. The second image is clearly meant to be fun. In a nutshell, this is art direction, and it can be figured out before any design is done! At the time of me writing this, even my 9 month old daughter notices the difference in art direction between these two cartoons!
+
+![Examples of Art Direction](../img/art336-art-direction-battle-01.jpg)
+
+![Examples of Art Direction](../img/art336-art-direction-battle-02.jpg)
+
+Hint: she doesn&rsquo;t like Clone Wars, but Likes Dragon Ball Z.
+
+
+If anyone can describe art direction, why do you need to figure it out before you design? Well, while everyone understands art direction, not everyone has the same definition of ambiguous terms. For example, what would you do if your client said they wanted the project&rsquo;s art direction to be funny? Everyone knows what funny is, but everyone has a different interpretation of what funny could look like.
 
 ![Examples of &ldquo;Funny&rdquo; Art Direction](../img/art336-art-direction-funny-01.jpg)
 
@@ -94,6 +103,6 @@ This assignment will be worth 20. You must make a minimum of 2 style tiles to be
 - <a href="http://styletil.es/" target="_blank" title="Style Tiles">Style Tiles</a>
 - <a href="http://alistapart.com/article/style-tiles-and-how-they-work" target="_blank" title="Style Tiles and How They Work · An A List Apart Article">Style Tiles and How They Work</a>
 - <a href="https://vimeo.com/115992327" target="_blank" title="Faster Design Decisions with Style Tiles by Samantha Warren - An Event Apart Video on Vimeo">Faster Design Decisions with Style Tiles by Samantha Warren</a> _50 min_
-- <a href="/downloads/style-tile-example-01.pdf" target="_blank" title="Example Student Style Tile">Example Student Style Tile</a>
+- <a href="../downloads/art336-style-tile-example-01.pdf" target="_blank" title="Example Student Style Tile">Example Student Style Tile</a>
 - <a href="https://dribbble.com/tags/style_tile" target="_blank" title="Example Style Tile">Example Style Tiles</a>
 - <a href="http://alistapart.com/article/client-relationships-and-the-multi-device-web" target="_blank" title="Client Relationships and the Multi-Device Web">Client Relationships and the Multi-Device Web</a>
