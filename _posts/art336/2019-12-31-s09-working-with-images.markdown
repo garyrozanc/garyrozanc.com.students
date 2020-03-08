@@ -4,11 +4,11 @@ css: assignments
 categories: art336
 title: "S09: Working With Images"
 date: 2019-01-29 09:00:00
-due-date: 2019-03-06
+due-date: 2020-03-25
 time: "3 hours"
 points: 40
 upload-files: 
-assets: https://www.dropbox.com/s/9nqbo6yqtbolu6t/art336-working-with-images.zip?dl=0
+assets: https://garyrozanc.com/downloads/art336-working-with-images-assets.zip
 ---
 
 Designers love to use big hero images when designing a website. I&rsquo;m not going to debate the merits of the use of hero images—or any images for that matter—in a web page design. Images certainly have their place, but they can also cause big problems for the site&rsquo;s visitor if not done correctly.

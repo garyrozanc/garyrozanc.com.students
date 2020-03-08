@@ -15,6 +15,21 @@ $border-radius: 2px;
 @import url("https://use.typekit.net/uft2pcb.css");
 
 @mixin font-body {
+    font-family: freight-sans-pro, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+@mixin font-body-italic {
+	font-style: italic;
+}
+
+@mixin font-body-medium {
+	font-weight: 500;
+}
+
+/*
+@mixin font-body {
     font-family: proxima-nova, verdana, helvetica, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -27,6 +42,7 @@ $border-radius: 2px;
 @mixin font-body-medium {
 	font-weight: 500;
 }
+*/
 
 @mixin font-h5 {
 	font-family: vista-slab, serif;
@@ -55,7 +71,8 @@ $border-radius: 2px;
 @mixin font-h1 {
 	font-family: vista-slab, serif;
 	font-weight: 700;
-	font-style: normal;
+	//font-style: normal;
+	font-style: italic;
 }
 
 @mixin font-headline {
