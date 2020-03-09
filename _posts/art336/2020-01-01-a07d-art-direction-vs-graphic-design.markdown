@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A07 - D: Art Direction vs. Graphic Design"
 date: 2019-02-19 09:00:00
-due-date: 2020-03-04
+due-date: 2020-03-23
 time: "2 Class Periods"
 points: 20
 upload-files: https://www.dropbox.com/request/5QSpq3EtzGYgpil9HNAv
