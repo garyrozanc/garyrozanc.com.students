@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A09: Design System"
 date: 2019-03-24 09:00:00
-due-date: 2019-04-29
+due-date: 2019-04-20
 time: "Class & Home Work"
 points: 60
 upload-files: https://www.dropbox.com/request/Q6XORtJRwOBrEW5nKTa8
@@ -15,8 +15,6 @@ assets:
 
 ## Design Systems
 - <a href="https://www.invisionapp.com/design-system-manager/expert-advice" title="Design Systems Video Series | Master Product Design at Scale" target="_blank">Design Systems Video Series</a>
-- <a href="http://forge.dosomething.org/" title="Pattern Library | DoSomething.org" target="_blank">Pattern Library – DoSomething.org</a>
-- <a href="https://airbnb.design/building-a-visual-language/" title="Building a Visual Language – Airbnb Design" target="_blank">Building a Visual Language – Airbnb Design</a>
 
 ## Grading
 

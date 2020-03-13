@@ -4,7 +4,7 @@ css: assignments
 categories: art336
 title: "A08: Element Collage"
 date: 2019-03-08 09:00:00
-due-date: 2019-04-01
+due-date: 2019-04-06
 time: "Class & Home Work"
 points: 70
 upload-files: https://www.dropbox.com/request/xNiZxsKbBD27mH691BYj
@@ -34,8 +34,7 @@ To help you visualize what an Element Collage is, I&rsquo;ve found a few example
 
 ![Examples of Element Collages](../img/art336-element-collage-06.jpg)
 
-## Design Systems
-- <a href="https://www.invisionapp.com/design-system-manager/expert-advice" title="Design Systems Video Series | Master Product Design at Scale" target="_blank">Design Systems Video Series</a>
+## Examples of Elements in a Pattern Library or Design System
 - <a href="http://forge.dosomething.org/" title="Pattern Library | DoSomething.org" target="_blank">Pattern Library – DoSomething.org</a>
 - <a href="https://airbnb.design/building-a-visual-language/" title="Building a Visual Language – Airbnb Design" target="_blank">Building a Visual Language – Airbnb Design</a>
 
