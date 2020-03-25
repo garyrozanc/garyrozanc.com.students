@@ -8,7 +8,7 @@ due-date: 2020-03-25
 time: "3 hours"
 points: 40
 upload-files: 
-assets: https://garyrozanc.com/downloads/art336-working-with-images-assets.zip
+assets: https://garyrozanc.com/students/downloads/art336-working-with-images-assets.zip
 ---
 
 Designers love to use big hero images when designing a website. I&rsquo;m not going to debate the merits of the use of hero images—or any images for that matter—in a web page design. Images certainly have their place, but they can also cause big problems for the site&rsquo;s visitor if not done correctly.
