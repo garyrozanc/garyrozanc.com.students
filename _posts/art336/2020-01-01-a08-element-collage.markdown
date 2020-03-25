@@ -3,13 +3,18 @@ layout: post
 css: assignments
 categories: art336
 title: "A08: Element Collage"
-date: 2019-03-08 09:00:00
-due-date: 2019-04-06
+date: 2020-03-24 09:00:00
+due-date: 2020-04-06
 time: "Class & Home Work"
 points: 70
 upload-files: https://www.dropbox.com/request/xNiZxsKbBD27mH691BYj
 assets: 
 ---
+
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/T0dAEy20WWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+[Download the Video File](https://www.dropbox.com/s/ci8hac1two4aivc/a08-element-collage.mp4?dl=0)
 
 ## Do not start unless…
 Before you begin to design elements, you need to know what elements will need to be designed! While some elements—icons and headlines with body copy—are universal, many aren&rsquo;t. Even more important, your elements are not random visuals. They serve a purpose, wether to increase sales or donations, increase the average time on a page, or get newsletter signups. Therefore, you need to know what elements to design and their key functions. Both pieces of information come from the [Information Architecture](https://gary.is/art336/a07b-information-architecture.html) phase. So, before you start designing, make sure you have your wireframes! 
