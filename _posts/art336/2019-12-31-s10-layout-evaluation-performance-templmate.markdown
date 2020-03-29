@@ -4,11 +4,10 @@ css: assignments
 categories: art336
 title: "S10: Layout & Performance Evaluation Template"
 date: 2019-01-29 09:00:00
-due-date: 2019-03-25
+due-date: 2020-04-13
 time: "3 hours"
-points: 50
-upload-files: 
-assets: https://www.dropbox.com/s/e3mpve87srtg9i5/art336-layout-evaluation-template.zip?dl=0
+points: 50 
+assets: https://garyrozanc.com/students/downloads/art336-layout-evaluation-template.zip
 ---
 
 This is perhaps the most important part of the entire process. The method and tools discussed in this screencast demonstrate a quick and easy way for you to test your design ideas _before_ you begin the visual design process and potentially waste your time on an idea that was _never_ going to work once turned into live code. 
@@ -56,6 +55,6 @@ Sorry for the brevity, but you will need <a href="../downloads/art336-layout-eva
     - Assess interactive prototypes for responsive web design principles.
 
 ### Assessment Rubric
-- If you received **34&ndash;50 points** you successfully…
-- If you received **1&ndash;33 points** you did not successfully…
-- If you received between **0 points** you did not complete the assignment.
+- If you received **34&ndash;50 points** you successfully used the template to test multiple layouts for the final website design and determined what elements that will need to have multiple breakpoints. You also uploaded the template to your class hosting account and added it to the assignment index.html page.
+- If you received **1&ndash;33 points** you  used the template to test one layout for the final website design and determined one or two elements that will need to have multiple breakpoints. You did not uploaded the template to your class hosting account or add it to the assignment index.html page.
+- If you received **0 points** you did not complete the assignment.
