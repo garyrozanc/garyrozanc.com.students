@@ -29,7 +29,7 @@ You will need to download these <a href="https://garyrozanc.com/students/downloa
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/LSyjiLzALBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-[Download the Video File](https://drive.google.com/open?id=1vm1Yn-Ae5FzGN5wqW1s71-YgIArGHxIH)
+[Download the Video File](https://drive.google.com/open?id=12Xd0-YESUObRusJoyeZbkTnqR_wOfHU_)
 
 ### Part 02 of 19
 <div class="video-wrapper">
