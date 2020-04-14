@@ -14,7 +14,6 @@ assets:
 ## Coming Soon
 
 ## Design Systems
-- <a href="https://www.invisionapp.com/design-system-manager/expert-advice" title="Design Systems Video Series | Master Product Design at Scale" target="_blank">Design Systems Video Series</a>
 
 ## Grading
 
@@ -33,4 +32,5 @@ assets:
 - If you received between **0&ndash;19 points** you did not ...
 
 ## Resources
-[Getting Started with Design Systems](https://xd.adobe.com/ideas/principles/design-systems/introduction-to-design-systems/)
+- [Getting Started with Design Systems](https://xd.adobe.com/ideas/principles/design-systems/introduction-to-design-systems/)
+- [Design Systems Video Series](https://www.invisionapp.com/design-system-manager/expert-advice)
