@@ -2,7 +2,7 @@
 layout: post
 css: assignments
 categories: art336
-title: "S08: Web Typography"
+title: "S08: Web Typography Hierarchy Page"
 date: 2019-01-29 09:00:00
 due-date: 2020-03-09
 time: "6 hours"
