@@ -11,22 +11,27 @@ upload-files: https://www.dropbox.com/request/Q6XORtJRwOBrEW5nKTa8
 assets: 
 ---
 
+<div class="video-wrapper">
+	<iframe width="1280" height="720" src="https://youtu.be/sF09Xl-E2Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+~~[Download the Video File](https://www.dropbox.com/s/ci8hac1two4aivc/a09-design-systems-pattern-libraries-and-style-guides?dl=0)~~
+
 You have heard me mention Design Systems and Pattern Libraries in class, a lot. I go back and forth between these two terms because what we are going to do is neither of these! Why is it neither? Well, in short, a Design System is far more comprehensive than what we will achieve during the course of the semester. However, we are doing a little more than would be part of a Pattern Library (context to the visual design), but also less since we are not writing HTML and CSS. Plus, we are doing some of what would be found in a Style or Brand Guide. Unfortunately, what we are doing does not fit neatly into a Style Guide because we are addressing more than the visual style of Devopsdays Baltimore. 
 
 &ldquo;Ugh&hellip;so what are we doing?&rdquo; Going forward, I think I am going to stick with the term &ldquo;Pattern Library&rdquo; to classify the work you are doing. Well, at least until I change my mind again. The rational is this, we are doing way more than a Style Guide. While we are talking about some of the ideas that go into a Design System, we are not making a complete Design System. Ultimately, you will be producing most of what goes into a Pattern Library, minus the coding, with the knowledge of what keeps your Pattern Library from being a Design System.
 
 Now, if what you just read does not help, I have stolen some definitions I found on [Jesse Showalter&rsquo;s YouTube channel](https://www.youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ) to try and clarify the difference. **FYI: someone forgot to style the definition list.**
 
-Design Systems 
-: The comprehensive set of values, semantics, syntax, and context that form the foundation of a shared design language.
-- [Animal Planet Style Guide](https://logoblink.com/img/2009/01/animal_planet1.pdf)
-	
-Pattern Libraries
+Style Guides	
 : The physical or digital document that represents the styles, patterns, practices, and principles of a company or brand and teaches how to use it.
+- [Animal Planet Style Guide](https://logoblink.com/img/2009/01/animal_planet1.pdf)
+
+Pattern Libraries
+: An organized set of related, reusable, components, often containing code examples, design guidelines, and use cases.
 - [Mail Chimp Pattern Library](https://ux.mailchimp.com/patterns/color)
 
-Style Guides
-: An organized set of related, reusable, components, often containing code examples, design guidelines, and use cases.
+Design Systems 
+: The comprehensive set of values, semantics, syntax, and context that form the foundation of a shared design language.
 - [Lightning Design System](https://www.lightningdesignsystem.com/)
 
 If you read the definitions, and looked at the examples, you should already know what is missing from your Pattern Library! You are missing Grid Systems and Typography. Guess what, remember the gridded notebooks I gave you in class? Using those gridded notebooks and and the lessons learned in the screencasts, specifically [S10: Layout & Performance Evaluation Template](https://garyrozanc.com/students/art336/s10-layout-evaluation-performance-templmate.html) you are going to create a grid system for your Pattern Library. You are also going to create [S07: Webfont Specimen Evaluation Pages](https://garyrozanc.com/students/art336/s07-webfont-specimen-evaluation-page.html) and a [S08: Web Typography Hierarchy Page](https://garyrozanc.com/students/art336/s08-web-typography.html) to round out your Pattern Library.
