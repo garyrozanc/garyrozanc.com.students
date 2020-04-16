@@ -14,7 +14,7 @@ assets:
 <div class="video-wrapper">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/sF09Xl-E2Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-Still uploading as of 12:24 pm, with an ETA of 1:16 pm. ~~[Download the Video File](https://www.dropbox.com/s/vqxog3z38tr98fw/a09-design-systems-pattern-libraries-and-style-guides.mp4?dl=0)~~
+[Download the Video File](https://www.dropbox.com/s/vqxog3z38tr98fw/a09-design-systems-pattern-libraries-and-style-guides.mp4?dl=0)
 
 You have heard me mention Design Systems and Pattern Libraries in class, a lot. I go back and forth between these two terms because what we are going to do is neither of these! Why is it neither? Well, in short, a Design System is far more comprehensive than what we will achieve during the course of the semester. However, we are doing a little more than would be part of a Pattern Library (context to the visual design), but also less since we are not writing HTML and CSS. Plus, we are doing some of what would be found in a Style or Brand Guide. Unfortunately, what we are doing does not fit neatly into a Style Guide because we are addressing more than the visual style of Devopsdays Baltimore. 
 
