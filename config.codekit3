@@ -7,7 +7,7 @@
 		"uuidString": "64604324-6AC8-42E5-8F10-F18EC7D4DB42"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "32001",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -887,86 +887,6 @@
 		"oAP": "/_site/dashboard/uploads/index.php",
 		"oF": 0
 		},
-	"/_site/downloads/art336-boilerplate.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-boilerplate.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-font-specimen-evaluation-page.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-font-specimen-evaluation-page.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-layout-evaluation-template.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-layout-evaluation-template.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-moodboard-deck-templates.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-moodboard-deck-templates.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-tracing-atomic-design.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-tracing-atomic-design.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-typographic-hierarchy-page-template.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-typographic-hierarchy-page-template.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-typographic-hierarchy.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-typographic-hierarchy.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-wireframing-kits.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-wireframing-kits.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-working-with-images-assets.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-working-with-images-assets.zip",
-		"oF": 0
-		},
-	"/_site/downloads/art336-working-with-images.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/downloads/art336-working-with-images.zip",
-		"oF": 0
-		},
 	"/_site/gradebook/admin-approve.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -1029,22 +949,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_site/gradebook/advising.php",
-		"oF": 0
-		},
-	"/_site/gradebook/api.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/gradebook/api.php",
-		"oF": 0
-		},
-	"/_site/gradebook/db.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/gradebook/db.php",
 		"oF": 0
 		},
 	"/_site/gradebook/gradebook.php": {
@@ -1789,86 +1693,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_site/webfonts/EcoCoding-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/EcoCoding-webfont.woff",
-		"oF": 0
-		},
-	"/_site/webfonts/EcoCoding-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/EcoCoding-webfont.woff2",
-		"oF": 0
-		},
-	"/_site/webfonts/proximanova-light-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/proximanova-light-webfont.woff",
-		"oF": 0
-		},
-	"/_site/webfonts/proximanova-light-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/proximanova-light-webfont.woff2",
-		"oF": 0
-		},
-	"/_site/webfonts/proximanova-lightit-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/proximanova-lightit-webfont.woff",
-		"oF": 0
-		},
-	"/_site/webfonts/proximanova-lightit-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/proximanova-lightit-webfont.woff2",
-		"oF": 0
-		},
-	"/_site/webfonts/proximanova-semibold-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/proximanova-semibold-webfont.woff",
-		"oF": 0
-		},
-	"/_site/webfonts/proximanova-semibold-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/proximanova-semibold-webfont.woff2",
-		"oF": 0
-		},
-	"/_site/webfonts/proximanovacond-black-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/proximanovacond-black-webfont.woff",
-		"oF": 0
-		},
-	"/_site/webfonts/proximanovacond-black-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_site/webfonts/proximanovacond-black-webfont.woff2",
-		"oF": 0
-		},
 	"/assignments.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1886,86 +1710,6 @@
 		"oAP": "/css/main-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"/downloads/art336-boilerplate.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-boilerplate.zip",
-		"oF": 0
-		},
-	"/downloads/art336-font-specimen-evaluation-page.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-font-specimen-evaluation-page.zip",
-		"oF": 0
-		},
-	"/downloads/art336-layout-evaluation-template.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-layout-evaluation-template.zip",
-		"oF": 0
-		},
-	"/downloads/art336-moodboard-deck-templates.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-moodboard-deck-templates.zip",
-		"oF": 0
-		},
-	"/downloads/art336-tracing-atomic-design.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-tracing-atomic-design.zip",
-		"oF": 0
-		},
-	"/downloads/art336-typographic-hierarchy-page-template.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-typographic-hierarchy-page-template.zip",
-		"oF": 0
-		},
-	"/downloads/art336-typographic-hierarchy.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-typographic-hierarchy.zip",
-		"oF": 0
-		},
-	"/downloads/art336-wireframing-kits.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-wireframing-kits.zip",
-		"oF": 0
-		},
-	"/downloads/art336-working-with-images-assets.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-working-with-images-assets.zip",
-		"oF": 0
-		},
-	"/downloads/art336-working-with-images.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/downloads/art336-working-with-images.zip",
-		"oF": 0
 		},
 	"/gradebook/admin-approve.php": {
 		"cB": 0,
@@ -2029,22 +1773,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/gradebook/advising.php",
-		"oF": 0
-		},
-	"/gradebook/api.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/gradebook/api.php",
-		"oF": 0
-		},
-	"/gradebook/db.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/gradebook/db.php",
 		"oF": 0
 		},
 	"/gradebook/gradebook.php": {
@@ -2804,86 +2532,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"/webfonts/EcoCoding-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/EcoCoding-webfont.woff",
-		"oF": 0
-		},
-	"/webfonts/EcoCoding-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/EcoCoding-webfont.woff2",
-		"oF": 0
-		},
-	"/webfonts/proximanova-light-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/proximanova-light-webfont.woff",
-		"oF": 0
-		},
-	"/webfonts/proximanova-light-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/proximanova-light-webfont.woff2",
-		"oF": 0
-		},
-	"/webfonts/proximanova-lightit-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/proximanova-lightit-webfont.woff",
-		"oF": 0
-		},
-	"/webfonts/proximanova-lightit-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/proximanova-lightit-webfont.woff2",
-		"oF": 0
-		},
-	"/webfonts/proximanova-semibold-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/proximanova-semibold-webfont.woff",
-		"oF": 0
-		},
-	"/webfonts/proximanova-semibold-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/proximanova-semibold-webfont.woff2",
-		"oF": 0
-		},
-	"/webfonts/proximanovacond-black-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/proximanovacond-black-webfont.woff",
-		"oF": 0
-		},
-	"/webfonts/proximanovacond-black-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/webfonts/proximanovacond-black-webfont.woff2",
-		"oF": 0
 		}
 	},
 "hooks": [
@@ -2899,6 +2547,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -2910,6 +2559,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -3049,6 +2699,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -3080,6 +2733,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -3174,11 +2830,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -3323,6 +2978,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -3427,6 +3083,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-param-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"dot-location": {
 			"active": 0,
 			"optionString": "'object'"
@@ -3478,6 +3138,10 @@
 		"global-require": {
 			"active": 0,
 			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
 			"active": 0,
@@ -3655,6 +3319,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -3680,6 +3348,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -3773,6 +3445,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -3979,6 +3655,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-setter-return": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-shadow": {
 			"active": 0,
 			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
@@ -4183,6 +3863,14 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -4194,6 +3882,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -4803,7 +4495,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -4936,8 +4627,16 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 1,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
