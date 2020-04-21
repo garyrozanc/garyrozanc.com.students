@@ -38,6 +38,14 @@ If you read the definitions, and looked at the examples, you should already know
 
 In addition to the Grid Systems and Typography, you will also need to build out the element collage, focusing on a single visual design (in theory approved by the client). If you diligently design all of these parts of the Pattern Library when it comes time to make webpage mockups to show the client, all you will need to do is cut and paste. This also assumes you properly setup [Components](https://www.youtube.com/watch?v=qrsuk6zl8B8) and [Assets](https://www.youtube.com/watch?v=2BhSwGXvslc) in Adobe Xd.
 
+### What you will be truning in.
+- A Pattern Library in Adobe Xd containing the following:
+    - All the necessary elements to build DevOps Days Baltimore.
+    - Page templates for at minimum the Home/Index, Sponsor, and Schedule pages.
+- A [Web Typography Hierarchy Page](https://garyrozanc.com/students/art336/s08-web-typography.html) substituted with the fonts used in your Pattern Library.
+- A [Webfont Specimen Evaluation Page](https://garyrozanc.com/students/art336/s07-webfont-specimen-evaluation-page.html) for each font used in your Pattern Library.
+- A [Layout & Performance Evaluation Template](https://garyrozanc.com/students/art336/s10-layout-evaluation-performance-templmate.html) page demonstrating how you determined your grid structurer.
+
 ## Grading
 
 ### Learning Objectives Applied
@@ -59,3 +67,4 @@ In addition to the Grid Systems and Typography, you will also need to build out 
 - [Design Systems Video Series](https://www.invisionapp.com/design-system-manager/expert-advice)
 - [Student Samples - Element Collage](https://garyrozanc.com/students/downloads/art336-element-collage-student-example.zip)
 - [Student Samples - Website Mockups](http://garyrozanc.com/students/downloads/art336-mockups-student-example.zip)
+- [Pattern Lab](https://demo.patternlab.io)
