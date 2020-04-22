@@ -10,6 +10,17 @@ points: 50
 assets: https://garyrozanc.com/students/downloads/art336-layout-evaluation-template.zip
 ---
 
+## This is an extra demo uploaded 04.22.2020
+<div class="video-wrapper">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/-f0S-fSw6Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+[Download the Video File](https://www.dropbox.com/s/ymsyigth0fyjg3d/s10-update-part-01-to-layout-and-performance-evaluation-template.mp4?dl=0)
+
+<div class="video-wrapper">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/jxOEXYX1-LQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Maybe in an hour or two [Download the Video File](https://www.dropbox.com/s/mqju64an8hlbo9e/s10-update-part-02-to-layout-and-performance-evaluation-template.mp4?dl=0)?
+
 This is perhaps the most important part of the entire process. The method and tools discussed in this screencast demonstrate a quick and easy way for you to test your design ideas _before_ you begin the visual design process and potentially waste your time on an idea that was _never_ going to work once turned into live code. 
 
 Sorry for the brevity, but you will need <a href="../downloads/art336-layout-evaluation-template.zip" target="_blank" title="Evaluation Framework Files">these files</a> to follow along with this screencast.
