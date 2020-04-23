@@ -38,6 +38,11 @@ If you read the definitions, and looked at the examples, you should already know
 
 In addition to the Grid Systems and Typography, you will also need to build out the element collage, focusing on a single visual design (in theory approved by the client). If you diligently design all of these parts of the Pattern Library when it comes time to make webpage mockups to show the client, all you will need to do is cut and paste. This also assumes you properly setup [Components](https://www.youtube.com/watch?v=qrsuk6zl8B8) and [Assets](https://www.youtube.com/watch?v=2BhSwGXvslc) in Adobe Xd.
 
+<div class="video-wrapper">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/H3dqF9FhMXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+[Download the Video File](https://www.dropbox.com/s/5d878rk1zcpiaep/a09-update-design-systems-pattern-libraries-and-style-guides.mp4?dl=0)
+
 ### What you will be truning in.
 - A Pattern Library in Adobe Xd containing the following:
     - All the necessary elements to build DevOps Days Baltimore.
