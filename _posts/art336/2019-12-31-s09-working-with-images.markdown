@@ -8,7 +8,7 @@ due-date: 2020-03-25
 time: "3 hours"
 points: 40
 upload-files: 
-assets: https://garyrozanc.com/students/downloads/art336-working-with-images-assets.zip
+assets: https://garyrozanc.com/students/downloads/art336-working-with-images.zip
 ---
 
 Designers love to use big hero images when designing a website. I&rsquo;m not going to debate the merits of the use of hero images—or any images for that matter—in a web page design. Images certainly have their place, but they can also cause big problems for the site&rsquo;s visitor if not done correctly.
@@ -29,12 +29,10 @@ Another content type easy to identify breakpoints for are images. When you crop 
 
 Finally, I cover performance issues such as what happens if an images takes too long to load and how to optimize your images for performance. 
 
-## Tips Before Starting
-- Download the necessary <a href="../downloads/art336-working-with-images.zip" target="_blank" title="Project image assets"> assets</a>.
+## Read Before Starting
 - Do not upload the “assets” folder that contains the high resolution .jpg files to your class web hosting account! This could cause you to get an error when visiting your hosting account that says something to the effect of “Over Storage Limit”.
 
 ### Part 01 of 07
-In part 01 you will basically <a href="../downloads/art336-working-with-images-assets.zip" target="_blank" title="Project image assets">download the necessary files</a> and use the boilerplate to setup the assignment.
 <div class="video-wrapper">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/0HW5MXmbXas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -92,7 +90,6 @@ In part 01 you will basically <a href="../downloads/art336-working-with-images-a
 - If you received between **0 points** you did not complete the assignment.
 
 ## Resources
-- The necessary <a href="../downloads/art336-working-with-images-assets.zip" target="_blank" title="Project image assets">image assets</a>.
 - <a href="http://petercollingridge.appspot.com/svg-editor" target="_blank" title="SVG Editor">SVG Editor</a>
 - <a href="https://www.webpagetest.org/" target="_blank" title="WebPagetest - Website Performance and Optimization Test">WebPagetest - Website Performance and Optimization Test</a>
 - <a href="https://imageoptim.com/mac" target="_blank" title="ImageOptim — better Save for Web">ImageOptim — better Save for Web</a>
