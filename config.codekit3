@@ -999,6 +999,22 @@
 		"oAP": "/_site/gradebook/admin-grades-submit.php",
 		"oF": 0
 		},
+	"/_site/gradebook/admin-grades-view-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/gradebook/admin-grades-view-menu.php",
+		"oF": 0
+		},
+	"/_site/gradebook/admin-grades-view.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/gradebook/admin-grades-view.php",
+		"oF": 0
+		},
 	"/_site/gradebook/admin-grades.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -1997,6 +2013,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/gradebook/admin-grades-submit.php",
+		"oF": 0
+		},
+	"/gradebook/admin-grades-view-menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/gradebook/admin-grades-view-menu.php",
+		"oF": 0
+		},
+	"/gradebook/admin-grades-view.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/gradebook/admin-grades-view.php",
 		"oF": 0
 		},
 	"/gradebook/admin-grades.php": {
