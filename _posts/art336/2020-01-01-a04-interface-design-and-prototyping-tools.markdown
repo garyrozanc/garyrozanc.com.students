@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A04: Interface Design & Prototyping Tools"
-date: 2019-02-06 09:00:00
+date: 2019-02-02
 due-date: 2020-02-10
 time: "1 hour and 20 minutes"
 points: 10

@@ -2,7 +2,7 @@
 layout: post
 categories: art336
 title: "S06: Using a FTP Client"
-date: 2019-01-27 09:00:00
+date: 2019-01-27
 time: "30 minutes"
 ---
 

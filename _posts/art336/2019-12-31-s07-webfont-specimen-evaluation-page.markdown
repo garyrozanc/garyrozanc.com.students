@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "S07: Webfont Specimen Evaluation Page"
-date: 2019-01-29 09:00:00
+date: 2019-01-27
 due-date: 2020-02-17
 time: "3 hours"
 points: 30

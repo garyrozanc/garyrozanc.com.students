@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A05: Just Enough Research"
-date: 2020-02-11 09:00:00
+date: 2019-02-02
 due-date: 2020-02-12
 time: "1 hour 30 minutes"
 points: 10

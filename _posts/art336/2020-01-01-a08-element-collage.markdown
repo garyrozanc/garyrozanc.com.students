@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A08: Element Collage"
-date: 2020-03-24 09:00:00
+date: 2019-02-02
 due-date: 2020-04-13
 time: "Class & Home Work"
 points: 70

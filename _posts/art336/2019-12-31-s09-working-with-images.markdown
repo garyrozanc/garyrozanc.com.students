@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "S09: Working With Images"
-date: 2019-01-29 09:00:00
+date: 2019-01-27
 due-date: 2020-05-18
 time: "3 hours"
 points: 40
@@ -21,11 +21,11 @@ In this series of screencasts, I demonstrate how to use HTML and CSS to embed im
 
 Another content type easy to identify breakpoints for are images. When you crop an image suitable for a wide screen you can&rsquo;t assume it still works when scaled to fit within a skinnier screen width. A good example of this is an image of President Barack Obama being sworn in. A wider version lets the viewer see Justice Kennedy, and President Obama with his family looking on. On a skinny screen the image is scaled to fit and the content _breaks_ making it hard to see details of President Obama, the original intent of the image. This is where a breakpoint can be inserted that art directs the image to be cropped into President Obama and Michelle Obama to retain detail. Another breakpoint can be added to adjust the design to further crop into President Obama.
 
-![Wide Crop - President Barak Obama Inauguration](../img/obama-inaguation.jpg)
+![Wide Crop - President Barak Obama Inauguration](../img/art336-obama-inaguation.jpg)
 
-![Medium Crop - President Barak Obama Inauguration](../img/obama-inaguation-crop-01.jpg)
+![Medium Crop - President Barak Obama Inauguration](../img/art336-obama-inaguation-crop-01.jpg)
 
-![Skinny Crop - President Barak Obama Inauguration](../img/obama-inaguation-crop-02.jpg)
+![Skinny Crop - President Barak Obama Inauguration](../img/art336-obama-inaguation-crop-02.jpg)
 
 Finally, I cover performance issues such as what happens if an images takes too long to load and how to optimize your images for performance. 
 

@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A06: Initial Client Meeting - Project Scope"
-date: 2019-02-11 09:00:00
+date: 2019-02-02
 due-date: 2020-02-17
 time: "45 minutes"
 upload-files: https://www.dropbox.com/request/mCu5JcOHuMArdOqn73l7

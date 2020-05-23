@@ -2,7 +2,7 @@
 layout: post
 categories: art336
 title: "S03: Web Tools"
-date: 2019-01-27 09:00:00
+date: 2019-01-27
 due-date: 2020-02-11
 time: "20 minutes" 
 ---

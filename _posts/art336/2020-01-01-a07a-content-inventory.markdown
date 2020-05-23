@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A07 - A: Content Inventory"
-date: 2019-02-19 09:00:00
+date: 2019-02-02
 due-date: 2020-02-27
 time: "1 Class Period"
 points: 10

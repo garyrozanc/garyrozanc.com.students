@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A02: Atomic Design & Design Systems"
-date: 2019-01-30 09:00:00
+date: 2019-02-02
 due-date: 2020-02-03
 time: "1 hour"
 points: 10

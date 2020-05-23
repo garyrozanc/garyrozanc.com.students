@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "S08: Web Typography Hierarchy Page"
-date: 2019-01-29 09:00:00
+date: 2019-01-27
 due-date: 2020-03-09
 time: "6 hours"
 points: 40
@@ -19,11 +19,9 @@ Unfortunately, the ability to use HTML and CSS to control your typographic choic
 While web typography needs both HTML and CSS to be adjusted, for learning purposes I think it&rsquo;s best to split them into separate categories that are commonly referred to as: Structure and Presentation. 
 
 ## HTML
-HTML is considered the “Structure” layer. Using HTML tags, you define specific contents of a web page so search engines and browsers know what to do with the information. For example, the <code>&lt;artcile&gt;</code> tag tells a search engine like Google that the content marked up is an article and a <code>&lt;h1&gt;</code> tag within an <code>&lt;artcile&gt;</code> tag tells the search engine the name of the article. With the advent of HTML5<sup><a href="#three" target="_blank" title="Resource Article #3">3</a>,<a href="#four" target="_blank" title="Resource Book #4">4</a></sup> there is a bevy of tags available to make certain that your web page&rsquo;s content is found in a relevant search!
+HTML is considered the “Structure” layer. Using HTML tags, you define specific contents of a web page so search engines and browsers know what to do with the information. For example, the <code>&lt;article&gt;</code> tag tells a search engine like Google that the content marked up is an article and a <code>&lt;h1&gt;</code> tag within an <code>&lt;article&gt;</code> tag tells the search engine the name of the article. With the advent of HTML5<sup><a href="#three" target="_blank" title="Resource Article #3">3</a>,<a href="#four" target="_blank" title="Resource Book #4">4</a></sup> there is a bevy of tags available to make certain that your web page&rsquo;s content is found in a relevant search!
 
 Where HTML falls short is how it typographically styles the marked up content. If you were to leave the default styling of a longer headline marked up with a <code>&lt;h3&gt;</code> tag, it could easily be mistaken for a pull quote. However, before you learn how to use CSS to change the default “Presentation”, you need to know the common HTML tags that affect the visual hierarchy of typography as well as the tag&rsquo;s contextual function in search results. This and more will be covered in-depth in the following screencasts on HTML.
-
-You will need to download these <a href="https://garyrozanc.com/students/downloads/art336-typographic-hierarchy-page.zip" target="_blank" title="Template">starter template files</a>!
 
 ### Part 01 of 19
 <div class="video-wrapper">

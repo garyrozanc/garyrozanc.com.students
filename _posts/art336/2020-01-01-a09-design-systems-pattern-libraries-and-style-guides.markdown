@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A09: Design Systems, Pattern Libraries, and Style Guides"
-date: 2019-03-24 09:00:00
+date: 2019-02-02
 due-date: 2020-05-18
 time: "Class & Home Work"
 points: 60

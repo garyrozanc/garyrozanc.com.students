@@ -3,7 +3,7 @@ layout: post
 css: assignments
 categories: art336
 title: "A11: Client Presentation"
-date: 2019-04-23 09:00:00
+date: 2019-02-02
 due-date: 2020-05-18
 time: "The rest of the semester"
 points: 50
